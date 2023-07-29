@@ -5,4 +5,3 @@
 layout: home
 collection: home
 ---
-git ad
