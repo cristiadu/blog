@@ -20,6 +20,9 @@ url: "https://blog.cristianofaustino.me"
 markdown: kramdown
 twitter_username: cristiadu
 github_username:  cristiadu
+theme: minima
+plugins:
+  - jekyll-feed
 collections:
   home:
     output: true
@@ -30,9 +33,6 @@ collections:
       My hub of multiple blogs of the most varied subjects.
     baseurl: ""
     # Build settings
-    theme: minima
-    plugins:
-      - jekyll-feed
   doltremare:
     output: true
     permalink: /doltremare/:title
@@ -40,9 +40,6 @@ collections:
     description: >-
       My creative writing blog.
     baseurl: "/doltremare"
-    theme: minima
-    plugins:
-      - jekyll-feed
   coding:
     output: true
     permalink: /coding/:title
@@ -50,6 +47,3 @@ collections:
     description: >-
       My coding blog.
     baseurl: "/coding" # the subpath of your site, e.g. /blog
-    theme: minima
-    plugins:
-      - jekyll-feed
