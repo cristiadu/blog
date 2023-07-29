@@ -21,6 +21,7 @@ markdown: kramdown
 twitter_username: cristiadu
 github_username:  cristiadu
 theme: minima
+baseurl: ""
 plugins:
   - jekyll-feed
 collections:
@@ -31,7 +32,6 @@ collections:
     email: cristiadu@gmail.com
     description: >-
       My hub of multiple blogs of the most varied subjects.
-    baseurl: ""
     # Build settings
   doltremare:
     output: true
@@ -39,11 +39,9 @@ collections:
     title: Doltremare
     description: >-
       My creative writing blog.
-    baseurl: "/doltremare"
   coding:
     output: true
     permalink: /coding/:title
     title: Coding with Chris
     description: >-
       My coding blog.
-    baseurl: "/coding" # the subpath of your site, e.g. /blog
