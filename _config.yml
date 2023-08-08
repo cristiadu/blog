@@ -20,28 +20,18 @@ url: "https://blog.cristianofaustino.me"
 markdown: kramdown
 twitter_username: cristiadu
 github_username:  cristiadu
-theme: minima
+theme: jekyll-theme-console
 baseurl: ""
 plugins:
-  - jekyll-feed
-collections:
-  home:
-    output: true
-    permalink: /:title
-    title: Cristiano's Box
-    email: cristiadu@gmail.com
-    description: >-
-      My hub of multiple blogs of the most varied subjects.
-    # Build settings
-  doltremare:
-    output: true
-    permalink: /doltremare/:title
-    title: Doltremare
-    description: >-
-      My creative writing blog.
-  coding:
-    output: true
-    permalink: /coding/:title
-    title: Coding with Chris
-    description: >-
-      My coding blog.
+  - jekyll-seo-tag
+title: Cristiano's Box
+email: cristiadu@gmail.com
+description:  My hub of multiple blogs of the most varied subjects.
+
+header_pages:
+  - index.md
+  - about.md
+
+footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+
+style: dark # dark (default) or light
