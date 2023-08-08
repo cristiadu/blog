@@ -21,7 +21,7 @@ markdown: kramdown
 twitter_username: cristiadu
 github_username:  cristiadu
 theme: jekyll-theme-console
-baseurl: ""
+baseurl: "/doltremare"
 plugins:
   - jekyll-seo-tag
 title: Cristiano's Box
