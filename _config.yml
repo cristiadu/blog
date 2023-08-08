@@ -22,7 +22,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   # Custom folders to be ignored.
-  - blogs/
+  - blogs/ # Ignore subblogs as they have their own build.
 
 header_pages:
   - index.md
