@@ -13,7 +13,7 @@ plugins:
 title: Cristiano's Box
 author: Cristiano Faustino
 email: cristiadu@gmail.com
-description:  My hub of multiple blogs of the most varied subjects.
+description: My hub of multiple blogs of the most varied subjects.
 exclude:
   - .sass-cache/
   - .jekyll-cache/

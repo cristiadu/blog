@@ -1,41 +1,39 @@
 navbar_entries:
   - title: about
     url: about
-
   - title: blog
     url: blog
-
-  - title: Cristiano's portfolio
+  - title: cristiano's portfolio
     url: https://www.cristianofaustino.me
-
 project_entries:
   - title: Doltremare
     url: doltremare
     desc: Personal blog with my own text creations, being them poems or short stories.
-
   - title: Coding
     url: coding
     desc: Some coding tutorials and helper articles I might create while working as a Software Developer.
-
 footer_entries:
-  - title: Cristiano's portfolio
+  - title: cristiano's portfolio
     url: https://www.cristianofaustino.me
   - title: twitter
     url: https://twitter.com/cristiadu
   - title: github
     url: https://github.com/cristiadu
-  - title: LinkedIn
+  - title: linkedIn
     url: https://www.linkedin.com/in/cristianofaustino/
   - title: feed
     url: feed.xml
-
 misc_entries:
-  - title: Software developer with a wide range of experiences
+  - title: Senior software developer with a wide range of experiences.
     url: false
     entries:
       - title: Specially in the web development area.
         url: false
+      - title: Languages used => Java, Kotlin, GoLang, Javascript, Python, etc.
+        url: false
   - title: Also a writer on my free time.
     url: false
   - title: I enjoy coding, games, writing and enjoying time with friends :)
+    url: false
+  - title: This hub is just an informal way of keeping track of multiple blogs I want to write.
     url: false
