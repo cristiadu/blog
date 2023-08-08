@@ -4,7 +4,6 @@
 
 layout: page
 title: Home
-category: home
 ---
 
 # Cristiano's Box
