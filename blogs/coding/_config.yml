@@ -32,9 +32,9 @@ header_pages:
   - index.md
   - about.md
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'Made by <a href="https://cristianofaustino.me/">Cristiano Faustino</a>'
 
-style: hacker # dark (default) or light
+style: dark # dark (default) or light
 
 # Custom fields
 blog: coding
