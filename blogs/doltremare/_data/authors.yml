@@ -1,0 +1,41 @@
+# /_data/authors.yml
+Cristiano Faustino:
+  name        : "Cristiano Faustino"
+  bio              : "Writes code most of the time, sometimes writes other words."
+  location         : "British Columbia, Canada"
+  email            : "cristiadu@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cristiadu@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://blog.cristianofaustino.me"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/cristiadu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cristiadu"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/cristiadu7777"
+Menina Escritora:
+  name        : "Menina Escritora"
+  location    : "Brazil"
+  bio         : "Lovely friend of mine from back in 2010, she has an amazing talent for writing poems."
+Nat Santos:
+  name        : "Nat Santos"
+  location    : "Brazil"
+  bio         : "Friend of mine from highschool that is a wonderful person and writer."
+Jessica Cristina:
+  name        : "Jessica Cristina"
+  location    : "Brazil"
+  bio         : "Jéssica is an emo friend of mine since highscool that wrote in this blog back in 2009 and 2010."
+SeeSawLife:
+  name        : "SeeSawLife"
+  bio         : "A friend of mine from highscool that wrote in this blog back in 2009."
+Bruno Vinícius:
+  name        : "Bruno Vinícius"
+  location    : "Brazil"
+  bio         : "Bruno is a friend of mine from highscool that wrote in this blog back in 2009."
