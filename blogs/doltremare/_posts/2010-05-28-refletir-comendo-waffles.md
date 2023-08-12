@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Refletir comendo waffles"

@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Viva la vida"

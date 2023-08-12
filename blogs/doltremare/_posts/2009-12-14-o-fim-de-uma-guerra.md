@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "O fim de uma guerra"

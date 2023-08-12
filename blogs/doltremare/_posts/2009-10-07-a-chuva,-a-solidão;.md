@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "A chuva, A solidão;"

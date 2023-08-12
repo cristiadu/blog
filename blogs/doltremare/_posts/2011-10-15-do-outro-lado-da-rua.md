@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Do outro lado da rua"

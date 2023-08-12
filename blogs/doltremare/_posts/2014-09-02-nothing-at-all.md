@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Nothing at all"

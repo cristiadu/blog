@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Cheirando a música, ouvindo o gosto."

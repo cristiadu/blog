@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Deixa eu te contar uma história... (parte 2)"

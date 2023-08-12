@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Sentindo na pele"

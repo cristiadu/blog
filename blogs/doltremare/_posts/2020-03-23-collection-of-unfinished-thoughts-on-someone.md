@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Collection of Unfinished Thoughts on Someone"

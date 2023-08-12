@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "começo do fim, fim do começar."

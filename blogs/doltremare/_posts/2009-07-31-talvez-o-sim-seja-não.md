@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Talvez o sim seja não"

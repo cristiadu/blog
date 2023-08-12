@@ -76,8 +76,7 @@ for entry in root.findall("{http://www.w3.org/2005/Atom}entry"):
             cleaned_content = cleaned_content.replace("</blockquote>", "\n")
 
             # Create Minimal Mistakes post front matter
-            front_matter = f"""
----
+            front_matter = f"""---
 layout: single
 title: "{title}"
 date: {published}

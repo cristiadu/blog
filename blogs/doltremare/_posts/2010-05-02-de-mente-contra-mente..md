@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "de mente contra mente."

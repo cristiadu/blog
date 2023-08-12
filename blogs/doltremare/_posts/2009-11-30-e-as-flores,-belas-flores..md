@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "E as flores, belas flores."

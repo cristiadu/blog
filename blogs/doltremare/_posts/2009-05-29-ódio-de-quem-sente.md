@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Ódio de quem sente"

@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "O reflexo do espelho"

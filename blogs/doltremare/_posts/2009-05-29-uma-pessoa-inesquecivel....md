@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Uma pessoa inesquecivel..."

@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Pessoas e a metamorfose ambulante."

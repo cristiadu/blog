@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Say hello to dad..."

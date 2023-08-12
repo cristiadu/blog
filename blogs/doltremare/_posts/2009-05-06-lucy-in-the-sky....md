@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Lucy in the sky..."

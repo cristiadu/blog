@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Quase tudo, de um nada."

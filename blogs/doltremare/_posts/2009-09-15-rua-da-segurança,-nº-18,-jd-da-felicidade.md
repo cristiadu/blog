@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Rua da Segurança, nº 18,  Jd da Felicidade"

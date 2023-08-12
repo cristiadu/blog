@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Carta de um Químico"

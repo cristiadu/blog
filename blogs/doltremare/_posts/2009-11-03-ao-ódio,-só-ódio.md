@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Ao ódio, só ódio"

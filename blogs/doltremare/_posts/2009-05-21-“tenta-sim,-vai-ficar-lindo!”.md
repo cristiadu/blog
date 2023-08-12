@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "“TENTA SIM, VAI FICAR LINDO!”"

@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "realismo sobre a vida."

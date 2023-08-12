@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Como ser expulso da Net em um mês."

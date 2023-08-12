@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Pedras no Rio"

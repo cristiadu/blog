@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: ""Homem que é homem volta atrás, mas não se arrepende de nada""

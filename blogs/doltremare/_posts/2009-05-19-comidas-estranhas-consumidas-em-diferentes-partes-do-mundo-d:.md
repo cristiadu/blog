@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Comidas estranhas consumidas em diferentes partes do mundo D:"

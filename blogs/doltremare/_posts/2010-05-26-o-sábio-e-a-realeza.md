@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "O sábio e a realeza"

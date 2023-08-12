@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "O verbo que me faz cantar"

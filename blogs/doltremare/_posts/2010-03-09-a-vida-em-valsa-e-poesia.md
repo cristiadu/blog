@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "a vida em valsa e poesia"

@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Quanto tempo das nossas vidas nós passamos..."

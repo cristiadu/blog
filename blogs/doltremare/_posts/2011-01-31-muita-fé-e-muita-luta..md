@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Muita fé e muita luta."

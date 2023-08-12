@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "O sorriso de quem perdeu"

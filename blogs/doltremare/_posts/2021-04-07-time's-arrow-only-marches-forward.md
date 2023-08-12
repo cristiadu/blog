@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Time's Arrow Only Marches Forward"

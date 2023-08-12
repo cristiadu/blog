@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "O meio da madrugada"

@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Sentir o risco"

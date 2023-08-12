@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Vejo a luz nos olhos dela"
