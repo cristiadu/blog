@@ -3,10 +3,10 @@ main:
   - title: "Blog Hub"
     url: https://blog.cristianofaustino.me
   - title: "About"
-    url: /sitemap/
+    url: /about/
   - title: "Archive"
     url: /year-archive/
   - title: "Categories"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+    url: /category-archive/
+  - title: "Tags"
+    url: /tag-archive/
