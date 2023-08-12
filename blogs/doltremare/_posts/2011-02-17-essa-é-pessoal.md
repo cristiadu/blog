@@ -16,7 +16,15 @@ Bem, eu parei de postar coisas pessoais e me dediquei apenas a textos de minha a
 
 
 
+
+
+
+
 Em meados de 2009 tudo era perfeito: Eu tinha vários amigos, conhecia novas pessoas constantemente, a escola estava perfeita, o tênis de mesa era todo dia e eu tive dois namoros, um relâmpago e outro nem tanto. Mas ainda assim eu me sentia bem quanto a tudo isso.
+
+
+
+
 
 
 
@@ -24,7 +32,15 @@ Foi aí que 2010 surgiu, e tudo desmoronou, não passei em nenhuma faculdade (pa
 
 
 
+
+
+
+
 Fazia cursinho porque não queria desistir antes de tentar de fato, eu fiz cursinho por não querer ir para uma particular, por querer seguir um sonho que algumas pessoas haviam desviado, queriam destruir. Mas sinceramente não achava em hipótese alguma que eu passaria. Pelo menos eu tentava, e queria dar motivo de orgulho para alguém, visto que no vestibular do ano anterior eu tinha decepcionado várias pessoas, que criaram expectativas sobre mim, expectativas essas que nem eu tinha, que nem eu tenho.
+
+
+
+
 
 
 
@@ -32,7 +48,15 @@ Como primeira pessoa a agradecer eu já tenho nessa época que cito, em meados d
 
 
 
+
+
+
+
 Ah sim, claro,  fui em festas, fui em baladas, fiquei só por ficar...Tudo legal e bonito, se eu estivesse bem comigo mesmo. Não me arrependo dessa parte do que fiz, mas queria ter aproveitado mais, se viessem hoje provavelmente eu aproveitaria.
+
+
+
+
 
 
 
@@ -40,7 +64,15 @@ E aquela rotina me matava, trabalho/cursinho/casa sucessivamente até os finais 
 
 
 
+
+
+
+
 E agora tenho a agradecer mais um grupo de pessoas, algumas que conheci do meio de 2010 para frente, algumas que eu já conhecia antes, e outras que conhecia só de vista: Amanda Benaglia, Murilo Januario, Vlademir Sciascio, Thomas Domingues (autor do blog, hehe) e Alex Soares. Algumas delas por risadas me ajudaram a superar, outras pelas palavras de conforto. Mas o fato é que meu 2010 se resume a vocês.
+
+
+
+
 
 
 
@@ -48,7 +80,15 @@ Fui no SWU, gritei e pulei como nunca antes, acabei com minha voz nos shows do A
 
 
 
+
+
+
+
 Dentre essas coisas eu troquei de emprego, fui trabalhar na cidade onde moro e parei de me cansar com a rotina entre três cidades, na verdade não perdi muita coisa, não era reconhecido na empresa onde trabalhei, e não culpo eles, porque eu causei uma má impressão no começo. No novo emprego agora eu era reconhecido, e bastante.
+
+
+
+
 
 
 
@@ -56,7 +96,15 @@ Fiz o ENEM, fiz a Unesp, fiz a Fuvest, fiz a Unicamp. Aquela quantidade gigantes
 
 
 
+
+
+
+
 Eis que fui fazer as segundas-fases. Unesp fui bem em humanas e mal em exatas, para um curso de exatas (Sistemas de Informação) e a Fuvest, bem...melhor não comentar. Abriu inscrições para o Sisu e no primeiro dia eu já estava lá, inscrito as 6 horas da manhã, em Ciências da Computação, na UFSCar, e xingando todo mundo que pedia o cancelamento do sistema porque não conseguia acessar, eu tentava entrar várias vezes durante o dia, e conseguia umas 7 ou 8, tanto que fiz inscrições para diversos amigos meus. Minhas notas nem eram tão boas para eu arriscar assim, mas eu resolvi mesmo assim tentar ir pra São Carlos. Cidade linda, universitária, e faculdade reconhecidíssima na minha área. Nada melhor.
+
+
+
+
 
 
 

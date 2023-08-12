@@ -17,7 +17,13 @@ Sei, como todos sabem, que algo dito no começo nada mais é que um devaneio de 
 
 
 
+
+
+
+
 Eu estou provando um pouco do que eu sentia falta, com um novo anjo, com uma nova pessoa que me faz pensar o porque eu demorei tanto para procurar esse sentimento novamente. Sei que procurei, sei que não encontrei nada que chegasse ou pudesse chegar perto do que eu sinto hoje, mas hoje sei bem que nada do que eu disser vai ser significante o suficiente para o que essa pessoa já fez meu coração sentir.
+
+
 
 
 
@@ -25,11 +31,17 @@ Sim, sorrio como se o ontem fosse mesmo passado e o amanhã fosse meu futuro sor
 
 
 
+
+
 Tentei te perpetuar em poesia, mas como posso fazer caber um coração tão valioso em um poema tão pobre? Não...prefiro dizer dentre linhas o que você me faz pensar e sentir. Sinceramente tenho receio de tudo a minha volta por ter sentido o certo na hora errada e me perdido dentre os sentimentos que tive por alguém e hoje sinto por ti, mas não me leve a mal, são receios que diminuem como o sol na vista do anoitecer, gradativamente e de uma beleza cada vez maior.
 
 
 
+
+
 Como pode um ex-poeta escrever depois de tanto tempo algo que signifique a alma que lhe faz feliz? Sua alma por si já é poesia, não precisa de palavras que a definam. Frases são poucas para você, você é romance, daqueles ingleses com dizeres bonitos de almas maravilhosas.
+
+
 
 
 

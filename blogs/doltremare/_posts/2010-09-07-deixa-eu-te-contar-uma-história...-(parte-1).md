@@ -16,7 +16,15 @@ Dizem, seguindo pelas estradas escuras do limite da alma, que a  felicidade o en
 
 
 
+
+
+
+
 Só tento me lembrar daquela terça-feira...
+
+
+
+
 
 
 
@@ -24,7 +32,15 @@ Um dia qualquer pensa você, hum...me diga, o que há de saber do que tem  por d
 
 
 
+
+
+
+
 Cabelos longos até a cintura, da cor de café recém feito na manhã (ah,  essa manhã que me segue!). Eram também dispostos de uma forma que, até  mesmo se tentassem o bagunçar em uma brincadeira qualquer, bastava uma  passada de mão dentre eles para que estivessem novamente dispostos da  forma que os vi.
+
+
+
+
 
 
 
@@ -32,7 +48,15 @@ Seu rosto formava uma espécie de morango, com sua forma igual e algumas  pequen
 
 
 
+
+
+
+
 Eu a vi enquanto caminhava de volta para minha casa, estava de mudança,  “indo embora ou chegando?”. Chegando, para minha alegria naquele dia  monótono, apenas pensei “estou tão cansado e distante hoje, amanhã  procuro o que dizer, talvez...não sei”. É, eu não sabia. E talvez não  queria realmente saber, estava sem disposição para novos desafios,  venenos, duelos, guerras...Enfim, todos esses sinônimos para  relacionamentos.
+
+
+
+
 
 
 

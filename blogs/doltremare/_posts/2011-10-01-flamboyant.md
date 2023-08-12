@@ -16,7 +16,15 @@ Ela dançava;
 
 
 
+
+
+
+
 Olhava em sua volta o vazio daquela mansão, era dela, era tudo dela, toda a riqueza que sonhara.
+
+
+
+
 
 
 
@@ -24,7 +32,15 @@ Rodopiava dentre o imenso salão, falava alto, sozinha naquela imensidão a qual
 
 
 
+
+
+
+
 Nadou, nadou como se soubesse e depois como se fosse afogar, nadou ao fundo, nadou ao topo e, enfim, parou.
+
+
+
+
 
 
 
@@ -32,7 +48,15 @@ Dessa vez não foi aperto, foi pânico: Não havia ninguém a sua volta.
 
 
 
+
+
+
+
 Refletiu que agora com aquela mansão encontraria novos amigos que quisessem compartilhar sua experiência e modos. Lembrou que odiava pessoas arrogantes e que todos os ricos que conheceu eram assim, calou-se a cantoria.
+
+
+
+
 
 
 
@@ -40,7 +64,15 @@ Agora era uma alma pobre em um corpo rico, a modéstia na forma pura dentro de u
 
 
 
+
+
+
+
 Pisou fortemente no gramado, ao lado da placa "não pise na grama", deitou no sofã de couro com os pés descalços sujos de terra. Ligou a TV: Assassinato. Morte. Enchente. Corrupção. Enchente. Morte. Ganho de loteria. Merchandising.
+
+
+
+
 
 
 
@@ -48,7 +80,15 @@ Desligou a TV, nada daquilo a fizera bem... Decidiu então respirar forte e espe
 
 
 
+
+
+
+
 Se sentiu mais pobre por um instante e dormiu no sofá sentindo-se bem com isso.
+
+
+
+
 
 
 
@@ -56,7 +96,15 @@ Acordou com toda a casa limpa e um cheiro de comida vindo da cozinha. Foi até l
 
 
 
+
+
+
+
 - Olá Sra Vitória, sou sua cozinheira, fiz salmão ao molho de maracujá. Se quiser trocar posso lhe fazer filé mignon ao molho suíço que sua mãe gostava tanto. Uma pena morrer tão cedo né?
+
+
+
+
 
 
 

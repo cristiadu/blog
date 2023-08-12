@@ -14,20 +14,38 @@ tags:
 
 Eu acredito no meu Deus, não nos seus.
 
+
+
 Acredito na minha fé, não nas suas.
+
+
 
 Não leio um livro que me diga o que fazer,
 
+
+
 não leio histórias, finjo não saber.
+
+
 
 Não entro em discussões, o melhor é se guardar,
 
+
+
 porque eu sei, dentre as paredes do meu quarto
+
+
 
 terei o meu Deus, e conversarei com ele
 
+
+
 como alguém falando consigo mesmo.
 
+
+
 Porque meu Deus, meus caros, está dentro de mim,
+
+
 
 não em qualquer religião.

@@ -16,7 +16,15 @@ Poderia filosofar...
 
 
 
+
+
+
+
 Talvez a melhor decisão do ser humano seja não se apaixonar, porém nunca se trata de uma decisão de fato, o fato é que transforma-se mais difícil a quem impõe essa decisão, na verdade nenhuma pessoa que diga "não me apaixonarei" irá demorar mais do que quem procura nova paixão. O acaso embriagado é quem move as paixões, nada lúcido transforma amizade em paixão, nada sóbrio transforma dor em prazer.
+
+
+
+
 
 
 
@@ -24,7 +32,15 @@ Mas pode-se sempre enganar um bêbado, fingir ter o que não tem, fugir do ter o
 
 
 
+
+
+
+
 Eis que então o sonho habita a alma do ser que se dizia impecável, protegido por uma cápsula branca de remédio, amante do tédio e da solidão. Não. Nem que se queira vive-se dessa maneira. A alma e a dor andam lado a lado, nem mesmo o mais belo que o dinheiro pode comprar livra-te da dor de sentir, de não querer sentir, de querer sentir mas não poder de fato sentir. E de ter que parar de sentir, nada dói mais do que isso, nenhuma cicatriz interna é tão profunda, é permanente. Nada se esquece, por fora há apenas uma projeção falha do que realmente se é um ser. Humano.
+
+
+
+
 
 
 
@@ -32,10 +48,20 @@ O mel da vida é se apaixonar, o fel também. A raiva,  a solidão, o amor, o �
 
 
 
+
+
+
+
 O bom seria não se apaixonar...
+
+
 
 Mas, que graça tem a vida sem sofrimento?
 
+
+
 O homem pensa... e introspectivamente fica calado.
+
+
 
 Não tem uma resposta...

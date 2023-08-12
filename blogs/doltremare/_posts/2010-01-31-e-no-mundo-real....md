@@ -16,7 +16,15 @@ Não há como explicar um sentimento, não há como explicar a vida se transform
 
 
 
+
+
+
+
 A infância foi jogada fora, parece que abrimos os olhos para a realidade, todas as risadas convertidas em lágrimas, todo sentimento que nos invade é tão intenso, é tão imenso e fatal, como um copo cheio de veneno bebido em um só gole. E é na dose de realidade que tomamos todos os dias, em que nos vemos divididos entre o emocional e o racional. Cada um pende para um lado.
+
+
+
+
 
 
 
@@ -24,11 +32,23 @@ O emocional nos invade, nos faz sentirmos imensamente felizes em um só instante
 
 
 
+
+
+
+
 Nossa mente, nosso racional nos mostra o que é fácil ou difícil, o que é plausível e impossível, mas nos julgamos sábios o suficiente para saber cada conseqüência de cada ato feito, não é assim, nunca foi e nunca será. O imprevisível prevalece, a realidade, o realismo humano torna jovens cheios de sentimentos e ideais em velhos conformados com uma vida sem sentimento, sem amor. Digo que seria uma vida sem vida, pois não há vida, não há a certeza de que temos algo a fazer nesse mundo, sem nos deixar sentir, nos deixar chorar, gritar, amar intensamente e sermos amados.
 
 
 
+
+
+
+
 É do amor que nasce a felicidade, mas como tolos são os emocionalmente controlados, pois se apaixonam por pessoas racionais e, apesar de não quererem se deixar sentir, os racionais se apaixonam por emocionais, por românticos. Mas a cada passo, cada barreira imposta, o romântico tem que ser o mais forte, pois não é forte quem não chora, e sim quem luta até o fim por seus sentimentos, chore, grite e sinta a dor, mas não deixe de acreditar.
+
+
+
+
 
 
 

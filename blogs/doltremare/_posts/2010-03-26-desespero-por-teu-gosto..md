@@ -13,19 +13,35 @@ tags:
 ---
 
 Minha visão estava embaçada,
+
 Seu cheiro era viciante
+
 Mesmo que eu  não me recordasse
+
 Mas tinha certeza de que se o sentisse
+
 O  reconheceria em qualquer lugar.
 
+
+
 Hoje, me lembrei do seu gosto,
+
 E  me bateu uma saudades tão grande
+
 De tudo que existia em você,
+
 Principalmente  do seu rosto
+
 Sempre fora essencial pra mim.
 
+
+
 Não sei se  posso mesmo chamar de saudades
+
 Ou se isso teria outro nome,
+
 Talvez  esperança - ainda -
+
 Talvez desespero, mas
+
 Acho que ainda  prefiro saudades.

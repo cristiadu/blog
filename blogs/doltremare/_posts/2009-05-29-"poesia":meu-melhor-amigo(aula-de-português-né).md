@@ -13,15 +13,27 @@ tags:
 ---
 
 "O que dizer de ti?
+
  Quero sempre você aqui.
 
+
+
  Tu es minha esperança,
+
  Parece criança,
+
  Me abraça e dança.
 
+
+
  Não esqueço jamais,
+
  Tudo de bom que você me faz,
+
  TE AMO DEMAIS"
+
+
+
 
 
 fiz na aula de português fico fofo apesar de pequeno....

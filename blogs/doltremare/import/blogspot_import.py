@@ -36,6 +36,7 @@ for entry in root.findall("{http://www.w3.org/2005/Atom}entry"):
             cleaned_content = str(soup)
 
             # Convert HTML formatting to Markdown
+            cleaned_content = cleaned_content.replace("\n", "\n\n")
             cleaned_content = cleaned_content.replace("<h1>", "# ")
             cleaned_content = cleaned_content.replace("<h1>", "# ")
             cleaned_content = cleaned_content.replace("<h2>", "## ")
@@ -61,7 +62,7 @@ for entry in root.findall("{http://www.w3.org/2005/Atom}entry"):
             cleaned_content = cleaned_content.replace("<ul>", "")
             cleaned_content = cleaned_content.replace("</ul>", "")
             cleaned_content = cleaned_content.replace("<li>", "- ")
-            cleaned_content = cleaned_content.replace("</li>", "\n")
+            cleaned_content = cleaned_content.replace("</li>", "\n\n")
             cleaned_content = cleaned_content.replace('<div class="MsoNormal">', "")       
             cleaned_content = cleaned_content.replace('<div style="text-align: left;">', "")
             cleaned_content = cleaned_content.replace('<div style="text-align: center;">', "")       
@@ -69,11 +70,11 @@ for entry in root.findall("{http://www.w3.org/2005/Atom}entry"):
             cleaned_content = cleaned_content.replace("</div>", "\n")
             cleaned_content = cleaned_content.replace("<p>", "")
             cleaned_content = cleaned_content.replace('<p style="text-align: center;">', "")
-            cleaned_content = cleaned_content.replace("</p>", "\n")
-            cleaned_content = cleaned_content.replace("<br>", "\n")
-            cleaned_content = cleaned_content.replace("<br/>", "\n")
+            cleaned_content = cleaned_content.replace("</p>", "\n\n")
+            cleaned_content = cleaned_content.replace("<br>", "\n\n")
+            cleaned_content = cleaned_content.replace("<br/>", "\n\n")
             cleaned_content = cleaned_content.replace("<blockquote>", "> ")
-            cleaned_content = cleaned_content.replace("</blockquote>", "\n")
+            cleaned_content = cleaned_content.replace("</blockquote>", "\n\n")
 
             # Create Minimal Mistakes post front matter
             front_matter = f"""---

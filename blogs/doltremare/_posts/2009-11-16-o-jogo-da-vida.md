@@ -16,7 +16,15 @@ A destruição está chegando, a passos curtos, como alguém caminhando aleatori
 
 
 
+
+
+
+
 E ele se fantasia de inutilidade, beija os lábios sombrios de uma frustração sem limites, tua amante está ali, tua esposa é a tristeza...que traída se sente na obrigação de se mostrar mais forte dentro de todo esse teatro, mas onde está mesmo a distração?Tentando mostrar-se por um tempo, ela está no time da esperança..é a mais forte do time nesse momento tão pertubado.Mas o time da depressão está ganhando de 2 a 0, e não há mais prorrogação, 2º tempo ou penalidades. E nenhum juiz para mudar o rumo do jogo, está acabado, declarado o campeão.
+
+
+
+
 
 
 
@@ -24,7 +32,15 @@ Mas espere!O que é aquele outro caminho, aquele outro fio de esperança caminha
 
 
 
+
+
+
+
 O sonho renasce numa forma mais modesta, mas ao mesmo tempo esperançosa...o jogo continua empatado, mas se encaminha para uma vitória daquela luz...aquele fio de luz aparecendo no fim do bosque escuro onde se formou toda a guerra, estamos quase lá...falta pouco, e a confiança diz 'se for para o bem de todos e felicidade geral da nação, diga ao povo que eu fico!', contrariando a oposição e acirrando mais ainda a possivel prorrogação.Rolem os dados.
+
+
+
+
 
 
 

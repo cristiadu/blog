@@ -14,54 +14,106 @@ tags:
 
 Aonde estiver o sentimento de tristeza, desilusão
 
+
+
 que passe longe, longe de onde estarei
+
+
 
 e de com quem estarei
 
+
+
 e se estarei
 
+
+
 estará
+
+
 
 é...
 
 
 
+
+
+
+
 E a felicidade, néctar doce de um prazer imenso
+
+
 
 que chegue perto, se aconchegue por aqui
 
+
+
 e dance conforme a música vos pedir
+
+
 
 e que aqueça a mim e a você
 
+
+
 e sorri, e sorri
+
+
 
 sim.
 
 
 
+
+
+
+
 Assim que o dia escurecer e a lua vir nos cumprimentar
+
+
 
 possamos olhar pra cima com um brilho no olhar
 
+
+
 possamos dizer que tudo valeu a pena
+
+
 
 e diriamos, não há mais o problema
 
+
+
 e sim a solução
+
+
 
 não.
 
 
 
+
+
+
+
 Incondicional, irrevogável e intransigente
+
+
 
 ignorante, preguiçoso, indiferente
 
+
+
 rude, agressivo e inconsequente
+
+
 
 diferente, diferente
 
+
+
 da gente
+
+
 
 original.

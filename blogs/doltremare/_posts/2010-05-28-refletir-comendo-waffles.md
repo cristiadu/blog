@@ -16,7 +16,15 @@ Enfim, é com muito orgulho, um pouco atrasado, e com muito trabalho (criativo,d
 
 
 
+
+
+
+
 O Flefletindo começou em uma brincadeira e uma pequena idéia de blog para textos (não exatamente poéticos) e conteúdos diversos. A brincadeira no caso traz o nome ao blog, que veio justamente em uma conversa de msn, após um erro de digitaçãoda Nathália Santos (que já foi autora do blog também), da palavra refletir que saiu como "flefletir". A partir daí, nessa mesma conversa decidimos criar um significado para o verbo refletir, surgiu então o 'refletir comendo waffles', uma insanidade e, de certa forma, um significado interessante para essa palavra.
+
+
+
+
 
 
 
@@ -24,7 +32,15 @@ O blog surgiu no dia 03/05/2009, com postagens satíricas e algumas inúteis (qu
 
 
 
+
+
+
+
 Vários autores já passaram por aqui (digo vários porque em um blog que quase não tem comentários passar 7 autores, é de certa forma uma grande quantidade), dentre melancólicos e otimistas, simplistas e enigmáticos...todos escreviam de formas diferentes. O que é atualmente a idéia da reformulação do blog.
+
+
+
+
 
 
 
@@ -32,7 +48,15 @@ Tal reformulação consiste no seguinte:
 
 
 
+
+
+
+
 Primeiramente novos autores farão parte daqui, por enquanto nosso blog consiste de 4 autores, porém só dois escrevem <strike>periodicamente</strike> (na verdade não exatamente periodicamente, mas assim será daqui pra frente), todos os autores farão poesias/prosas de modos diferentes, não como uma imposição, mas porque são autores que escrevem diferentemente entre si. Os autores que já não postam nada a algum tempo serão retirados do blog para a entrada de novos, no caso uma autora está de certa forma confirmada, faltando apenas ajeitar corretamente o Flefletindo.
+
+
+
+
 
 
 
@@ -40,11 +64,23 @@ Após acertarmos os autores, as datas de postagem não terão uma regra no senti
 
 
 
+
+
+
+
 Por último teremos que divulgá-lo, temos poucos comentários pois de certa forma o blog nunca foi bem divulgado, sempre apenas em formas convencionais como twitter pessoal, orkut pessoal ou mesmo MSN pessoal, isso trás uma certa quantidade de leitores, porém não temos como saber, caso não tenhamos comentários. Seria o caso de procurar grupos de discussão de poesia e divulgar o blog lá, ou no caso fazer parceria com outros blogs (entrariamos na publicidade, mas possivelmente essa será a ultima maneira a se tentar, o blog continua não tendo interesse comercial).
 
 
 
+
+
+
+
 Creio que essas maneiras farão do Flefletindo um blog mais visitado e com bom conteúdo.
+
+
+
+
 
 
 

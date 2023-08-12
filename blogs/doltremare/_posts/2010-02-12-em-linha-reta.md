@@ -14,7 +14,13 @@ tags:
 
 Pegue...
 
+
+
 Não solte agora, segure com firmeza mas não chore, não chore.Esmague seu coração, destrua todo sentimento ainda existente nele, pise se for possível, o deixe de lado, não importa se houve passado, não há mais. Não ligue mais.
+
+
+
+
 
 
 
@@ -22,7 +28,15 @@ Levante a cabeça, nenhuma pessoa desse mundo vale a sua tristeza, nenhuma pesso
 
 
 
+
+
+
+
 Odeie, não se sinta mal em odiar, você não é feito de ferro para amar quem lhe deu uma pancada pelas costas, você não consegue amar ou perdoar tal erro, tal desilusão. Mas aprenda, mesmo que o erro não tenha sido seu, quem sofreu com ele foi você, quem vai o sentir ao pensar nos momentos sozinhos é você, não quem errou.
+
+
+
+
 
 
 
@@ -30,10 +44,20 @@ Se divirta, saia, tenha amigos, aprenda principalmente a NUNCA substituir seus a
 
 
 
+
+
+
+
 Ouça música, a música será a única companheira de seus sentimentos, grite, cante e chore ouvindo música, mas não a transponha na realidade, NÃO RELEMBRE O PASSADO, pois o que está nele já não existe mais, foi tudo uma grande mentira. A mentira mais bem contada que você já viu.
 
 
 
+
+
+
+
 Seja você, seja quem você é.
+
+
 
 Pois o amor não dura para sempre, mas o sofrimento sim.

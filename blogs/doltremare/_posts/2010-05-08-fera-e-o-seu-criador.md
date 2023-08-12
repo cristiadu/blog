@@ -14,20 +14,38 @@ tags:
 
 A mente errada, a mente errando
 
+
+
 coração ainda ferido,exalando ódio.
+
+
 
 Sim, ódio do que antes fora amado.
 
+
+
 Mas o que seria o ódio, 
+
+
 
 senão o amante do amor?
 
 
 
+
+
+
+
 Jamais hei de perdoar, pois
+
+
 
 qual flor de subito amor,
 
+
+
 qual fera causadora da dor
+
+
 
 há de perdoar o seu criador?

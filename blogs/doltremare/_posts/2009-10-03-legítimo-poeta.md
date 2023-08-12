@@ -15,16 +15,28 @@ tags:
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">Acordo de manhã
 
 
+
+
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">Vejo luzes sorrindo
+
+
 
 
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">o céu se partindo
 
 
+
+
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">e o vento rugir.
 
 
+
+
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">e a vida só...
+
+
+
+
 
 
 
@@ -33,7 +45,15 @@ Assim escrevia Lúcio, aprendiz de poeta, gostava tanto de escrever que em sua c
 
 
 
+
+
+
+
 Nunca achou que escrevia bem, se cobrava constantemente e para ele seus poemas eram todos lixos de um eterno iniciante, nunca se dava por satisfeito. Garotas, amigos e famliares diziam que ele escrevia muito bem, que um dia iria ser um grande poeta, como fora Carlos Drummond de Andrade, seu eterno ídolo, mas para Lúcio, sempre havia uma pedra no meio do caminho.
+
+
+
+
 
 
 
@@ -41,26 +61,48 @@ No meio do caminho havia uma pedra, mas o garoto não a tirava, caminhava a busc
 
 
 
+
+
+
+
 Mandou então a uma editora, o texto que ele achava o melhor que já havia escrito, a editora não achou isso...ele mandou então um que não gostara e recebeu logo depois uma proposta de contrato para a elaboração de um livro de prosas poéticas. Lúcio se indignou e disse não...
+
+
+
+
 
 
 
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">...vê
 
 
+
+
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">o tempo passar e ir embora
+
+
 
 
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">dança em passos largos
 
 
+
+
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">e sarcasticamente sorri
+
+
 
 
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">pra que esperar o tempo
 
 
+
+
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">se o agora está aqui?
+
+
+
+
 
 
 
@@ -69,40 +111,72 @@ Tua namorada achou tal ato ridículo, terminou o namoro de 5 anos naquele mesmo 
 
 
 
+
+
+
+
 Viveu toda sua vida procurando o poema perfeito, toda sua existência procurando quem o entendesse, quem gostasse do que ele gostava.Mal sabia ele que a vida nunca foi assim, nunca será...temos que nos acostumar em nem sempre ganhar, em aceitar que gostem do que não gostamos, e ele precisava urgentemente de dinheiro, e tinha capacidade para ganhá-lo, mas imbecilidade o suficiente para não aceitá-lo.Não sabia o que fizera de tua vida, o promissor poeta agora era um  homem velho e sem criatividade, não evoluiu.
 
+
+
 <span style="font-size: small;">
+
+
+
+
 
 
 
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">E o tempo, com raiva responde
 
 
+
+
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">Vida, o que te espera
+
+
 
 
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">se rápido eu for longe
 
 
+
+
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">se rápido você passar
+
+
 
 
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">é nada mais que tristeza
 
 
+
+
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">e um pouco de solidão
+
+
 
 
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">porque na hora da morte
 
 
+
+
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">verás, nada fez de tua sorte
+
+
 
 
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">verás que nada há, não
 
 
+
+
 <div style="font-family: Verdana,sans-serif;"><span style="font-size: small;">de te querer, te esperar.
+
+
+
+
 
 
 
@@ -111,7 +185,13 @@ Morreu aos 85 anos, sem nenhum dinheiro no bolso, nem a aposentadoria, vivera to
 
 
 
+
+
+
+
 <div style="font-family: Verdana,sans-serif;">E nada há de amar...
+
+
 
 
 <span style="font-family: Verdana,sans-serif;">nada há de amar...

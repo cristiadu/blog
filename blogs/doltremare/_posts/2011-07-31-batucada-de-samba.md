@@ -14,50 +14,98 @@ tags:
 
 Querer o que,
 
+
+
 querer quem mais.
+
+
 
 A vida leva,
 
+
+
 a vida volta,
+
+
 
 a maré dá voltas.
 
 
 
+
+
+
+
 Sentir tua alma,
+
+
 
 querer tua calma.
 
+
+
 Ah, musica da selva,
+
+
 
 me leva, me leva...
 
 
 
+
+
+
+
 Em um só ritmo,
+
+
 
 uma pequena batucada,
 
+
+
 a flor desaflorada
+
+
 
 do dia que já foi,
 
+
+
 Como se fosse hoje
 
+
+
 o dia da alegria,
+
+
 
 da morte, da dor.
 
 
 
+
+
+
+
 Enquanto estiver nessa roda de samba
+
+
 
 vou fechar os olhos e dançar,
 
+
+
 fechar os olhos e dançar,
+
+
 
 sentir a musica e gostar,
 
+
+
 sorrir, apenas a sambar...
+
+
 
 Até anoitecer.

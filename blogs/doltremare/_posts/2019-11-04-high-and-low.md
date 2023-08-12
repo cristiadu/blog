@@ -16,7 +16,15 @@ The man wakes up.
 
 
 
+
+
+
+
 He expects the bright morning to tell him something, a date, a reason to get up, a smile lost in the deep parts of his mind. He cannot find anything.
+
+
+
+
 
 
 
@@ -24,7 +32,15 @@ He gets high to avoid his low, he gets low and prevent his highs. Nothing seems 
 
 
 
+
+
+
+
 But that is just a map, and worse, just a picture of it printed out on those older matrix printers, making huge noises while printing. The map is not the man, nor it is the territory. He should just use a different map.
+
+
+
+
 
 
 
@@ -32,7 +48,15 @@ He takes a sip on his coffee. All of those metaphors making him feel lost on tha
 
 
 
+
+
+
+
 - How can you change when you spent your whole life using your wrong, incomplete and torn off map? - He asks himself.
+
+
+
+
 
 
 
@@ -40,11 +64,23 @@ The man doesn't know.
 
 
 
+
+
+
+
 Goes back to his place, finding himself in between the rain and the really confusing dark clouds. "That's progress!", the man tells himself, but hardly believing it.
 
 
 
+
+
+
+
 He eats, the food doesn't taste like anything. He watches, the distraction helps at first, but he gets bored before the night ends. His demons make their daily appearance. He lies in bed.
+
+
+
+
 
 
 

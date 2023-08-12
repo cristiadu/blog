@@ -13,12 +13,21 @@ tags:
 ---
 
 Mata-me
+
 Com teu doce veneno
+
 Que escorre dos lábios
+
 Disfarçados de
+
 Tempero...
 
+
+
 E entra por dentro das veias...
+
 Por dentro da minha circulaçao nervosa
+
 E faz-me estremecer de dor,
+
 prazer...

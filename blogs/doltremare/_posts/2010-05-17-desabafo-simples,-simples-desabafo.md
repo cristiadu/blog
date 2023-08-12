@@ -16,7 +16,15 @@ tags:
 
 
 
+
+
+
+
 Se não me encontro em meus sonhos, em meus caminhos, se não choro mais ou digo e faço coisas sem sentido...não é porque não ligo, não é porque sou indeciso, mas de mim, das minhas certezas absolutas nada sobrou, eu quis sonhar, eu quis viver de um sonho e todo ele desmoronou-se na minha frente. Além da arte de decepcionar pessoas, da qual estou me tornando basicamente um Michelangelo ou um Leonardo da Vinci, na lógica de meus pensamentos sem lógica. 
+
+
+
+
 
 
 
@@ -24,7 +32,15 @@ Não é romantismo, mas também não é realismo. Se trata da confusão de uma m
 
 
 
+
+
+
+
 E dentre toda essa confusão de corpo, mente e coração aqui estou...me servindo de meu próprio pilar, me apegando ao fútil e desnecessário, brigando contra tudo o que eu acreditava anteriormente. E novamente com medos, os meus medos...a minha insegurança. A falta de acreditar em mim mesmo.
+
+
+
+
 
 
 
