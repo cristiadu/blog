@@ -9,7 +9,7 @@ home_dir=$(pwd)
 for d in blogs/*/ ; do
     # For each subdirectory of `<repository>/blogs` do the following:
     echo "=> Building Blog: '$d'"
-    pushd $home_dir/$d
+    cd $home_dir/$d
     bundle install
     # Basically, build subblogs individually so themes and custom layouts are applied
     # And set the build destination to <repository>/_site for gh-pages deployment.
