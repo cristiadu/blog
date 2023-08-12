@@ -26,8 +26,7 @@ plugins:
   - jekyll-seo-tag
 title: Cristiano's Box
 email: cristiadu@gmail.com
-description:  My hub of multiple blogs of the most varied subjects.
-
+description:  My blog about coding.
 header_pages:
   - index.md
   - about.md

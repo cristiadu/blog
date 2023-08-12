@@ -1,13 +1,15 @@
 ---
 layout: post
-title: About
+title: About Me
 permalink: /about/
 ---
 Hi, my name is Cristiano (:
 
 Professionally speaking, that's my description:
 ```
-I have, 31 years old, born in Brazil, and currently living in Victoria, British Columbia, Canada. Highly passionate professional who thrives on working with challenges using technology, particularly through lines of code and logical reasoning. 
+I have, 31 years old, born in Brazil, and currently living in Victoria, British Columbia, Canada. 
+
+Highly passionate professional who thrives on working with challenges using technology, particularly through lines of code and logical reasoning. 
 
 With proficiency in Fullstack Web Development, Quality Assurance, and Software Architecture, backed by over 10 years of experience, I possess a strong foundation in these areas.
 
