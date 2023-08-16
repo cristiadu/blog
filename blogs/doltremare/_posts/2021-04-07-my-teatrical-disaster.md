@@ -11,8 +11,7 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
-
- My head goes places.
+My head goes places.
 
 It rounds on itself,
 
@@ -82,11 +81,8 @@ and what is not.
 
 
 
-
-
 But in the meantime,
 
 my mind goes places
 
 I rather forget.
-

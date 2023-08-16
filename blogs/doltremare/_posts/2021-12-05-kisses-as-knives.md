@@ -11,8 +11,7 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
-
- A man wakes up, and the day is grey;
+A man wakes up, and the day is grey;
 
 the sky is grey, his eyes are grey, his hair is grey,
 
@@ -69,8 +68,3 @@ He doesn't know.
 But he wants it to be true someday.
 
 He needs it to be true someday.
-
-
-
-
-

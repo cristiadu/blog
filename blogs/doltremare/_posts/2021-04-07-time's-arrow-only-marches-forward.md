@@ -11,8 +11,7 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
-
- It's not art if it just comes out of fear is it?
+It's not art if it just comes out of fear is it?
 
 It's just the demons speaking.
 
@@ -69,4 +68,3 @@ another round for the fighter.
 It's yet another instance
 
 where feeling lost meets the writer.
-

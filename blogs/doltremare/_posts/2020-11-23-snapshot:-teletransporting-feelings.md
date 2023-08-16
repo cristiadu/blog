@@ -11,7 +11,6 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
-
 He wakes up, looks ahead while slowly opening his child eyes.
 
 He slept in the couch again. It's 9:30pm.
@@ -59,4 +58,3 @@ No one answers. He looks in the clock, still 10pm. 
 Turns on the TV.
 
 Endscene.
-

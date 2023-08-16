@@ -11,7 +11,6 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
-
 Lately the nights have an added sparkle,
 
 like you could, with your smile,
@@ -19,8 +18,6 @@ like you could, with your smile,
 just brighten a whole townhouse.
 
 Clean energy for everyone around you.
-
-
 
 
 
@@ -34,8 +31,6 @@ Believing more that the future carries good things.
 
 
 
-
-
 I think I can put you to a fault;
 
 blame you, scold you, hold you in court.
@@ -43,8 +38,6 @@ blame you, scold you, hold you in court.
 You; the one that makes me feel again
 
 right when I thought it was all in vain.
-
-
 
 
 
@@ -58,8 +51,6 @@ Yes, I miss you, and it has been only one week.
 
 
 
-
-
 I just want to enjoy every moment
 
 of my weakness in falling 
@@ -69,8 +60,3 @@ over, and over again,
 strongly, what a shame,
 
 for you.
-
-
-
-
-

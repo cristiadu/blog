@@ -11,7 +11,6 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
-
 Words cannot describe how this is happening in my head.
 
 How the silence of the voice doesn't tell how crowded the mind is.
@@ -89,8 +88,3 @@ Where is the joy when you can't agree with yourself?
 I just honestly wish...
 
 I was someone else.
-
-
-
-
-
