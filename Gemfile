@@ -22,7 +22,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15.0"
   gem "jekyll-soopr-seo-tag", "~> 2.7.3"
   gem "rouge", "~> 3.23.0"
-  gem "webrick", "~> 1.7"
+  gem "webrick", "~> 1.8"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
