@@ -95,4 +95,4 @@ Tambien servem ratões do banhado (ratazanas).
 
 Os chineses também comiam pintos de macaco. Foi uma das delícias da  [cozinha](http://www.mdig.com.br/index.php?itemid=4879#) imperial chinesa durante a dinastia Qing (1644 - 1912).</p><p style="font-style: italic;" align="justify"></span><span style="color: rgb(102, 0, 204);">O.o</p><p style="font-style: italic;" align="justify"></span><span style="color: rgb(102, 0, 204);">será que ninguém ficaria grávido com o esperma de peixe? >.
 
-  </span></p>
+</span></p>

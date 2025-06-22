@@ -74,4 +74,5 @@ Bom, vou postar aqui porque acho que foi meu ápice de criatividade e sentimento
 
 Só pra ti mesmo.
 
-</span><span style="color: rgb(255, 0, 0); font-weight: bold; font-family: courier new;"></span>
+</span><span style="color: rgb(255, 0, 0); font-weight: bold; font-family: courier new;">
+</span>

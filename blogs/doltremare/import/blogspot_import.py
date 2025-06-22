@@ -68,20 +68,44 @@ def handle_images_and_links(content):
 
 
 def close_tags_properly(content):
-    """Close any unclosed <span> and <p> tags at the end."""
-    # Count opening and closing tags
-    open_spans = len(re.findall(r'<span[^>]*>', content))
-    close_spans = len(re.findall(r'</span>', content))
-    open_ps = len(re.findall(r'<p[^>]*>', content))
-    close_ps = len(re.findall(r'</p>', content))
+    """Close any unclosed <span> and <p> tags before opening new ones."""
+    # Split content into lines to process tag by tag
+    lines = content.split('\n')
+    result_lines = []
+    open_spans = 0
+    open_ps = 0
     
-    # Add missing closing tags
-    for _ in range(open_spans - close_spans):
-        content += '</span>'
-    for _ in range(open_ps - close_ps):
-        content += '</p>'
+    for line in lines:
+        # Count opening and closing tags in this line
+        span_opens = len(re.findall(r'<span[^>]*>', line))
+        span_closes = len(re.findall(r'</span>', line))
+        p_opens = len(re.findall(r'<p[^>]*>', line))
+        p_closes = len(re.findall(r'</p>', line))
+        
+        # If we're opening a new span and there's already an open span, close it first
+        if span_opens > 0 and open_spans > 0:
+            result_lines.append('</span>' * open_spans)
+            open_spans = 0
+        
+        # If we're opening a new p and there's already an open p, close it first
+        if p_opens > 0 and open_ps > 0:
+            result_lines.append('</p>' * open_ps)
+            open_ps = 0
+        
+        # Add the current line
+        result_lines.append(line)
+        
+        # Update counters
+        open_spans += span_opens - span_closes
+        open_ps += p_opens - p_closes
     
-    return content
+    # Close any remaining open tags at the end
+    if open_spans > 0:
+        result_lines.append('</span>' * open_spans)
+    if open_ps > 0:
+        result_lines.append('</p>' * open_ps)
+    
+    return '\n'.join(result_lines)
 
 
 def convert_html_to_markdown(html_content):

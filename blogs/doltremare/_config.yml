@@ -186,6 +186,7 @@ kramdown:
   html_entity_output: as_char
   parse_block_html: true
   parse_span_html: true
+  html_to_native: true
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
