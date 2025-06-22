@@ -18,42 +18,42 @@ Não há como saber de que maneira isso acontece, mas sente-se a extrema necessi
 
 <span style="font-style: italic;">I've never felt this way before
 
-</span><span style="font-style: italic;"> Everything that I do, reminds me of you
+<span style="font-style: italic;"> Everything that I do, reminds me of you
 
-</span><span style="font-size:85%;">(Avril Lavigne - When you're gone)
+<span style="font-size:85%;">(Avril Lavigne - When you're gone)
 
-</span><span style="font-style: italic;">You look so beautiful today
+<span style="font-style: italic;">You look so beautiful today
 
-</span><span style="font-style: italic;"> It's like every time I turn around, I see your face
+<span style="font-style: italic;"> It's like every time I turn around, I see your face
 
-</span><span style="font-style: italic;"> The thing I miss the most is waking up next you
+<span style="font-style: italic;"> The thing I miss the most is waking up next you
 
-</span><span style="font-style: italic;"> When I look into your eyes, man, I wish that I could stay
+<span style="font-style: italic;"> When I look into your eyes, man, I wish that I could stay
 
-</span><span style="font-size:85%;">(Simple Plan - I can wait forever)
+<span style="font-size:85%;">(Simple Plan - I can wait forever)
 
-</span><span style="font-style: italic;">And all I can taste is this moment
+<span style="font-style: italic;">And all I can taste is this moment
 
-</span><span style="font-style: italic;"> And all I can breathe is your life
+<span style="font-style: italic;"> And all I can breathe is your life
 
-</span><span style="font-size:85%;">(Goo Goo Dolls - Iris)
+<span style="font-size:85%;">(Goo Goo Dolls - Iris)
 
-</span><span style="font-style: italic;">And you and I are meant to be
+<span style="font-style: italic;">And you and I are meant to be
 
-</span><span style="font-style: italic;"> So even if the world falls down today
+<span style="font-style: italic;"> So even if the world falls down today
 
-</span><span style="font-style: italic;"> You still got me to hold you up
+<span style="font-style: italic;"> You still got me to hold you up
 
-</span><span style="font-style: italic;"> And I would never let you down
+<span style="font-style: italic;"> And I would never let you down
 
-</span><span style="font-size:85%;">(The Veronicas - Untouched)
+<span style="font-size:85%;">(The Veronicas - Untouched)
 
-</span><span style="font-style: italic;">I'm screaming 'I love you so'
+<span style="font-style: italic;">I'm screaming 'I love you so'
 
-</span><span style="font-style: italic;">But my troughts you can't decode
+<span style="font-style: italic;">But my troughts you can't decode
 
-</span><span style="font-size:85%;">(Paramore - Decode)
+<span style="font-size:85%;">(Paramore - Decode)
 
 E apaixonadamente fecho esse post, que serviu de declaração a única pessoa que tenho tal sentimento que falei, e ela sabe muito bem que é ela.
 
-Te amo, demais.</span>
+Te amo, demais.

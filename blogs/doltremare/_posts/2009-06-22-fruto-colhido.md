@@ -38,4 +38,4 @@ Apaixonando-me, qual fruto eu colho?
 
 Sem mais (:
 
-<span style="color: rgb(255, 204, 204);">s2</span>
+<span style="color: rgb(255, 204, 204);">s2

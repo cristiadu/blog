@@ -16,33 +16,33 @@ Farei um post sobre essa banda que tô começando a curtir, tem letras muito bem
 
 Aí vai algumas partes de letras deles:
 
-<span style="font-weight: bold;"></span><span style="font-weight: bold;"></span><span style="font-weight: bold;">You're the storm
+<span style="font-weight: bold;"><span style="font-weight: bold;"><span style="font-weight: bold;">You're the storm
 
 ...
 
-</span><span>And if you want me, i’m your country
+<span>And if you want me, i’m your country
 
-</span><span>  If you win me i’m forever, oh yeah
+<span>  If you win me i’m forever, oh yeah
 
-</span><span>Cause you’re the storm that i've been needing
+<span>Cause you’re the storm that i've been needing
 
-</span><span>  And all this peace has been deceiving
+<span>  And all this peace has been deceiving
 
-</span><span>  I need some wind to get me sailing
+<span>  I need some wind to get me sailing
 
-</span><span>  So it’s the storm that i believe in
+<span>  So it’s the storm that i believe in
 
-</span><span style="color: rgb(255, 0, 0);">Tradução
+<span style="color: rgb(255, 0, 0);">Tradução
 
-</span><span style="font-weight: bold;"></span><span style="font-weight: bold;">Você é a tempestade
+<span style="font-weight: bold;"><span style="font-weight: bold;">Você é a tempestade
 
 ...
 
-</span><span>E, se você me quiser, serei seu país
+<span>E, se você me quiser, serei seu país
 
  Se me ganhar, serei para sempre ...
 
-</span><span>Pois você é a tempestade que eu preciso
+<span>Pois você é a tempestade que eu preciso
 
  Toda essa paz tem sido decepcionante
 
@@ -50,30 +50,30 @@ Aí vai algumas partes de letras deles:
 
  Mas é nesta tempestade que eu acredito!
 
-</span><span style="font-weight: bold;"></span><span style="font-weight: bold;"></span><span style="font-weight: bold;">No Sleep
+<span style="font-weight: bold;"><span style="font-weight: bold;"><span style="font-weight: bold;">No Sleep
 
 ...
 
-</span><span>But if I had one wish fulfilled tonight
+<span>But if I had one wish fulfilled tonight
 
-</span><span>  I'd ask for the sun to never rise
+<span>  I'd ask for the sun to never rise
 
-</span><span>  If God passed a mic to me to speak
+<span>  If God passed a mic to me to speak
 
-</span><span>  I'd say stay in bed, world
+<span>  I'd say stay in bed, world
 
-</span><span>  Sleep in peace</span><span>
+<span>  Sleep in peace<span>
 
-</span><span style="color: rgb(255, 0, 0);">Tradução
+<span style="color: rgb(255, 0, 0);">Tradução
 
-</span><span>
-</span><span>
+<span>
+<span>
 
-</span><span style="font-weight: bold;"></span><span></span><span style="font-weight: bold;">Não dormir
+<span style="font-weight: bold;"><span><span style="font-weight: bold;">Não dormir
 
 ...
 
-</span><span>Mas se eu tivesse um desejo realizado essa noite
+<span>Mas se eu tivesse um desejo realizado essa noite
 
  Eu pediria para o sol nunca nascer
 
@@ -83,59 +83,59 @@ Aí vai algumas partes de letras deles:
 
  Durma em paz
 
-</span><span style="font-weight: bold;"></span><span style="font-weight: bold;">Couldn't Care Less
+<span style="font-weight: bold;"><span style="font-weight: bold;">Couldn't Care Less
 
-</span><span>But you couldn’t care less
+<span>But you couldn’t care less
 
-</span><span>  Could you
+<span>  Could you
 
-</span><span>  Your face don’t look like before
+<span>  Your face don’t look like before
 
-</span><span>  It’s really not like yours anymore
+<span>  It’s really not like yours anymore
 
-</span><span>  Your eyes don’t like me no more
+<span>  Your eyes don’t like me no more
 
-</span><span>  They quiver and they shift to the floor
+<span>  They quiver and they shift to the floor
 
-</span><span>  My heart don’t beat like before
+<span>  My heart don’t beat like before
 
-</span><span>  It’s never been this lone
+<span>  It’s never been this lone
 
-</span><span>  No my blood don’t flow anymore
+<span>  No my blood don’t flow anymore
 
 ...
 
-</span><span>Baby let’s stop and sleep for a spare
+<span>Baby let’s stop and sleep for a spare
 
-</span><span>  We can turn this stitch into a ware
+<span>  We can turn this stitch into a ware
 
-</span><span>  And send that old devil back to hell
+<span>  And send that old devil back to hell
 
-</span><span>  Your back’s not straight like before
+<span>  Your back’s not straight like before
 
-</span><span>  You really shouldn’t care in me no more
+<span>  You really shouldn’t care in me no more
 
-</span><span>  I’m much too heavy for you
+<span>  I’m much too heavy for you
 
-</span><span>  I’m really quite a mess, yes
+<span>  I’m really quite a mess, yes
 
-</span><span>  We just don’t care anymore
+<span>  We just don’t care anymore
 
-</span><span>  We’re cricket and were cut to the core
+<span>  We’re cricket and were cut to the core
 
-</span><span>  We’re just not there anymore
+<span>  We’re just not there anymore
 
-</span><span>  But we really don’t care do we
+<span>  But we really don’t care do we
 
-</span><span>  No, we couldn’t care less
+<span>  No, we couldn’t care less
 
-</span><span>  We couldn’t care less
+<span>  We couldn’t care less
 
-</span><span>  Could we?
+<span>  Could we?
 
 Tradução
 
-</span><span></span><span style="font-weight: bold;"></span><span></span><span style="font-weight: bold;">Se importar menos
+<span><span style="font-weight: bold;"><span><span style="font-weight: bold;">Se importar menos
 
 Mas você não poderia se importar menos,
 
@@ -157,7 +157,7 @@ Mas você não poderia se importar menos,
 
 ...
 
-</span><span>Baby, vamos parar e dormir por um tempo?
+<span>Baby, vamos parar e dormir por um tempo?
 
  Nós podemos transformar esse nó em uma mercadoria
 
@@ -185,51 +185,51 @@ Mas você não poderia se importar menos,
 
  Poderíamos?
 
-</span><span style="font-weight: bold;"></span><span style="font-weight: bold;">My Fauvorite Game
+<span style="font-weight: bold;"><span style="font-weight: bold;">My Fauvorite Game
 
-</span><span>I don't know what you're looking for
+<span>I don't know what you're looking for
 
-</span><span>  You haven't found it baby, thats for sure
+<span>  You haven't found it baby, thats for sure
 
-</span><span>  You rip me down, you spread me all around
+<span>  You rip me down, you spread me all around
 
-</span><span>  In the dust of the deed of time
+<span>  In the dust of the deed of time
 
-</span><span>And this is no case of lust you see
+<span>And this is no case of lust you see
 
-</span><span>  It's not a matter of you versus me
+<span>  It's not a matter of you versus me
 
-</span><span>  Its fine the way you want me on your own
+<span>  Its fine the way you want me on your own
 
-</span><span>  But in the end its always me alone
+<span>  But in the end its always me alone
 
-</span><span>I'm losing my favourite game
+<span>I'm losing my favourite game
 
-</span><span>  You're losing your mind again
+<span>  You're losing your mind again
 
-</span><span>  I'm losing my baby, losing my favourite game
+<span>  I'm losing my baby, losing my favourite game
 
-</span><span> I only know what I've been working for
+<span> I only know what I've been working for
 
-</span><span>  Another you so I could love you more
+<span>  Another you so I could love you more
 
-</span><span>  I really thought that I could take you there
+<span>  I really thought that I could take you there
 
-</span><span>  But my experiment is not getting us anywhere
+<span>  But my experiment is not getting us anywhere
 
-</span><span>I had a vision I could turn you right
+<span>I had a vision I could turn you right
 
-</span><span>  A stupid mission in a lethal fight
+<span>  A stupid mission in a lethal fight
 
-</span><span>  I should have seen it when my hope was new
+<span>  I should have seen it when my hope was new
 
-</span><span>  My heart is black and my body is blue
+<span>  My heart is black and my body is blue
 
 Tradução
 
-</span><span style="font-weight: bold;"></span><span style="font-weight: bold;">Meu Jogo Favorito
+<span style="font-weight: bold;"><span style="font-weight: bold;">Meu Jogo Favorito
 
-</span><span>Eu não sei o que você está procurando
+<span>Eu não sei o que você está procurando
 
  Você não achou, isso é certo
 
@@ -237,7 +237,7 @@ Tradução
 
  Na poeira da ação do tempo
 
-</span><span>E isso não é caso de luxúria, você vê
+<span>E isso não é caso de luxúria, você vê
 
  Não é matéria de "eu versus você"
 
@@ -245,13 +245,13 @@ Tradução
 
  Mas no final é sempre eu sozinho
 
-</span><span>Estou perdendo meu jogo favorito
+<span>Estou perdendo meu jogo favorito
 
  Você está perdendo sua mente de novo
 
  Estou te perdendo, perdendo meu jogo favorito
 
-</span><span>Eu só sei o quanto estive trabalhando
+<span>Eu só sei o quanto estive trabalhando
 
  Por outro "você" então poderia amar você mais
 
@@ -267,4 +267,4 @@ Tradução
 
  Meu coração é negro e meu corpo é azul
 
-</span><span></span>
+<span>

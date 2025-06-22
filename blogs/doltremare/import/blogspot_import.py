@@ -68,24 +68,16 @@ def handle_images_and_links(content):
 
 
 def close_tags_properly(content):
-    """Close any unclosed <span> and <p> tags before opening new ones."""
+    """Close any unclosed <p> tags before opening new ones."""
     # Split content into lines to process tag by tag
     lines = content.split('\n')
     result_lines = []
-    open_spans = 0
     open_ps = 0
     
     for line in lines:
         # Count opening and closing tags in this line
-        span_opens = len(re.findall(r'<span[^>]*>', line))
-        span_closes = len(re.findall(r'</span>', line))
         p_opens = len(re.findall(r'<p[^>]*>', line))
         p_closes = len(re.findall(r'</p>', line))
-        
-        # If we're opening a new span and there's already an open span, close it first
-        if span_opens > 0 and open_spans > 0:
-            result_lines.append('</span>' * open_spans)
-            open_spans = 0
         
         # If we're opening a new p and there's already an open p, close it first
         if p_opens > 0 and open_ps > 0:
@@ -96,12 +88,9 @@ def close_tags_properly(content):
         result_lines.append(line)
         
         # Update counters
-        open_spans += span_opens - span_closes
         open_ps += p_opens - p_closes
     
-    # Close any remaining open tags at the end
-    if open_spans > 0:
-        result_lines.append('</span>' * open_spans)
+    # Close any remaining open p tags at the end
     if open_ps > 0:
         result_lines.append('</p>' * open_ps)
     
@@ -119,16 +108,31 @@ def convert_html_to_markdown(html_content):
     # Convert <div> tags to newlines (but not double to avoid excessive spacing)
     content = re.sub(r'</?div[^>]*>', '\n', content)
     
+    # Remove all closing span tags to prevent them from showing as text (case-insensitive, optional spaces/attributes)
+    content = re.sub(r'</\s*span[^>]*>', '', content, flags=re.IGNORECASE)
+    
     # Remove all other HTML tags except <span> and <p>
     content = re.sub(r'<(?!span|p|/span|/p)[^>]+>', '', content)
     
     # Clean up excessive newlines
     content = re.sub(r'\n{3,}', '\n\n', content)
     
-    # Ensure proper tag closing
+    # Ensure proper tag closing (only for p tags now)
     content = close_tags_properly(content)
     
+    # Final cleanup
+    content = final_cleanup(content)
+    
     return content.strip()
+
+
+def final_cleanup(content):
+    """Remove all literal and HTML-escaped </span> tags, case-insensitive, with optional whitespace/newlines."""
+    # Remove literal </span> tags (case-insensitive, optional whitespace/newlines/attributes)
+    content = re.sub(r'<\s*/\s*span[^>]*>', '', content, flags=re.IGNORECASE)
+    # Remove HTML-escaped &lt;/span&gt; tags (case-insensitive, optional whitespace/newlines/attributes)
+    content = re.sub(r'&lt;\s*/\s*span[^&]*&gt;', '', content, flags=re.IGNORECASE)
+    return content
 
 
 def clean_html_tags(content):
@@ -141,14 +145,14 @@ def clean_html_tags(content):
 
 
 def ensure_proper_tag_closing(content):
-    """Ensure all <span> and <p> tags are properly closed before the next one opens."""
-    # Find all opening and closing tags
-    tag_pattern = r'<(/?)(span|p)([^>]*)>'
+    """Ensure all <p> tags are properly closed before the next one opens."""
+    # Find all opening and closing p tags
+    tag_pattern = r'<(/?)(p)([^>]*)>'
     matches = list(re.finditer(tag_pattern, content, re.IGNORECASE))
     
-    # Process content character by character, tracking open tags
+    # Process content character by character, tracking open p tags
     result = ""
-    open_tags = []
+    open_ps = []
     i = 0
     
     while i < len(content):
@@ -161,27 +165,20 @@ def ensure_proper_tag_closing(content):
                 
                 if is_closing:
                     # Closing tag - find and remove matching opening tag from stack
-                    for j in range(len(open_tags) - 1, -1, -1):
-                        if open_tags[j] == tag_name:
-                            open_tags.pop(j)
+                    for j in range(len(open_ps) - 1, -1, -1):
+                        if open_ps[j] == tag_name:
+                            open_ps.pop(j)
                             break
                 else:
-                    # Opening tag - close any conflicting tags first
-                    # If we're opening a <p> tag, close any open <p> tags
+                    # Opening tag - close any conflicting p tags first
                     if tag_name == 'p':
-                        for j in range(len(open_tags) - 1, -1, -1):
-                            if open_tags[j] == 'p':
+                        for j in range(len(open_ps) - 1, -1, -1):
+                            if open_ps[j] == 'p':
                                 result += '</p>'
-                                open_tags.pop(j)
-                    # If we're opening a <span> tag, close any open <span> tags
-                    elif tag_name == 'span':
-                        for j in range(len(open_tags) - 1, -1, -1):
-                            if open_tags[j] == 'span':
-                                result += '</span>'
-                                open_tags.pop(j)
+                                open_ps.pop(j)
                     
                     # Add the new opening tag
-                    open_tags.append(tag_name)
+                    open_ps.append(tag_name)
                 
                 # Add the tag to result
                 result += match.group(0)
@@ -193,9 +190,10 @@ def ensure_proper_tag_closing(content):
             result += content[i]
             i += 1
     
-    # Close any remaining open tags at the end
-    for tag in reversed(open_tags):
-        result += f'</{tag}>'
+    # Close any remaining open p tags at the end
+    for tag in reversed(open_ps):
+        if tag == 'p':
+            result += '</p>'
     
     return result
 
@@ -217,7 +215,7 @@ def clean_html_content(content):
     # Clean unwanted HTML tags
     content = clean_html_tags(content)
     
-    # Ensure proper tag closing
+    # Ensure proper p tag closing (but not span tags)
     content = ensure_proper_tag_closing(content)
     
     # Clean up whitespace and normalize line breaks

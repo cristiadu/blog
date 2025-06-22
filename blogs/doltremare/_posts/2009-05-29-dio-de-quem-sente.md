@@ -36,4 +36,4 @@ Amor e inveja, respectivamente
 
 Sentimento de remorso
 
-Ódio de quem sente.</span>
+Ódio de quem sente.

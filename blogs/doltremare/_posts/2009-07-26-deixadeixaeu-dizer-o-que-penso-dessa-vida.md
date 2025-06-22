@@ -28,4 +28,4 @@ Não quero que soe poético, não quero que soe romântico, não quero que soe c
 
 Quero apenas escrever, isso me faz bem e não importa a opinião de mais ninguém.
 
-Fui.</span>
+Fui.

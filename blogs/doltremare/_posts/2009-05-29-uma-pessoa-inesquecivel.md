@@ -44,4 +44,4 @@ A melhor parte de mim!
 
 ... pra elle <span style="color: rgb(255, 0, 0);">não deeem risada D: 
 
-</span><span style="color: rgb(204, 204, 255);">skpaoskasokasopkasopkpok </span>
+<span style="color: rgb(204, 204, 255);">skpaoskasokasopkasopkpok

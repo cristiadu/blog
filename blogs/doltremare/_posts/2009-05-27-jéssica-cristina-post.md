@@ -21,10 +21,8 @@ wwoooon!   segunda eu conheçi o amigu do cris. ou melhor o outro autor do blog 
 danilo, ricardo, daniel, jucelino, seja lá qual for o seu nome D:    eu kero seu msn e otra coisa. a mari eh MINHA! viu cris =)  kposkaospkaposkaposk
 
 ![Image Here](http://4.bp.blogspot.com/_sIsAsPAOqZA/Sh3de6FhD2I/AAAAAAAAAco/gT1nL6MWULI/s400/bicho_cara_gente_07.jpg)
-</span><span style="font-size:78%;">woooooooooooooon *-* o bishinho mais bunitinho que eu já vi *-* skpaoskapokaspokaspokaspokapokasposak     [/ignore
+<span style="font-size:78%;">woooooooooooooon *-* o bishinho mais bunitinho que eu já vi *-* skpaoskapokaspokaspokaspokapokasposak     [/ignore
 
 kem adivinhar o nome dele ganha uma bala de iorgute xD
 
-=X</span><span style="font-size:78%;">
-
-</span>
+=X<span style="font-size:78%;">

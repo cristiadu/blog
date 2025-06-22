@@ -12,7 +12,7 @@ tags:
   - "Cristiano Faustino"
 ---
 
-<span style="font-size:130%;"></span><span style="font-weight: bold;">Atos
+<span style="font-size:130%;"><span style="font-weight: bold;">Atos
 
 Escrevo
 
@@ -54,7 +54,7 @@ Mesmo tendo que sofrer
 
 Mesmo querendo morrer.
 
-</span><span style="font-weight: bold;font-size:130%;" >Quer ser feliz?
+<span style="font-weight: bold;font-size:130%;" >Quer ser feliz?
 
 Quer ser feliz?
 
@@ -94,4 +94,4 @@ Seja idiota e engraçado
 
 Destrua corações ao seu lado
 
-Mas não se importe com isso.</span>
+Mas não se importe com isso.

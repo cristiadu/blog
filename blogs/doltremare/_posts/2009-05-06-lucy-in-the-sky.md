@@ -14,7 +14,7 @@ tags:
 
 <span style=";font-family:verdana;font-size:78%;"  >..with diamonds!
 
-</span><span style="font-family:trebuchet ms;">Nada como uma música de drogado para falar sobre um dia drogado que eu tive, movido a caldo-de-cana e falta do que fazer (:
+<span style="font-family:trebuchet ms;">Nada como uma música de drogado para falar sobre um dia drogado que eu tive, movido a caldo-de-cana e falta do que fazer (:
 
 Começou como qualquer dia normal, eu morrendo de sono, porééém agora tinha meu celular de volta! Iria ouvir as MINHAAS músicas ao invés da rádio sertaneja que o cara da minha van coloca, como se todos nós gostássemos...
 
@@ -28,7 +28,7 @@ Continuando a falar sobre o dia de hoje, quando cheguei ao Cotil (escola que eu 
 
 Foram as 2 horas mais drogadas da minha vida, começando por essa piadinha:
 
-</span><span style="color: rgb(255, 0, 0);">Situação nº 1: Ah, entendi!
+<span style="color: rgb(255, 0, 0);">Situação nº 1: Ah, entendi!
 
 Danillo - Quero xingar alguém, mas não pode ser jesus, senão eu vou pro inferno! (Detalhe: há um colega nosso chamado Jesus, e ele tava falando literalmente desse jesus!)
 
@@ -40,7 +40,7 @@ OASKPEKOASKOPEKOPSAKOEKSA
 
 a piada mais manjada do mundo, e ele fala isso, putz, a gente riu muito.
 
-</span><span style="color: rgb(255, 0, 0);">Situação nº 2: Caras de bunda
+<span style="color: rgb(255, 0, 0);">Situação nº 2: Caras de bunda
 
 Eu - Ah Jhonps, vo arrumar aquela garota que tá tomando suco pra você! (Detalhe: não conheciamos a garota)
 
@@ -50,9 +50,9 @@ Danillo - Vocês vão ficar aqui mesmo?(Detalhe: ele tava falando pra gente isso
 
 OBS: as caras de bunda das garotas não tem como serem representadas aqui.
 
-</span><span style="color: rgb(255, 0, 0);">Situação nº 3: O macaco nu
+<span style="color: rgb(255, 0, 0);">Situação nº 3: O macaco nu
 
-</span><span style="color: rgb(0, 0, 0);">Jhonps - To imaginando sexo com macacos, deve ser estranho.
+<span style="color: rgb(0, 0, 0);">Jhonps - To imaginando sexo com macacos, deve ser estranho.
 
 Danillo, Eu e Furble com cara de (ahn??)
 
@@ -80,4 +80,4 @@ quase fomos expulsos da biblioteca por cair no chão de tanto rir disso (:
 
 Há outras situações que não podem ser descritas aqui (:
 
-Fui.</span>
+Fui.

@@ -18,180 +18,178 @@ Taylor Swift
 
 Composição: Taylor Swift
 
-</span><span style="color:#cccccc;">
+<span style="color:#cccccc;">
 
-</span><span style="color:#cccccc;">"Your beautiful eyes
+<span style="color:#cccccc;">"Your beautiful eyes
 
-</span><span style="color:#cccccc;"> Stare right into my eyes
+<span style="color:#cccccc;"> Stare right into my eyes
 
-</span><span style="color:#cccccc;"> And sometimes
+<span style="color:#cccccc;"> And sometimes
 
-</span><span style="color:#cccccc;"> I think of you late at nightI don't know why
+<span style="color:#cccccc;"> I think of you late at nightI don't know why
 
-</span><span style="color:#cccccc;"> I wanna be somewhere
+<span style="color:#cccccc;"> I wanna be somewhere
 
-</span><span style="color:#cccccc;"> Where you are
+<span style="color:#cccccc;"> Where you are
 
-</span><span style="color:#cccccc;"> I wanna be where
+<span style="color:#cccccc;"> I wanna be where
 
-</span><span style="color:#cccccc;"> 
+<span style="color:#cccccc;"> 
 
-</span><span style="color:#cccccc;"> You're here
+<span style="color:#cccccc;"> You're here
 
-</span><span style="color:#cccccc;"> Your eyes are lookin' into mine
+<span style="color:#cccccc;"> Your eyes are lookin' into mine
 
-</span><span style="color:#cccccc;"> So baby make me fly
+<span style="color:#cccccc;"> So baby make me fly
 
-</span><span style="color:#cccccc;"> My heart has never felt this way before
+<span style="color:#cccccc;"> My heart has never felt this way before
 
-</span><span style="color:#cccccc;"> I'm lookin' through your
+<span style="color:#cccccc;"> I'm lookin' through your
 
-</span><span style="color:#cccccc;"> I'm lookin' through your eyes
+<span style="color:#cccccc;"> I'm lookin' through your eyes
 
-</span><span style="color:#cccccc;"> 
+<span style="color:#cccccc;"> 
 
-</span><span style="color:#cccccc;"> I wake up I'm alive
+<span style="color:#cccccc;"> I wake up I'm alive
 
-</span><span style="color:#cccccc;"> In only a little while
+<span style="color:#cccccc;"> In only a little while
 
-</span><span style="color:#cccccc;"> I'll cry'Cause your my lullaby
+<span style="color:#cccccc;"> I'll cry'Cause your my lullaby
 
-</span><span style="color:#cccccc;"> So baby come hold me tight
+<span style="color:#cccccc;"> So baby come hold me tight
 
-</span><span style="color:#cccccc;"> 'Cause I
+<span style="color:#cccccc;"> 'Cause I
 
-</span><span style="color:#cccccc;"> I wanna be everything you need
+<span style="color:#cccccc;"> I wanna be everything you need
 
-</span><span style="color:#cccccc;"> I wanna be where
+<span style="color:#cccccc;"> I wanna be where
 
-</span><span style="color:#cccccc;"> 
+<span style="color:#cccccc;"> 
 
-</span><span style="color:#cccccc;"> You're here
+<span style="color:#cccccc;"> You're here
 
-</span><span style="color:#cccccc;"> Your eyes are lookin' into mine
+<span style="color:#cccccc;"> Your eyes are lookin' into mine
 
-</span><span style="color:#cccccc;"> So baby make me fly
+<span style="color:#cccccc;"> So baby make me fly
 
-</span><span style="color:#cccccc;"> My heart has never felt this way before
+<span style="color:#cccccc;"> My heart has never felt this way before
 
-</span><span style="color:#cccccc;"> I'm lookin' through your
+<span style="color:#cccccc;"> I'm lookin' through your
 
-</span><span style="color:#cccccc;"> I'm lookin' through your eyes
+<span style="color:#cccccc;"> I'm lookin' through your eyes
 
-</span><span style="color:#cccccc;"> 
+<span style="color:#cccccc;"> 
 
-</span><span style="color:#cccccc;"> Just as long as your mine
+<span style="color:#cccccc;"> Just as long as your mine
 
-</span><span style="color:#cccccc;"> I'll be your everything tonight
+<span style="color:#cccccc;"> I'll be your everything tonight
 
-</span><span style="color:#cccccc;"> let me love you, kiss you
+<span style="color:#cccccc;"> let me love you, kiss you
 
-</span><span style="color:#cccccc;"> Baby let me miss you
+<span style="color:#cccccc;"> Baby let me miss you
 
-</span><span style="color:#cccccc;"> Let me see your
+<span style="color:#cccccc;"> Let me see your
 
-</span><span style="color:#cccccc;"> dream about
+<span style="color:#cccccc;"> dream about
 
-</span><span style="color:#cccccc;"> dream about
+<span style="color:#cccccc;"> dream about
 
-</span><span style="color:#cccccc;"> dream about your eyes
+<span style="color:#cccccc;"> dream about your eyes
 
-</span><span style="color:#cccccc;"> eyes
+<span style="color:#cccccc;"> eyes
 
-</span><span style="color:#cccccc;"> eyes
+<span style="color:#cccccc;"> eyes
 
-</span><span style="color:#cccccc;"> beautiful eyes"
+<span style="color:#cccccc;"> beautiful eyes"
 
-</span><span style="color:#cccccc;">
+<span style="color:#cccccc;">
 
-</span><span style="color:#cccccc;">Simplismente linda essa musica^^pra qm não sabe inglês direito a tradução:
+<span style="color:#cccccc;">Simplismente linda essa musica^^pra qm não sabe inglês direito a tradução:
 
-</span><span style="color:#cccccc;">
+<span style="color:#cccccc;">
 
-</span><span style="color:#cccccc;">"Seus lindos olhos
+<span style="color:#cccccc;">"Seus lindos olhos
 
-</span><span style="color:#cccccc;"> Olham nos meus olhos
+<span style="color:#cccccc;"> Olham nos meus olhos
 
-</span><span style="color:#cccccc;"> E às vezes eu penso em você até tarde da noite
+<span style="color:#cccccc;"> E às vezes eu penso em você até tarde da noite
 
-</span><span style="color:#cccccc;"> Eu não sei porque
+<span style="color:#cccccc;"> Eu não sei porque
 
-</span><span style="color:#cccccc;"> Eu quero estar em algum lugar
+<span style="color:#cccccc;"> Eu quero estar em algum lugar
 
-</span><span style="color:#cccccc;"> Onde você esteja
+<span style="color:#cccccc;"> Onde você esteja
 
-</span><span style="color:#cccccc;"> Eu quero estar onde
+<span style="color:#cccccc;"> Eu quero estar onde
 
-</span><span style="color:#cccccc;"> 
+<span style="color:#cccccc;"> 
 
-</span><span style="color:#cccccc;"> Você está aqui
+<span style="color:#cccccc;"> Você está aqui
 
-</span><span style="color:#cccccc;"> Seus olhos olham nos meus
+<span style="color:#cccccc;"> Seus olhos olham nos meus
 
-</span><span style="color:#cccccc;"> Então, baby, me faça voar
+<span style="color:#cccccc;"> Então, baby, me faça voar
 
-</span><span style="color:#cccccc;"> Meu coração nunca sentiu isso antes
+<span style="color:#cccccc;"> Meu coração nunca sentiu isso antes
 
-</span><span style="color:#cccccc;"> Estou olhando
+<span style="color:#cccccc;"> Estou olhando
 
-</span><span style="color:#cccccc;"> Estou olhando em seus olhos
+<span style="color:#cccccc;"> Estou olhando em seus olhos
 
-</span><span style="color:#cccccc;"> 
+<span style="color:#cccccc;"> 
 
-</span><span style="color:#cccccc;"> Eu percebo que estou viva
+<span style="color:#cccccc;"> Eu percebo que estou viva
 
-</span><span style="color:#cccccc;"> Em apenas um momento
+<span style="color:#cccccc;"> Em apenas um momento
 
-</span><span style="color:#cccccc;"> Eu chorarei
+<span style="color:#cccccc;"> Eu chorarei
 
-</span><span style="color:#cccccc;"> Porque você é minha canção de ninar
+<span style="color:#cccccc;"> Porque você é minha canção de ninar
 
-</span><span style="color:#cccccc;"> Então, baby, venha me abraçar
+<span style="color:#cccccc;"> Então, baby, venha me abraçar
 
-</span><span style="color:#cccccc;"> Porque eu quero ser tudo o que você precisa
+<span style="color:#cccccc;"> Porque eu quero ser tudo o que você precisa
 
-</span><span style="color:#cccccc;"> Eu quero estar onde
+<span style="color:#cccccc;"> Eu quero estar onde
 
-</span><span style="color:#cccccc;"> 
+<span style="color:#cccccc;"> 
 
-</span><span style="color:#cccccc;"> Você está aqui
+<span style="color:#cccccc;"> Você está aqui
 
-</span><span style="color:#cccccc;"> Seus olhos olham nos meus
+<span style="color:#cccccc;"> Seus olhos olham nos meus
 
-</span><span style="color:#cccccc;"> Então, baby, me faça voar
+<span style="color:#cccccc;"> Então, baby, me faça voar
 
-</span><span style="color:#cccccc;"> Meu coração nunca sentiu isso antes
+<span style="color:#cccccc;"> Meu coração nunca sentiu isso antes
 
-</span><span style="color:#cccccc;"> Estou olhando
+<span style="color:#cccccc;"> Estou olhando
 
-</span><span style="color:#cccccc;"> Estou olhando em seus olhos
+<span style="color:#cccccc;"> Estou olhando em seus olhos
 
-</span><span style="color:#cccccc;"> 
+<span style="color:#cccccc;"> 
 
-</span><span style="color:#cccccc;"> Enquanto você for meu
+<span style="color:#cccccc;"> Enquanto você for meu
 
-</span><span style="color:#cccccc;"> Eu serei o seu tudo hoje
+<span style="color:#cccccc;"> Eu serei o seu tudo hoje
 
-</span><span style="color:#cccccc;"> Me deixe te amar, te beijar
+<span style="color:#cccccc;"> Me deixe te amar, te beijar
 
-</span><span style="color:#cccccc;"> Baby, me deixe te beijar
+<span style="color:#cccccc;"> Baby, me deixe te beijar
 
-</span><span style="color:#cccccc;"> Me deixe ver seus
+<span style="color:#cccccc;"> Me deixe ver seus
 
-</span><span style="color:#cccccc;"> Sonhar com Sonhar com
+<span style="color:#cccccc;"> Sonhar com Sonhar com
 
-</span><span style="color:#cccccc;"> Sonhar com seus olhos
+<span style="color:#cccccc;"> Sonhar com seus olhos
 
-</span><span style="color:#cccccc;"> Olhos
+<span style="color:#cccccc;"> Olhos
 
-</span><span style="color:#cccccc;"> Olhos
+<span style="color:#cccccc;"> Olhos
 
-</span><span style="color:#cccccc;"> Olhos Lindos"
+<span style="color:#cccccc;"> Olhos Lindos"
 
-</span><span style="color:#cccccc;">
+<span style="color:#cccccc;">
 
-</span><span style="color:#cccccc;">
+<span style="color:#cccccc;">
 
-</span><span style="color:#cccccc;">Linda né??ashashashashhashashashashhashas...
-
-</span>
+<span style="color:#cccccc;">Linda né??ashashashashhashashashashhashas...

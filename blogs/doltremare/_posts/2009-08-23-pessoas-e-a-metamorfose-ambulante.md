@@ -26,4 +26,4 @@ E isso não é diferente com absolutamente NINGUÉM, nenhuma pessoa gosta de mud
 
 Não falo apenas de casais não, pessoas fazem isso por seus parentes, por seus amigos...e preferem evitar uma discussão unindo-se com pessoas da mesma linha de pensamento, isso é outra coisa, pessoas de mesma linha de pensamento tendem a pensar igual em várias coisas, fazendo com que aparentemente saibamos lidar com o outro.Mas é apenas aparentemente, cedo ou tarde haverá o conflito e um dos dois terá que mudar sua concepção sobre algo.Em amizades e entre família isso é bem fácil do que num relacionamento.
 
-Conclusâo: O mundo é louco, pessoas diferentes são normais e vice-versa e escrever teses é interessante.</span>
+Conclusâo: O mundo é louco, pessoas diferentes são normais e vice-versa e escrever teses é interessante.

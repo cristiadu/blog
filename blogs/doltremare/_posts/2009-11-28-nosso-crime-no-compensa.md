@@ -14,27 +14,27 @@ tags:
 
 <span style="font-style: italic;">E hoje, minhas mãos que antes se encaixavam perfeitamente nas suas,
 
-</span><span style="font-style: italic;">estão vazias. 
+<span style="font-style: italic;">estão vazias. 
 
-</span><span style="font-style: italic;">O peito em que repousava, chorava, ria, sorria, falava besteiras das mais comuns
+<span style="font-style: italic;">O peito em que repousava, chorava, ria, sorria, falava besteiras das mais comuns
 
-</span><span style="font-style: italic;">entre namorados, hoje, já não está mas aqui.
+<span style="font-style: italic;">entre namorados, hoje, já não está mas aqui.
 
-</span><span style="font-style: italic;">Não encontro mais, aquele ombro, em que podia respirar aliviada, e esqueçer do resto do mundo,
+<span style="font-style: italic;">Não encontro mais, aquele ombro, em que podia respirar aliviada, e esqueçer do resto do mundo,
 
-</span><span style="font-style: italic;">pelo menos por alguns instantes.
+<span style="font-style: italic;">pelo menos por alguns instantes.
 
-</span><span style="font-style: italic;">E aquele sorriso, que naquele momento me parecia ser o mais verdadeiro possível. 
+<span style="font-style: italic;">E aquele sorriso, que naquele momento me parecia ser o mais verdadeiro possível. 
 
-</span><span style="font-style: italic;">Aqueles olhos, que me devoravam por inteira, e por mais apaixonado que fosse, revelava um desejo,
+<span style="font-style: italic;">Aqueles olhos, que me devoravam por inteira, e por mais apaixonado que fosse, revelava um desejo,
 
-</span><span style="font-style: italic;">quase incontrolado.
+<span style="font-style: italic;">quase incontrolado.
 
-</span><span style="font-style: italic;">O tremer de pernas, quando você encostava em meus lábios, e sabia exatamente, o que fazer
+<span style="font-style: italic;">O tremer de pernas, quando você encostava em meus lábios, e sabia exatamente, o que fazer
 
-</span><span style="font-style: italic;">para me tirar fora de mim.
+<span style="font-style: italic;">para me tirar fora de mim.
 
-</span><span style="font-style: italic;">    ''Enquanto você conversa e me beija
+<span style="font-style: italic;">    ''Enquanto você conversa e me beija
 
    Ao mesmo tempo eu vejo
 
@@ -48,13 +48,13 @@ tags:
 
    Parece que foi ensaiado''
 
-</span><span style="font-style: italic;">É aquele 'lugar' no qual você sente, que essa conexão que existe entre vocês, nós, é especial, 
+<span style="font-style: italic;">É aquele 'lugar' no qual você sente, que essa conexão que existe entre vocês, nós, é especial, 
 
-</span><span style="font-style: italic;">e que ele não é apenas mais um
+<span style="font-style: italic;">e que ele não é apenas mais um
 
-</span><span style="font-style: italic;">Os braços, entre os quais, me sentia segura, como todos devem se sentir pelo menos uma
+<span style="font-style: italic;">Os braços, entre os quais, me sentia segura, como todos devem se sentir pelo menos uma
 
-</span><span style="font-style: italic;">vez na vida, por que, aí sim, poderam dizer que foram amados de verdade ao menos, essa unica vez...
+<span style="font-style: italic;">vez na vida, por que, aí sim, poderam dizer que foram amados de verdade ao menos, essa unica vez...
 
     ''Até parece que você já tinha
 
@@ -68,15 +68,15 @@ tags:
 
    O mundo gira devagar''
 
-</span><span style="font-style: italic;">O jeito como fala, a sua voz, é algo que me embriaga, e logo depois me deixa sobria, nos momentos de ecstasy.
+<span style="font-style: italic;">O jeito como fala, a sua voz, é algo que me embriaga, e logo depois me deixa sobria, nos momentos de ecstasy.
 
-</span><span style="font-style: italic;">Sua risada, é algo tímido, mas com alegria, aquela mesma que me faltava nos dias nublados, e que hoje me faz
+<span style="font-style: italic;">Sua risada, é algo tímido, mas com alegria, aquela mesma que me faltava nos dias nublados, e que hoje me faz
 
-</span><span style="font-style: italic;">falta ainda mais.
+<span style="font-style: italic;">falta ainda mais.
 
-</span><span style="font-style: italic;">E quando percebo, já não existe mas o 'eu', existe apenas, o nós!
+<span style="font-style: italic;">E quando percebo, já não existe mas o 'eu', existe apenas, o nós!
 
-</span><span style="font-style: italic;">    ''Adoro essa sua cara de sono
+<span style="font-style: italic;">    ''Adoro essa sua cara de sono
 
    E o timbre da sua voz
 
@@ -90,15 +90,15 @@ tags:
 
    Porque nós dois somos iguais''
 
-</span><span style="font-style: italic;">E hoje, eu queria poder parar o tempo, e voltar tudo ao começo, no nosso primeiro beijo, por que sei, que a partir 
+<span style="font-style: italic;">E hoje, eu queria poder parar o tempo, e voltar tudo ao começo, no nosso primeiro beijo, por que sei, que a partir 
 
-</span><span style="font-style: italic;">dalí, daquele instante, foi que eu aprendi o que era ser feliz, o que era ser alguem.
+<span style="font-style: italic;">dalí, daquele instante, foi que eu aprendi o que era ser feliz, o que era ser alguem.
 
-</span><span style="font-style: italic;">Defeitos meu amor, todos nós temos, mas é issu o que faz cada um ser cada um,  todos somos importantes para alguem,
+<span style="font-style: italic;">Defeitos meu amor, todos nós temos, mas é issu o que faz cada um ser cada um,  todos somos importantes para alguem,
 
-</span><span style="font-style: italic;">eu sempre te disse issu!
+<span style="font-style: italic;">eu sempre te disse issu!
 
-</span><span style="font-style: italic;">    ''E o tempo é só meu
+<span style="font-style: italic;">    ''E o tempo é só meu
 
    E ninguém registra a cena
 
@@ -110,13 +110,13 @@ tags:
 
    Bem do jeito que você é''
 
-</span><span style="font-style: italic;">Até hoje, penso em como mostrar tudo issu para você, sem que pareca cliche demais, ou ladainhas, antes já ditas.
+<span style="font-style: italic;">Até hoje, penso em como mostrar tudo issu para você, sem que pareca cliche demais, ou ladainhas, antes já ditas.
 
-</span><span style="font-style: italic;">Contínuo aqui, esperando pelo dia, em que você acredite em pelo menos uma das várias palavras, de tudo que eu
+<span style="font-style: italic;">Contínuo aqui, esperando pelo dia, em que você acredite em pelo menos uma das várias palavras, de tudo que eu
 
-</span><span style="font-style: italic;">disse aqui...pois nada do que a gente viveu, foi mentira!
+<span style="font-style: italic;">disse aqui...pois nada do que a gente viveu, foi mentira!
 
-</span><span style="font-style: italic;">    ''Eu vou equalizar você
+<span style="font-style: italic;">    ''Eu vou equalizar você
 
    Numa freqüência que só a gente sabe
 
@@ -124,6 +124,4 @@ tags:
 
    Pra poder te gravar em mim'' 
 
-</span><span style="font-style: italic;">É, </span><span style="font-weight: bold;">eu te amo! ;@
-
-</span>
+<span style="font-style: italic;">É, <span style="font-weight: bold;">eu te amo! ;@

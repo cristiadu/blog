@@ -16,12 +16,12 @@ Fuçando em minha mochila (a qual comporta quilos de sonhos e pensamentos), enco
 
 <span style="font-family: verdana;">Daqui de cima o céu é tão sem graça!
 
-</span><span style="font-family: verdana;">Queria poder vê-lo de lá do chão,
+<span style="font-family: verdana;">Queria poder vê-lo de lá do chão,
 
-</span><span style="font-family: verdana;">Retratar o amor e a desgraça
+<span style="font-family: verdana;">Retratar o amor e a desgraça
 
-</span><span style="font-family: verdana;">Que se passa no meu coração.
+<span style="font-family: verdana;">Que se passa no meu coração.
 
-</span><span style="font-family: verdana;">Sempre.
+<span style="font-family: verdana;">Sempre.
 
-O texto continuaria, mas me faltou a inspiração logo que acabou a passarela. Talvez essas inspirações repentinas e momentâneas sejam ruins. Talvez elas sejam boas. O importante é saber que elas existem e não me deixam cessar.</span>
+O texto continuaria, mas me faltou a inspiração logo que acabou a passarela. Talvez essas inspirações repentinas e momentâneas sejam ruins. Talvez elas sejam boas. O importante é saber que elas existem e não me deixam cessar.

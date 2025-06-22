@@ -42,4 +42,4 @@ a angústia calorosa e o medo frio se cheire de perto
 
 e se ouça o gosto da vingança, aquela que ao certo
 
-é a única forma de se fazer vencedor o monge.</span>
+é a única forma de se fazer vencedor o monge.

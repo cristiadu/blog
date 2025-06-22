@@ -1,6 +1,6 @@
 ---
 layout: "poem"
-title: "\"Homem que é homem volta atrás, mas não se arrepende de nada\""
+title: ""Homem que é homem volta atrás, mas não se arrepende de nada""
 date: "2009-05-09T18:22:00.003-07:00"
 author: "Jéssica Cristina"
 last_modified_at: "2010-04-05T21:04:40.940-07:00"
@@ -14,11 +14,11 @@ tags:
 
 <span style="font-style: italic;">eu fikei com inveja do Cris DDDDDDD: 
 
-</span><span style="font-style: italic;">sasopksposakpoakspoakoask porque/por que/por quê/porquê ou sllá eu .-.  só ele pode por as musikinhas que ele gosta aqui? D: 
+<span style="font-style: italic;">sasopksposakpoakspoakoask porque/por que/por quê/porquê ou sllá eu .-.  só ele pode por as musikinhas que ele gosta aqui? D: 
 
-</span><span style="font-style: italic;">bom, quando eu tiver com paciencia .-. eu faço uma dessas listinhas *o* 
+<span style="font-style: italic;">bom, quando eu tiver com paciencia .-. eu faço uma dessas listinhas *o* 
 
-</span><span style="font-style: italic;">agora eu vo falar sobre um site que minha amiga me passo com váaaaaaaaaaarias coisas do cazuza *-* e eu AMO cazuza >.Praia de Pajuçara, Maceió, janeiro/1989
+<span style="font-style: italic;">agora eu vo falar sobre um site que minha amiga me passo com váaaaaaaaaaarias coisas do cazuza *-* e eu AMO cazuza >.Praia de Pajuçara, Maceió, janeiro/1989
 
 "Eu era muito feliz pelo lado de fora, mas comigo mesmo não. Achava que não merecia ser feliz".
 
@@ -54,8 +54,6 @@ tags:
 
 "Ser marginal foi uma decisão poética, mas foi o único caminho que tive. Descobri que era um artista aos 16 anos. Antes, aos 11, os Novos Baianos foram passar três dias na minha casa, e eu pensei que queria ser como eles. Baby Consuelo andava com um espelho retrovisor na cabeça, e eu achava o máximo. Recentemente, a Som Livre acabou com os artistas contratados, e eu também tive que sair. Mas teria saído do mesmo jeito porque eu era visto como o filho do dono, e não como artista, e todo mundo me adulava. Então saí e entrei em leilão. As ofertas eram boas, mas nem todas me convinham. A Warner queria que eu fosse um ídolo gay, e eu não quis. Com o que vendo, sou um biscoitinho bom para as gravadoras".
 
-</span><span style="color: rgb(255, 0, 0);">"Homem que é homem volta atrás, mas não se arrepende de nada".
+<span style="color: rgb(255, 0, 0);">"Homem que é homem volta atrás, mas não se arrepende de nada".
 
 tudo aqui *---------------------------------*
-
-</span>

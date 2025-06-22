@@ -43,7 +43,7 @@ Soja fermentada. É consumida em diferentes partes da Ásia. No Japão é conhec
 
 ![Image Here](http://www.mdig.com.br/imagens/food/estranha_04.jpg)
 
-Olho de atum. Japão e China.</p><p style="font-style: italic;" align="justify"><span style="color: rgb(102, 0, 204);">(</span><span style="font-style: italic;">pra mim parece mais um olho de lula gigante @_@)
+Olho de atum. Japão e China.</p><p style="font-style: italic;" align="justify"><span style="color: rgb(102, 0, 204);">(<span style="font-style: italic;">pra mim parece mais um olho de lula gigante @_@)
 
 ![Image Here](http://www.mdig.com.br/imagens/food/estranha_05.jpg)
 
@@ -59,11 +59,11 @@ Larvas de formiga branca. Tailândia.
 
 ![Image Here](http://www.mdig.com.br/imagens/food/estranha_08.jpg)
 
-Alevinos vivos. China.</p><p style="font-style: italic;" align="justify"></span><span style="color: rgb(102, 0, 204);">(KISSO? =s)
+Alevinos vivos. China.</p><p style="font-style: italic;" align="justify"><span style="color: rgb(102, 0, 204);">(KISSO? =s)
 
 ![Image Here](http://www.mdig.com.br/imagens/food/estranha_09.jpg)
 
-Esperma de bacalhau. Consumido em diversas partes da Ásia.</p><p style="font-style: italic;" align="justify"></span><span style="color: rgb(102, 0, 204);">(como eles conseguem issu? .-.)
+Esperma de bacalhau. Consumido em diversas partes da Ásia.</p><p style="font-style: italic;" align="justify"><span style="color: rgb(102, 0, 204);">(como eles conseguem issu? .-.)
 
 ![Image Here](http://www.mdig.com.br/imagens/food/estranha_10.jpg)
 
@@ -79,20 +79,18 @@ Ovas de salmão. Conhecido como Ikura no Japão.
 
 ![Image Here](http://www.mdig.com.br/imagens/food/estranha_13.jpg)
 
-Pinto de boi. China, Brasil.</p><p style="font-style: italic;" align="justify"></span><span style="color: rgb(102, 0, 204);">(pra mim issu é mais um objeto sexual! kspoaskapsokasoksapokopk )
+Pinto de boi. China, Brasil.</p><p style="font-style: italic;" align="justify"><span style="color: rgb(102, 0, 204);">(pra mim issu é mais um objeto sexual! kspoaskapsokasoksapokopk )
 
 ![Image Here](http://www.mdig.com.br/imagens/food/estranha_14.jpg)
 
-Gatos, cães e ratos. China. Os animais são vendidos livremente em mercados. Gatos são muito apreciados em algumas regiões interioranas do Brasil.</p><p style="font-style: italic;" align="justify"></span><span style="color: rgb(102, 0, 204);">D:
+Gatos, cães e ratos. China. Os animais são vendidos livremente em mercados. Gatos são muito apreciados em algumas regiões interioranas do Brasil.</p><p style="font-style: italic;" align="justify"><span style="color: rgb(102, 0, 204);">D:
 
 ![Image Here](http://www.mdig.com.br/imagens/food/estranha_15.jpg)
 
-Em Pequim servem carne de cão em alguns restaurantes.</p><p style="font-style: italic;" align="justify"></span><span style="color: rgb(102, 0, 204);">D:
+Em Pequim servem carne de cão em alguns restaurantes.</p><p style="font-style: italic;" align="justify"><span style="color: rgb(102, 0, 204);">D:
 
 ![Image Here](http://www.mdig.com.br/imagens/food/estranha_16.jpg)
 
 Tambien servem ratões do banhado (ratazanas).
 
-Os chineses também comiam pintos de macaco. Foi uma das delícias da  [cozinha](http://www.mdig.com.br/index.php?itemid=4879#) imperial chinesa durante a dinastia Qing (1644 - 1912).</p><p style="font-style: italic;" align="justify"></span><span style="color: rgb(102, 0, 204);">O.o</p><p style="font-style: italic;" align="justify"></span><span style="color: rgb(102, 0, 204);">será que ninguém ficaria grávido com o esperma de peixe? >.
-
-</span></p>
+Os chineses também comiam pintos de macaco. Foi uma das delícias da  [cozinha](http://www.mdig.com.br/index.php?itemid=4879#) imperial chinesa durante a dinastia Qing (1644 - 1912).</p><p style="font-style: italic;" align="justify"><span style="color: rgb(102, 0, 204);">O.o</p><p style="font-style: italic;" align="justify"><span style="color: rgb(102, 0, 204);">será que ninguém ficaria grávido com o esperma de peixe? >.</p>
