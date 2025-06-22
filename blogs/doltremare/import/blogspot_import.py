@@ -2,7 +2,6 @@ import os
 import re
 import xml.etree.ElementTree as ET
 import html
-from datetime import datetime
 
 # Configuration
 INPUT_XML = "data/blogspot.xml"
