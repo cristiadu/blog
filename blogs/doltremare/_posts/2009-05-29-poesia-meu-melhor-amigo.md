@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Poesia: meu melhor amigo(aula de português né)"
 date: 2009-05-29T12:35:00.004-07:00
 author: "Monah"
@@ -12,28 +12,24 @@ tags:
   - "Monah"
 ---
 
+<div class="poem">
+
 "O que dizer de ti?
 
- Quero sempre você aqui.
+Quero sempre você aqui.
 
+Tu es minha esperança,
 
+Parece criança,
 
- Tu es minha esperança,
+Me abraça e dança.
 
- Parece criança,
+Não esqueço jamais,
 
- Me abraça e dança.
+Tudo de bom que você me faz,
 
+TE AMO DEMAIS"
 
-
- Não esqueço jamais,
-
- Tudo de bom que você me faz,
-
- TE AMO DEMAIS"
-
-
-
-
+</div>
 
 fiz na aula de português fico fofo apesar de pequeno....

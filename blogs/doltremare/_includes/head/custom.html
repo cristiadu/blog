@@ -2,4 +2,80 @@
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
+<!-- Custom styles for poem layout -->
+<style>
+  /* Poem layout specific styles */
+  .poem-layout .poem-content {
+    font-size: 0.9em;
+    line-height: 1.6;
+  }
+  
+  .poem-layout .poem-content p {
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+  }
+  
+  /* Allow for custom poem formatting */
+  .poem-layout .poem-content .poem {
+    text-align: center;
+    font-style: italic;
+    margin: 2em 0;
+  }
+  
+  .poem-layout .poem-content .poem-left {
+    text-align: left;
+  }
+  
+  .poem-layout .poem-content .poem-right {
+    text-align: right;
+  }
+  
+  .poem-layout .poem-content .poem-justify {
+    text-align: justify;
+  }
+  
+  .poem-layout .poem-content .poem-small {
+    font-size: 0.8em;
+  }
+  
+  .poem-layout .poem-content .poem-large {
+    font-size: 1.1em;
+  }
+  
+  .poem-layout .poem-content .poem-spaced {
+    line-height: 2;
+  }
+  
+  .poem-layout .poem-content .poem-compact {
+    line-height: 1.2;
+  }
+  
+  /* Preserve whitespace and line breaks in poems */
+  .poem-layout .poem-content pre {
+    background: transparent;
+    border: none;
+    padding: 0;
+    margin: 1em 0;
+    white-space: pre-wrap;
+    font-family: inherit;
+    font-size: inherit;
+  }
+  
+  /* Allow for custom spacing */
+  .poem-layout .poem-content .stanza {
+    margin-bottom: 1.5em;
+  }
+  
+  .poem-layout .poem-content .verse {
+    margin-bottom: 0.5em;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .poem-layout .poem-content {
+      font-size: 0.85em;
+    }
+  }
+</style>
+
 <!-- end custom head snippets -->
