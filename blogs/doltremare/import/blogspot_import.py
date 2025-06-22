@@ -2,81 +2,322 @@ import os
 import re
 import xml.etree.ElementTree as ET
 import html
+from datetime import datetime
 
-# Input XML file containing Blogspot export
+# Configuration
 INPUT_XML = "data/blogspot.xml"
-
-# Output directory for converted posts
 OUTPUT_DIR = "../_posts"
 
 # Create output directory if it doesn't exist
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-def clean_html_content(content):
-    """Convert escaped HTML formatting to equivalent markdown while preserving meaningful structure."""
-    # First, unescape the HTML entities
-    content = html.unescape(content)
+
+def img_replacer(match):
+    """Replace img tag with markdown image and return the URL for tracking."""
+    url = match.group(1)
+    return f'![Image Here]({url})\n', url
+
+
+def remove_microsoft_word_css(content):
+    """Remove Microsoft Word/Internet Explorer CSS styling that clutters posts."""
+    # Remove multi-line CSS blocks starting with "Normal"
+    content = re.sub(
+        r'''Normal[^\n]*\n(?:.|\n)*?/\* Style Definitions \*/(?:.|\n)*?\{(?:.|\n)*?\}[ \t\r\f\v]*''',
+        '',
+        content,
+        flags=re.MULTILINE
+    )
     
-    # Convert <br> tags to newlines
-    content = re.sub(r'<br\s*/?>', '\n', content)
+    # Remove single-line variant
+    content = re.sub(
+        r'Normal\s+\d+\s+\d+\s+false\s+false\s+false.*?MicrosoftInternetExplorer4.*?mso-bidi-language:#0400;\}',
+        '',
+        content,
+        flags=re.DOTALL
+    )
     
-    # Convert <div> tags to newlines (for stanza breaks)
-    content = re.sub(r'<div[^>]*>', '', content)
-    content = re.sub(r'</div>', '\n', content)
+    return content
+
+
+def handle_images_and_links(content):
+    """Extract and embed images, handle image links, and convert regular links to markdown."""
+    image_links = []
     
-    # Convert <a> tags to markdown links
+    # Handle images wrapped in anchor tags - convert to just the image
+    def img_in_link_replacer(match):
+        img_url = match.group(1)
+        image_links.append(img_url)
+        return f'![Image Here]({img_url})\n'
+    
+    # Convert <a><img src="..."></a> to just the image
+    content = re.sub(r'<a[^>]*>\s*<img[^>]*src="([^"]*)"[^>]*>\s*</a>', img_in_link_replacer, content)
+    content = re.sub(r'<a[^>]*>\s*<img[^>]*src=\'([^\']*)\'[^>]*>\s*</a>', img_in_link_replacer, content)
+    
+    # Extract and embed remaining standalone images
+    def process_img_match(match):
+        markdown_img, url = img_replacer(match)
+        image_links.append(url)
+        return markdown_img
+    
+    content = re.sub(r'<img[^>]*src="([^"]*)"[^>]*>', process_img_match, content)
+    content = re.sub(r'<img[^>]*src=\'([^\']*)\'[^>]*>', process_img_match, content)
+    
+    # Convert regular <a> tags to markdown links
     content = re.sub(r'<a\s+href="([^"]*)"[^>]*>([^<]*)</a>', r'[\2](\1)', content)
     
-    # Convert <b> and <strong> to markdown bold
-    content = re.sub(r'<(b|strong)[^>]*>', '**', content)
-    content = re.sub(r'</(b|strong)>', '**', content)
+    return content, image_links
+
+
+def close_tags_properly(content):
+    """Close any unclosed <span> and <p> tags at the end."""
+    # Count opening and closing tags
+    open_spans = len(re.findall(r'<span[^>]*>', content))
+    close_spans = len(re.findall(r'</span>', content))
+    open_ps = len(re.findall(r'<p[^>]*>', content))
+    close_ps = len(re.findall(r'</p>', content))
     
-    # Convert <i> and <em> to markdown italic
-    content = re.sub(r'<(i|em)[^>]*>', '*', content)
-    content = re.sub(r'</(i|em)>', '*', content)
+    # Add missing closing tags
+    for _ in range(open_spans - close_spans):
+        content += '</span>'
+    for _ in range(open_ps - close_ps):
+        content += '</p>'
     
-    # Convert <blockquote> to markdown blockquotes
-    content = re.sub(r'<blockquote[^>]*>', '> ', content)
-    content = re.sub(r'</blockquote>', '\n\n', content)
+    return content
+
+
+def convert_html_to_markdown(html_content):
+    """Convert HTML content to markdown while preserving formatting."""
+    if not html_content:
+        return ""
     
-    # Remove only HTML tags that don't have meaningful formatting
-    # But preserve span and other meaningful tags
-    content = re.sub(r'<(?!span\b)[^>]+>', '', content)
+    # Convert <br> and <br /> to double newlines for proper markdown line breaks
+    content = re.sub(r'<br\s*/?>', '\n\n', html_content)
     
-    # Clean up multiple line breaks
+    # Convert <div> tags to newlines (but not double to avoid excessive spacing)
+    content = re.sub(r'</?div[^>]*>', '\n', content)
+    
+    # Remove all other HTML tags except <span> and <p>
+    content = re.sub(r'<(?!span|p|/span|/p)[^>]+>', '', content)
+    
+    # Clean up excessive newlines
     content = re.sub(r'\n{3,}', '\n\n', content)
+    
+    # Ensure proper tag closing
+    content = close_tags_properly(content)
     
     return content.strip()
 
-# Parse the XML file
-tree = ET.parse(INPUT_XML)
-root = tree.getroot()
 
-# Iterate through each <entry> element in the XML
-for entry in root.findall("{http://www.w3.org/2005/Atom}entry"):
-    content_type = entry.find("{http://www.w3.org/2005/Atom}content").get("type") if entry.find("{http://www.w3.org/2005/Atom}content") is not None else 'none'
+def clean_html_tags(content):
+    """Remove unwanted HTML tags while preserving span and p tags."""
+    # Remove other HTML tags but preserve span and p tags for colors and structure
+    content = re.sub(r'<(?!span\b|p\b)[^>]*>', '', content)
+    content = re.sub(r'</(?!span\b|p\b)>', '', content)
     
-    # Process only the post entries
-    if content_type == "html":
-        author = entry.find("{http://www.w3.org/2005/Atom}author").find("{http://www.w3.org/2005/Atom}name").text
-        title = entry.find("{http://www.w3.org/2005/Atom}title").text
-        category = entry.find("{http://www.w3.org/2005/Atom}category").get("term")
+    return content
 
-        if author != 'Thomas Domingues' and title is not None and category != "http://schemas.google.com/blogger/2008/kind#comment":
-            content = entry.find("{http://www.w3.org/2005/Atom}content").text
-            published = entry.find("{http://www.w3.org/2005/Atom}published").text
-            updated = entry.find("{http://www.w3.org/2005/Atom}updated").text
 
-            # Clean up content using our custom function
-            cleaned_content = clean_html_content(content)
+def ensure_proper_tag_closing(content):
+    """Ensure all <span> and <p> tags are properly closed before the next one opens."""
+    # Find all opening and closing tags
+    tag_pattern = r'<(/?)(span|p)([^>]*)>'
+    matches = list(re.finditer(tag_pattern, content, re.IGNORECASE))
+    
+    # Process content character by character, tracking open tags
+    result = ""
+    open_tags = []
+    i = 0
+    
+    while i < len(content):
+        # Check if we're at a tag position
+        tag_found = False
+        for match in matches:
+            if match.start() == i:
+                is_closing = bool(match.group(1))
+                tag_name = match.group(2).lower()
+                
+                if is_closing:
+                    # Closing tag - find and remove matching opening tag from stack
+                    for j in range(len(open_tags) - 1, -1, -1):
+                        if open_tags[j] == tag_name:
+                            open_tags.pop(j)
+                            break
+                else:
+                    # Opening tag - close any conflicting tags first
+                    # If we're opening a <p> tag, close any open <p> tags
+                    if tag_name == 'p':
+                        for j in range(len(open_tags) - 1, -1, -1):
+                            if open_tags[j] == 'p':
+                                result += '</p>'
+                                open_tags.pop(j)
+                    # If we're opening a <span> tag, close any open <span> tags
+                    elif tag_name == 'span':
+                        for j in range(len(open_tags) - 1, -1, -1):
+                            if open_tags[j] == 'span':
+                                result += '</span>'
+                                open_tags.pop(j)
+                    
+                    # Add the new opening tag
+                    open_tags.append(tag_name)
+                
+                # Add the tag to result
+                result += match.group(0)
+                i = match.end()
+                tag_found = True
+                break
+        
+        if not tag_found:
+            result += content[i]
+            i += 1
+    
+    # Close any remaining open tags at the end
+    for tag in reversed(open_tags):
+        result += f'</{tag}>'
+    
+    return result
 
-            # Create poem post front matter
-            front_matter = f"""---
+
+def clean_html_content(content):
+    """Main function to clean and convert HTML content to clean markdown."""
+    # First, unescape HTML entities
+    content = html.unescape(content)
+    
+    # Remove Microsoft Word CSS styling
+    content = remove_microsoft_word_css(content)
+    
+    # Handle images and links
+    content, image_links = handle_images_and_links(content)
+    
+    # Convert HTML to markdown
+    content = convert_html_to_markdown(content)
+    
+    # Clean unwanted HTML tags
+    content = clean_html_tags(content)
+    
+    # Ensure proper tag closing
+    content = ensure_proper_tag_closing(content)
+    
+    # Clean up whitespace and normalize line breaks
+    content = re.sub(r'\n\s*\n\s*\n', '\n\n', content)
+    content = content.strip()
+    
+    return content, image_links
+
+
+def sanitize_filename(title, author="Unknown"):
+    """Sanitize title for use as filename."""
+    author = author.replace(' ', '-')
+    if not title:
+        return f"{author}-text-1"
+    
+    # Remove or replace problematic characters with a generic pattern
+    filename = title.lower()
+    filename = re.sub(r'[^\w\s-]', '', filename)  # Remove special chars except spaces and hyphens
+    filename = re.sub(r'[-\s]+', '-', filename)   # Replace spaces and multiple hyphens with single hyphen
+    filename = filename.strip('-')                 # Remove leading/trailing hyphens
+    
+    if not filename or len(filename) < 2:
+        return f"{author}-text-1"
+
+    return filename
+
+
+def parse_xml_and_convert():
+    """Parse the XML file and convert all posts."""
+    # Parse the XML file
+    tree = ET.parse(INPUT_XML)
+    root = tree.getroot()
+    
+    # Define namespaces
+    namespaces = {
+        'atom': 'http://www.w3.org/2005/Atom',
+        'gd': 'http://schemas.google.com/g/2005',
+        'thr': 'http://purl.org/syndication/thread/1.0'
+    }
+    
+    # Find all entries first
+    all_entries = root.findall('.//atom:entry', namespaces)
+    print(f"Found {len(all_entries)} total entries")
+    
+    # Find all blog posts (entries with post kind)
+    posts = []
+    for entry in all_entries:
+        # Check if this is a blog post (not a template or other entry type)
+        category_elem = entry.find('atom:category[@term="http://schemas.google.com/blogger/2008/kind#post"]', namespaces)
+        if category_elem is not None:
+            posts.append(entry)
+    
+    print(f"Found {len(posts)} blog posts")
+    
+    converted_count = 0
+    used_filenames = {}  # Track used filenames to avoid duplicates
+    
+    for post in posts:
+        # Extract post metadata
+        title_elem = post.find('atom:title', namespaces)
+        if title_elem is None or title_elem.text is None:
+            title = "Untitled"
+        else:
+            title = title_elem.text.strip()
+            if not title:
+                title = "Untitled"
+        
+        # Extract publication date
+        published_elem = post.find('atom:published', namespaces)
+        if published_elem is None:
+            continue
+            
+        published_date = published_elem.text[:10]  # YYYY-MM-DD
+        
+        # Extract author
+        author_elem = post.find('.//atom:author/atom:name', namespaces)
+        author = author_elem.text if author_elem is not None else "Unknown"
+        
+        # Skip Thomas Domingues' and Unknown authors posts
+        if author == "Thomas Domingues" or author == "Unknown":
+          continue
+        
+        # Extract last modified date
+        updated_elem = post.find('atom:updated', namespaces)
+        last_modified = updated_elem.text if updated_elem is not None else published_elem.text
+        
+        # Extract content
+        content_elem = post.find('atom:content', namespaces)
+        if content_elem is None:
+            continue
+            
+        content = content_elem.text
+        
+        # Clean and convert content
+        cleaned_content, image_links = clean_html_content(content)
+        
+        # Create filename with better handling of problematic titles
+        safe_title = sanitize_filename(title, author)
+        
+        # Handle duplicate filenames
+        base_filename = f"{published_date}-{safe_title}.md"
+        filename = base_filename
+        counter = 1
+        
+        while filename in used_filenames:
+            if safe_title.endswith(f"-text-{counter-1}"):
+                # Replace the existing counter
+                safe_title = safe_title.replace(f"-text-{counter-1}", f"-text-{counter}")
+            else:
+                # Add a counter
+                safe_title = f"{safe_title}-{counter}"
+            filename = f"{published_date}-{safe_title}.md"
+            counter += 1
+        
+        used_filenames[filename] = True
+        
+        # Create front matter
+        front_matter = f"""---
 layout: poem
 title: "{title}"
-date: {published}
+date: {published_elem.text}
 author: "{author}"
-last_modified_at: {updated}
+last_modified_at: {last_modified}
 categories:
   - imported
   - blogspot
@@ -84,19 +325,26 @@ tags:
   - blogspot
   - "{author}"
 ---
-"""
 
-            # Combine front matter and cleaned content
-            formatted_content = front_matter + "\n" + cleaned_content
+{cleaned_content}"""
+        
+        # Add image links section if there are images
+        if image_links:
+            front_matter += "\n\n---\n**Images in this post:**\n"
+            for img_url in image_links:
+                front_matter += f"- {img_url}\n"
+        
+        # Write to file
+        output_path = os.path.join(OUTPUT_DIR, filename)
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(front_matter)
+        
+        print(f"Converted '{title}' and saved to {filename}")
+        converted_count += 1
+    
+    print(f"\nProcessing complete! Converted {converted_count} posts.")
 
-            # Generate a filename based on the title
-            filename = published[:10] + "-" + re.sub(r'\s+', '-', title.lower().replace('/','')) + ".md"
-            output_file_path = os.path.join(OUTPUT_DIR, filename)
 
-            # Write the formatted content to the output file
-            with open(output_file_path, "w", encoding="utf-8") as output_file:
-                output_file.write(formatted_content)
-
-            print(f"Converted '{title}' and saved to {output_file_path}")
-
-print("Processing complete!")
+if __name__ == "__main__":
+    parse_xml_and_convert()
+    print("Processing complete!")

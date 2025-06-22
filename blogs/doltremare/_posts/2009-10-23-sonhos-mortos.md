@@ -13,19 +13,27 @@ tags:
 ---
 
 Qual Sombra de desejo antigo
+
 Qual abraço e peito amigo
+
 Viria assim me recordar?
 
 Relutar sonhos que tivera
+
 Uma antiga primavera
+
 Sentar-me só e agonizar
 
 Por ideal já enterrado
+
 Mais uma vez ignorado
+
 E vir a me torturar
 
 Por esta súplica alheia
+
 Por tais sonhos de areia
+
 Só ter então a lamentar..
 
 Aquilo tudo que morreu.

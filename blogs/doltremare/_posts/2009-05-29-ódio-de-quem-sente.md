@@ -15,16 +15,25 @@ tags:
 <span style="font-weight: bold;">Ódio de quem sente
 
 Tente viver, ser, aprender
+
 se um dia pudesse ouvir
+
 O que lhe diz, baixinho
+
 'amo-te, mas irei partir'
 
 A mesma pessoa sempre
+
 mas não o sentimento
+
 amor, ódio, alegria e tristeza
+
 Mudando conforme o vento.
 
 E ali está ela, ali está ele
+
 Amor e inveja, respectivamente
+
 Sentimento de remorso
-Ódio de quem sente.
+
+Ódio de quem sente.</span>

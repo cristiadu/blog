@@ -43,4 +43,5 @@ Sinceramente aquilo para mim foi o cúmulo, o senhor deu uma lição de moral im
 -----
 
 História que criei, não ficou muito boa, ainda não recuperei minha inspiração pra escrever...
+
 Fui.

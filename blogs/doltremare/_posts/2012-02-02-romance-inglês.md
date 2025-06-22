@@ -23,4 +23,5 @@ Tentei te perpetuar em poesia, mas como posso fazer caber um coração tão vali
 Como pode um ex-poeta escrever depois de tanto tempo algo que signifique a alma que lhe faz feliz? Sua alma por si já é poesia, não precisa de palavras que a definam. Frases são poucas para você, você é romance, daqueles ingleses com dizeres bonitos de almas maravilhosas.
 
 Como uma deusa, uma princesa, minha amante e meu amor.
+
 Assinado: Seu ex-poeta preferido.

@@ -25,4 +25,5 @@ E claaaro, eu sempre 'perco' também a atenção para pessoas mais populares, an
 Imagina, você conhece uma pessoa, passa a gostar dessa pessoa, se declara a essa pessoa num momento horrível, mas que se não fosse naquela hora, não poderia ser mais em hora nenhuma...daí você acha que perdeu essa pessoa para outro, depois descobre que não perdeu.Tenta fazer gestos bonitinhos, conversar na boa, manda um cartão romântico e recebe o que????UM "VALEEEU PELA INTENÇÃO".Ah de boa, é muito pra mim, como se já não bastasse as provas escolares, as brigas em casa, os problemas com amizades, os problemas com inimizades (que atualmente são muitos), o vestibular chegando aí...agora mais essa??'Valeu pela intenção'. Ah, concerteza virá alguém comentar aqui um 'foi uma merda esse post, mas valeu pela intenção'.
 
 Sem mais.
+
 Morri.
