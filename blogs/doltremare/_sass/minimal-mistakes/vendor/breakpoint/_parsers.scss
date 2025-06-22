@@ -1,11 +1,11 @@
 //////////////////////////////
 // Import Parser Pieces
 //////////////////////////////
-@import "parsers/query";
-@import "parsers/single";
-@import "parsers/double";
-@import "parsers/triple";
-@import "parsers/resolution";
+@use "parsers/query";
+@use "parsers/single";
+@use "parsers/double";
+@use "parsers/triple";
+@use "parsers/resolution";
 
 $Memo-Exists: function-exists(memo-get) and function-exists(memo-set);
 

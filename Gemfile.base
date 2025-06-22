@@ -1,0 +1,33 @@
+source "https://rubygems.org"
+
+# Shared dependencies for all blogs
+# This file is inherited by all individual Gemfiles
+
+# Core Jekyll version
+gem "jekyll", "~> 4.4.1"
+
+# Common plugins used across blogs
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.17.0"
+  gem "jekyll-soopr-seo-tag", "~> 2.7.3"
+  gem "rouge", "~> 4.5.2"
+  gem "webrick", "~> 1.9.1"
+end
+
+# Fix Faraday retry middleware warning
+gem "faraday-retry", "~> 2.2"
+
+# Windows and JRuby dependencies
+platforms :mingw, :x64_mingw, :mswin, :jruby do
+  gem 'tzinfo', '~> 2.0', '>= 2.0.6'
+  gem "tzinfo-data"
+end
+
+# Performance-booster for watching directories on Windows
+gem "wdm", "~> 0.2.0", :install_if => Gem.win_platform?
+
+# kramdown v2 ships without the gfm parser by default
+gem "kramdown-parser-gfm"
+
+# Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds
+gem "http_parser.rb", "~> 0.8.0", :platforms => [:jruby] 

@@ -29,10 +29,10 @@
 ///   // The full path to import Susy will depend on your setup…
 ///
 ///   // unprefixed
-///   @import 'plugins/svg-grid';
+///   @use 'plugins/svg-grid';
 ///
 ///   // prefixed
-///   @import 'plugins/svg-grid/prefix';
+///   @use 'plugins/svg-grid/prefix';
 ///
 /// @example scss - generating background grids
 ///   .grid {

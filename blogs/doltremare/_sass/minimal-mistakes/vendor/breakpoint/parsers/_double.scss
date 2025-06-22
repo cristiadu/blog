@@ -1,9 +1,9 @@
 //////////////////////////////
 // Import Pieces
 //////////////////////////////
-@import "double/default-pair";
-@import "double/double-string";
-@import "double/default";
+@use "double/default-pair";
+@use "double/double-string";
+@use "double/default";
 
 @function breakpoint-parse-double($feature, $empty-media, $first) {
   $parsed: '';
