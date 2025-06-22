@@ -1,6 +1,66 @@
+# Jekyll build output
+_site/
 _site
-.sass-cache
-.jekyll-cache
+
+# Jekyll cache and metadata
+.jekyll-cache/
 .jekyll-metadata
-**/vendor/bundle
+.jekyll-feed/
+
+# Sass cache
+.sass-cache/
+.sass-cache
+
+# Ignore all subfolders of _sass/ (theme/vendor), but keep top-level custom partials
+**/_sass/*/
+
+# Vendor assets (from gems, not versioned)
+**/assets/js/vendor/
+**/assets/vendor/
+**/vendor/
+
+# Bundle vendor directories
+**/vendor/bundle/
+vendor/bundle/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Node modules (if any)
+node_modules/
+
+# Ruby version manager files
+.ruby-version
+.rbenv-version
+.rvmrc
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Backup files
+*.bak
+*.backup
 
