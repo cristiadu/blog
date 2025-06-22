@@ -5,11 +5,11 @@ date: "2009-05-29T14:19:00.005-07:00"
 author: "Jéssica Cristina"
 last_modified_at: "2010-04-05T21:03:21.519-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Jéssica Cristina
+  - "blogspot"
+  - "Jéssica Cristina"
 ---
 
 Meu Melhor

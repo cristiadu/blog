@@ -5,11 +5,11 @@ date: "2010-06-23T09:13:00.000-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-06-23T09:13:46.872-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Então a pressão nos vem, e temos que aguentá-la

@@ -5,11 +5,11 @@ date: "2020-03-23T20:37:00.000-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2020-03-23T20:46:12.044-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 I miss the way I looked at you, and the excitement I had when going to see you.

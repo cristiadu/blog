@@ -5,11 +5,11 @@ date: "2010-10-21T19:56:00.000-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-10-21T19:56:52.562-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Cessar, fechar os olhos 

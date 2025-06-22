@@ -5,11 +5,11 @@ date: "2011-07-20T21:52:00.001-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2011-07-20T21:53:44.352-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Enquanto eu olhava as fotos,

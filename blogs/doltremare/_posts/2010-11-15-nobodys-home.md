@@ -5,11 +5,11 @@ date: "2010-11-15T10:33:00.002-08:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-11-15T10:34:37.924-08:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Ela estava perdida em si própria,

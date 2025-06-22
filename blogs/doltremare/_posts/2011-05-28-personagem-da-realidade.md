@@ -5,11 +5,11 @@ date: "2011-05-28T14:10:00.000-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2011-05-28T14:10:02.673-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Vejo muito do House em mim.

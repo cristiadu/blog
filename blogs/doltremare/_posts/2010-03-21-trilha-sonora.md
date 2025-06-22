@@ -5,11 +5,11 @@ date: "2010-03-21T17:15:00.000-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-04-05T21:19:01.306-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Minha vida tem trilha sonora

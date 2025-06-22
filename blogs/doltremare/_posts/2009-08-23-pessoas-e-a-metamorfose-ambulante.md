@@ -5,11 +5,11 @@ date: "2009-08-23T08:34:00.003-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-04-05T20:56:39.728-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 <span style="color: rgb(153, 153, 153); font-style: italic;font-size:10;" >As pessoas definitivamente não são algo com o qual possamos lidar.

@@ -5,11 +5,11 @@ date: "2010-05-02T19:42:00.004-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-05-02T20:20:36.088-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Sim, novamente a mente de intensa metamorfose.

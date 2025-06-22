@@ -5,11 +5,11 @@ date: "2016-11-07T15:42:00.000-08:00"
 author: "Cristiano Faustino"
 last_modified_at: "2016-11-07T15:42:13.067-08:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Sinto que eu devia parar de sentir;

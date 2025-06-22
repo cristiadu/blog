@@ -5,11 +5,11 @@ date: "2010-07-30T08:03:00.003-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-07-30T08:04:01.581-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 “Sempre acho que namoro, casamento, romance… têm começo, meio e fim.

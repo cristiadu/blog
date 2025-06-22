@@ -5,11 +5,11 @@ date: "2009-08-06T16:25:00.002-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-04-05T20:56:39.730-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Farei um post sobre essa banda que tô começando a curtir, tem letras muito bem elaboradas e ritmos ótimos, combinando com o vocal feminino (Que aliás, tenho gostado mais de bandas com vocais femininos do que masculinos ultimamente).

@@ -5,11 +5,11 @@ date: "2009-10-23T16:18:00.000-07:00"
 author: "Bruno  Vinícius"
 last_modified_at: "2010-04-05T21:06:37.251-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Bruno  Vinícius
+  - "blogspot"
+  - "Bruno  Vinícius"
 ---
 
 Qual Sombra de desejo antigo

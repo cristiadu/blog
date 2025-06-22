@@ -5,11 +5,11 @@ date: "2023-04-12T18:04:00.001-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2023-04-12T18:04:14.227-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 <p>Lately the nights have an added sparkle,</p><p>like you could, with your smile,</p><p>just brighten a whole townhouse.</p><p>Clean energy for everyone around you.</p><p>

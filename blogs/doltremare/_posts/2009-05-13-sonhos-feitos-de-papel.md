@@ -5,11 +5,11 @@ date: "2009-05-13T18:54:00.009-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-04-05T20:58:28.106-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 A vida nunca fora interessante, mas ele sentia que hoje era um dia diferente, talvez pelo cheiro de orvalho que nunca sentira, e que agora no outono, lhe enchia as narinas. Sua mãe lhe deixara mais uma mensagem de 'Bom dia, meu filho' na secretária eletrônica, como deixara os outros 363 dias do ano, agora em 29 de Dezembro, não seria diferente.

@@ -5,11 +5,11 @@ date: "2009-06-22T18:31:00.000-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-04-05T20:57:41.080-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Desde que te vi pela primeira vez

@@ -5,11 +5,11 @@ date: "2009-12-24T19:12:00.000-08:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-04-05T21:20:19.076-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Cada instante, cada momento

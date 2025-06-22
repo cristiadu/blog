@@ -227,22 +227,37 @@ def clean_html_content(content):
     return content, image_links
 
 
-def sanitize_filename(title, author="Unknown"):
-    """Sanitize title for use as filename."""
-    author = author.replace(' ', '-')
-    if not title:
-        return f"{author}-text-1"
-    
-    # Remove or replace problematic characters with a generic pattern
-    filename = title.lower()
-    filename = re.sub(r'[^\w\s-]', '', filename)  # Remove special chars except spaces and hyphens
-    filename = re.sub(r'[-\s]+', '-', filename)   # Replace spaces and multiple hyphens with single hyphen
-    filename = filename.strip('-')                 # Remove leading/trailing hyphens
-    
-    if not filename or len(filename) < 2:
-        return f"{author}-text-1"
-
+def sanitize_filename(title, date, used_filenames, author):
+    """Sanitize the title to create a valid Jekyll filename."""
+    # Create a slug: lowercase, replace spaces with hyphens, remove invalid chars
+    slug = title.lower()
+    slug = re.sub(r'[^a-z0-9\s-]', '', slug)  # keep only a-z, 0-9, space, hyphen
+    slug = re.sub(r'\s+', '-', slug)          # replace spaces with hyphens
+    slug = re.sub(r'-+', '-', slug)            # collapse multiple hyphens
+    slug = slug.strip('-')
+    # Fallback if slug is empty
+    if not slug:
+        slug = f'{author.lower().replace(" ", "-")}-post'
+    # Ensure filename starts with date
+    date_prefix = date[:10]  # YYYY-MM-DD
+    base_filename = f'{date_prefix}-{slug}.md'
+    # Ensure uniqueness
+    filename = base_filename
+    counter = 1
+    while filename in used_filenames:
+        filename = f'{date_prefix}-{slug}-{counter}.md'
+        counter += 1
+    used_filenames[filename] = True
     return filename
+
+
+def yaml_quote(value):
+    """Quote and escape a value for YAML front matter."""
+    if value is None:
+        return '""'
+    value = str(value)
+    value = value.replace('"', '\"')
+    return f'"{value}"'
 
 
 def parse_xml_and_convert():
@@ -315,26 +330,9 @@ def parse_xml_and_convert():
         cleaned_content, image_links = clean_html_content(content)
         
         # Create filename with better handling of problematic titles
-        safe_title = sanitize_filename(title, author)
+        filename = sanitize_filename(title, published_date, used_filenames, author)
         
-        # Handle duplicate filenames
-        base_filename = f"{published_date}-{safe_title}.md"
-        filename = base_filename
-        counter = 1
-        
-        while filename in used_filenames:
-            if safe_title.endswith(f"-text-{counter-1}"):
-                # Replace the existing counter
-                safe_title = safe_title.replace(f"-text-{counter-1}", f"-text-{counter}")
-            else:
-                # Add a counter
-                safe_title = f"{safe_title}-{counter}"
-            filename = f"{published_date}-{safe_title}.md"
-            counter += 1
-        
-        used_filenames[filename] = True
-        
-        # Create front matter
+        # Prepare front matter as a dict
         front_matter = {
             'layout': 'poem',
             'title': title,
@@ -342,24 +340,22 @@ def parse_xml_and_convert():
             'author': author,
             'last_modified_at': last_modified,
             'categories': ['imported', 'blogspot'],
-            'tags': [f'blogspot', f'{author}']
+            'tags': ['blogspot', author]
         }
-        
-        # Add image links section if there are images
         if image_links:
             front_matter['images'] = image_links
         
-        # Write to file
-        output_path = os.path.join(OUTPUT_DIR, filename)
-        with open(output_path, 'w', encoding='utf-8') as f:
+        # Write to file with manual YAML front matter
+        filepath = os.path.join(OUTPUT_DIR, filename)
+        with open(filepath, 'w', encoding='utf-8') as f:
             f.write('---\n')
             for key, value in front_matter.items():
                 if isinstance(value, list):
                     f.write(f'{key}:\n')
                     for item in value:
-                        f.write(f'  - {item}\n')
+                        f.write(f'  - {yaml_quote(item)}\n')
                 else:
-                    f.write(f'{key}: "{value}"\n')
+                    f.write(f'{key}: {yaml_quote(value)}\n')
             f.write('---\n\n')
             f.write(cleaned_content)
         

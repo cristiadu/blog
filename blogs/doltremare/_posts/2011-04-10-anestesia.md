@@ -5,11 +5,11 @@ date: "2011-04-10T07:35:00.000-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2011-04-10T07:35:40.720-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Como os mares caminham dentre subita dor da agonia.

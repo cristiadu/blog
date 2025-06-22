@@ -5,11 +5,11 @@ date: "2011-05-15T13:37:00.001-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2011-05-15T13:39:14.938-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 O que deveria fazer agora?

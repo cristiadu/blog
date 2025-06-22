@@ -5,11 +5,11 @@ date: "2009-10-27T16:53:00.002-07:00"
 author: "Nathália Santos"
 last_modified_at: "2010-04-05T21:05:37.578-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Nathália Santos
+  - "blogspot"
+  - "Nathália Santos"
 ---
 
 É difícil dar um nome original a algo tão clichê, mesmo que esse algo não seja tão comum assim.

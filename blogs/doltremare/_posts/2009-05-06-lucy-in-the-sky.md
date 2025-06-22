@@ -5,11 +5,11 @@ date: "2009-05-06T16:11:00.004-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-04-05T20:58:28.109-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 <span style=";font-family:verdana;font-size:78%;"  >..with diamonds!

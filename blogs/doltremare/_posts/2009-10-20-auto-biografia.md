@@ -5,11 +5,11 @@ date: "2009-10-20T16:44:00.002-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-04-05T20:56:39.715-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Imagine uma história onde tudo foi tumultuado

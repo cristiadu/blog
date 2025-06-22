@@ -5,11 +5,11 @@ date: "2019-11-04T12:01:00.000-08:00"
 author: "Cristiano Faustino"
 last_modified_at: "2019-11-04T12:08:57.371-08:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 The man wakes up.

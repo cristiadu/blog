@@ -5,11 +5,11 @@ date: "2010-07-19T17:55:00.002-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-07-19T17:59:19.252-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Beba deste sangue que te espera, não fuja do abismo que te leva.

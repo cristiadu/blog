@@ -5,11 +5,11 @@ date: "2012-03-07T09:47:00.002-08:00"
 author: "Cristiano Faustino"
 last_modified_at: "2012-03-07T09:47:50.619-08:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Encontrei-te, como quem não procurava

@@ -5,11 +5,11 @@ date: "2011-10-01T01:10:00.006-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2011-10-01T01:14:17.115-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Ela dançava;

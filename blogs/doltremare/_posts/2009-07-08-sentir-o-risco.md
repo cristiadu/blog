@@ -5,11 +5,11 @@ date: "2009-07-08T15:56:00.001-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-04-05T20:57:41.073-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Bom, vou postar aqui porque acho que foi meu ápice de criatividade e sentimento até agora, nunca escrevi algo tão....completo. Sério.

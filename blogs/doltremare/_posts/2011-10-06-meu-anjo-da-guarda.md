@@ -5,11 +5,11 @@ date: "2011-10-06T18:38:00.000-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2011-10-06T18:38:00.791-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Eu preciso dizer;

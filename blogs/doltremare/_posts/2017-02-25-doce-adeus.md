@@ -5,11 +5,11 @@ date: "2017-02-25T00:55:00.000-08:00"
 author: "Cristiano Faustino"
 last_modified_at: "2017-02-25T00:57:41.277-08:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Se eu quero o que não tenho mais,

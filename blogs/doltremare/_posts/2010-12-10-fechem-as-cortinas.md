@@ -5,11 +5,11 @@ date: "2010-12-10T21:11:00.002-08:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-12-10T21:11:51.185-08:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Enfim existo e nessa afirmação me perco.

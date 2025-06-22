@@ -5,11 +5,11 @@ date: "2010-03-09T19:35:00.000-08:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-04-05T21:19:01.308-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Diga-me, qual alma de súbita alegria

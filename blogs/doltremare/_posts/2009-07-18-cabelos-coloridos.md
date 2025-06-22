@@ -5,37 +5,37 @@ date: "2009-07-18T14:19:00.028-07:00"
 author: "Jéssica Cristina"
 last_modified_at: "2010-04-05T21:02:27.669-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Jéssica Cristina
+  - "blogspot"
+  - "Jéssica Cristina"
 images:
-  - http://2.bp.blogspot.com/_sIsAsPAOqZA/SmJG83FagTI/AAAAAAAAAdo/THDSV6TxWoQ/s400/2atomic.jpg
-  - http://2.bp.blogspot.com/_sIsAsPAOqZA/SmJG8mkbnWI/AAAAAAAAAdg/Un1OH0hljw8/s400/SF.jpg
-  - http://2.bp.blogspot.com/_sIsAsPAOqZA/SmJH7xeG8gI/AAAAAAAAAdw/bEIMh61UW4I/s400/2421683934_b55f52dc39_o.jpg
-  - http://1.bp.blogspot.com/_sIsAsPAOqZA/SmJKI2INWsI/AAAAAAAAAeI/4MfkPGt126Q/s400/514005_lagoonblue.gif
-  - http://3.bp.blogspot.com/_sIsAsPAOqZA/SmJKIw_bQ6I/AAAAAAAAAeA/LokWD5laKoM/s400/punkychart61.jpg
-  - http://2.bp.blogspot.com/_sIsAsPAOqZA/SmJL5XgswYI/AAAAAAAAAeQ/6SrY53xAewo/s400/jeanscolor.jpg
-  - http://4.bp.blogspot.com/_sIsAsPAOqZA/SmJMX8cMzlI/AAAAAAAAAeg/RVS89_DvqUA/s400/jeanscolorcatalogo-copy.jpg
-  - http://1.bp.blogspot.com/_sIsAsPAOqZA/SmJNjeErL0I/AAAAAAAAAeo/pg8DR9AQ6E0/s400/keraton.JPG
-  - http://2.bp.blogspot.com/_sIsAsPAOqZA/SmJOxbWM4zI/AAAAAAAAAew/LZFkRD4LvRg/s400/keraton+2.jpg
-  - http://1.bp.blogspot.com/_sIsAsPAOqZA/SmJm15Gtv-I/AAAAAAAAAg4/K5re5xZ7od8/s400/2czdcfo.jpg
-  - http://1.bp.blogspot.com/_sIsAsPAOqZA/SmJRvvDeSPI/AAAAAAAAAfA/h7H_W3lFeUg/s400/exotic.jpg
-  - http://4.bp.blogspot.com/_sIsAsPAOqZA/SmJTEFyrOfI/AAAAAAAAAfI/htZ8GljzK_w/s400/anilina.jpg
-  - http://1.bp.blogspot.com/_sIsAsPAOqZA/SmJVqR1PWjI/AAAAAAAAAfY/0_PCwcfZDCc/s400/VG.jpg
-  - http://3.bp.blogspot.com/_sIsAsPAOqZA/SmJVqf8dwTI/AAAAAAAAAfQ/LpnsdrosCUc/s400/Azul+de+Metileno+ADV+30ml.jpg
-  - http://2.bp.blogspot.com/_sIsAsPAOqZA/SmJZ9lAvoUI/AAAAAAAAAfg/o6r7OqSc6mM/s400/OgAAAKIJXd0p7TrSVb70jk4YbPv1z5YEKmqI5n-KWf1Vo4a7khw_vldbyoEoV6FN4nFEC7G3qcZ4szGbgQDC7Qsvkg8Am1T1UILV7FxR6rmYeRQI-GZwlIBPSTly.jpg
-  - http://4.bp.blogspot.com/_sIsAsPAOqZA/SmJah30gLcI/AAAAAAAAAfo/7UL4n6BXnVA/s400/OgAAAHrIQ96dmnG58V_lBfI3F8AIlQ8620ECxVbL0qFercYgvYbBxNvopR0YNnh676ND0DjtrNnQHjYKq5xLLb0ZudEAm1T1UJi-lrR-wthqT4-gwelZOn3ZQOD2.jpg
-  - http://1.bp.blogspot.com/_sIsAsPAOqZA/SmJbCkGyEgI/AAAAAAAAAfw/zm87wGKwl2c/s400/enrolado.jpg
-  - http://2.bp.blogspot.com/_sIsAsPAOqZA/SmJbh--GvLI/AAAAAAAAAf4/KR2xTOfTsvo/s400/my_green_hair_2_by_pin_updecadence.jpg
-  - http://3.bp.blogspot.com/_sIsAsPAOqZA/SmJbhzK7wgI/AAAAAAAAAgA/awcUXYTZxms/s400/escarlate.jpg
-  - http://1.bp.blogspot.com/_sIsAsPAOqZA/SmJdV-eJ_WI/AAAAAAAAAgI/K8_Zpsn5yXw/s400/Imagem+304.jpg
-  - http://4.bp.blogspot.com/_sIsAsPAOqZA/SmJes1RwA0I/AAAAAAAAAgQ/1u_sykXU8TE/s400/image.axd.jpg
-  - http://3.bp.blogspot.com/_sIsAsPAOqZA/SmJfcopc16I/AAAAAAAAAgY/_9N-ZNwKfbs/s400/ocean+blue.jpg
-  - http://3.bp.blogspot.com/_sIsAsPAOqZA/SmJgydjpQmI/AAAAAAAAAgg/nm1VFaa9mtk/s400/rosa+e+azul.jpg
-  - http://3.bp.blogspot.com/_sIsAsPAOqZA/SmJhoXQFLqI/AAAAAAAAAgo/_UhNBrFgM5g/s400/garota.jpg
-  - http://4.bp.blogspot.com/_sIsAsPAOqZA/SmJid3-8SfI/AAAAAAAAAgw/cjfE2QklIMo/s400/rurquoise.jpg
+  - "http://2.bp.blogspot.com/_sIsAsPAOqZA/SmJG83FagTI/AAAAAAAAAdo/THDSV6TxWoQ/s400/2atomic.jpg"
+  - "http://2.bp.blogspot.com/_sIsAsPAOqZA/SmJG8mkbnWI/AAAAAAAAAdg/Un1OH0hljw8/s400/SF.jpg"
+  - "http://2.bp.blogspot.com/_sIsAsPAOqZA/SmJH7xeG8gI/AAAAAAAAAdw/bEIMh61UW4I/s400/2421683934_b55f52dc39_o.jpg"
+  - "http://1.bp.blogspot.com/_sIsAsPAOqZA/SmJKI2INWsI/AAAAAAAAAeI/4MfkPGt126Q/s400/514005_lagoonblue.gif"
+  - "http://3.bp.blogspot.com/_sIsAsPAOqZA/SmJKIw_bQ6I/AAAAAAAAAeA/LokWD5laKoM/s400/punkychart61.jpg"
+  - "http://2.bp.blogspot.com/_sIsAsPAOqZA/SmJL5XgswYI/AAAAAAAAAeQ/6SrY53xAewo/s400/jeanscolor.jpg"
+  - "http://4.bp.blogspot.com/_sIsAsPAOqZA/SmJMX8cMzlI/AAAAAAAAAeg/RVS89_DvqUA/s400/jeanscolorcatalogo-copy.jpg"
+  - "http://1.bp.blogspot.com/_sIsAsPAOqZA/SmJNjeErL0I/AAAAAAAAAeo/pg8DR9AQ6E0/s400/keraton.JPG"
+  - "http://2.bp.blogspot.com/_sIsAsPAOqZA/SmJOxbWM4zI/AAAAAAAAAew/LZFkRD4LvRg/s400/keraton+2.jpg"
+  - "http://1.bp.blogspot.com/_sIsAsPAOqZA/SmJm15Gtv-I/AAAAAAAAAg4/K5re5xZ7od8/s400/2czdcfo.jpg"
+  - "http://1.bp.blogspot.com/_sIsAsPAOqZA/SmJRvvDeSPI/AAAAAAAAAfA/h7H_W3lFeUg/s400/exotic.jpg"
+  - "http://4.bp.blogspot.com/_sIsAsPAOqZA/SmJTEFyrOfI/AAAAAAAAAfI/htZ8GljzK_w/s400/anilina.jpg"
+  - "http://1.bp.blogspot.com/_sIsAsPAOqZA/SmJVqR1PWjI/AAAAAAAAAfY/0_PCwcfZDCc/s400/VG.jpg"
+  - "http://3.bp.blogspot.com/_sIsAsPAOqZA/SmJVqf8dwTI/AAAAAAAAAfQ/LpnsdrosCUc/s400/Azul+de+Metileno+ADV+30ml.jpg"
+  - "http://2.bp.blogspot.com/_sIsAsPAOqZA/SmJZ9lAvoUI/AAAAAAAAAfg/o6r7OqSc6mM/s400/OgAAAKIJXd0p7TrSVb70jk4YbPv1z5YEKmqI5n-KWf1Vo4a7khw_vldbyoEoV6FN4nFEC7G3qcZ4szGbgQDC7Qsvkg8Am1T1UILV7FxR6rmYeRQI-GZwlIBPSTly.jpg"
+  - "http://4.bp.blogspot.com/_sIsAsPAOqZA/SmJah30gLcI/AAAAAAAAAfo/7UL4n6BXnVA/s400/OgAAAHrIQ96dmnG58V_lBfI3F8AIlQ8620ECxVbL0qFercYgvYbBxNvopR0YNnh676ND0DjtrNnQHjYKq5xLLb0ZudEAm1T1UJi-lrR-wthqT4-gwelZOn3ZQOD2.jpg"
+  - "http://1.bp.blogspot.com/_sIsAsPAOqZA/SmJbCkGyEgI/AAAAAAAAAfw/zm87wGKwl2c/s400/enrolado.jpg"
+  - "http://2.bp.blogspot.com/_sIsAsPAOqZA/SmJbh--GvLI/AAAAAAAAAf4/KR2xTOfTsvo/s400/my_green_hair_2_by_pin_updecadence.jpg"
+  - "http://3.bp.blogspot.com/_sIsAsPAOqZA/SmJbhzK7wgI/AAAAAAAAAgA/awcUXYTZxms/s400/escarlate.jpg"
+  - "http://1.bp.blogspot.com/_sIsAsPAOqZA/SmJdV-eJ_WI/AAAAAAAAAgI/K8_Zpsn5yXw/s400/Imagem+304.jpg"
+  - "http://4.bp.blogspot.com/_sIsAsPAOqZA/SmJes1RwA0I/AAAAAAAAAgQ/1u_sykXU8TE/s400/image.axd.jpg"
+  - "http://3.bp.blogspot.com/_sIsAsPAOqZA/SmJfcopc16I/AAAAAAAAAgY/_9N-ZNwKfbs/s400/ocean+blue.jpg"
+  - "http://3.bp.blogspot.com/_sIsAsPAOqZA/SmJgydjpQmI/AAAAAAAAAgg/nm1VFaa9mtk/s400/rosa+e+azul.jpg"
+  - "http://3.bp.blogspot.com/_sIsAsPAOqZA/SmJhoXQFLqI/AAAAAAAAAgo/_UhNBrFgM5g/s400/garota.jpg"
+  - "http://4.bp.blogspot.com/_sIsAsPAOqZA/SmJid3-8SfI/AAAAAAAAAgw/cjfE2QklIMo/s400/rurquoise.jpg"
 ---
 
 Bom, como eu não sou uma especialista, é claro que vão ter algumas falhas no post, mas o que vale é a intenção \o/

@@ -5,11 +5,11 @@ date: "2009-10-05T16:40:00.002-07:00"
 author: "Bruno  Vinícius"
 last_modified_at: "2010-04-05T21:06:37.254-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Bruno  Vinícius
+  - "blogspot"
+  - "Bruno  Vinícius"
 ---
 
 E se um dia olhássemos pra trás

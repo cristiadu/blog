@@ -5,11 +5,11 @@ date: "2011-10-28T22:45:00.001-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2011-10-28T22:46:15.745-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Pense em alguém.

@@ -5,11 +5,11 @@ date: "2009-05-21T15:44:00.005-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2020-07-29T00:14:31.718-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 <span style="color: rgb(255 , 153 , 0); font-family: "trebuchet ms";">Bom, bom, muuuito bom, agora tem isso jé? ¬¬

@@ -5,11 +5,11 @@ date: "2011-08-02T23:19:00.002-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2011-08-02T23:19:58.946-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Riso, ah... Um bom riso.

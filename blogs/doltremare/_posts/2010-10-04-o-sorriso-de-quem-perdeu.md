@@ -5,11 +5,11 @@ date: "2010-10-04T06:01:00.002-07:00"
 author: "Cristiano Faustino"
 last_modified_at: "2010-10-04T06:01:48.224-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Cristiano Faustino
+  - "blogspot"
+  - "Cristiano Faustino"
 ---
 
 Soldados caídos na trincheira não mostram derrotas

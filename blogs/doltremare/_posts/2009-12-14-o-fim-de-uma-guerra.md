@@ -5,11 +5,11 @@ date: "2009-12-14T08:55:00.002-08:00"
 author: "SeeSawLife"
 last_modified_at: "2010-04-05T21:08:40.656-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - SeeSawLife
+  - "blogspot"
+  - "SeeSawLife"
 ---
 
 Durante todo o ano, estudamos, nos esforçamos, e as preocupações eram de origem social e escolar. Muitas pessoas demonstravam a ânsia pelo final vitálicio do 2º Grau, me incluia nesse grupo, não muito restrito; mas, hoje, considero os otimistas pelo fim, imensos hipócritas!

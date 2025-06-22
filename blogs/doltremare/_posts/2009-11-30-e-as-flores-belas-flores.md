@@ -5,11 +5,11 @@ date: "2009-11-30T15:29:00.003-08:00"
 author: "Nathália Santos"
 last_modified_at: "2010-04-05T21:05:37.565-07:00"
 categories:
-  - imported
-  - blogspot
+  - "imported"
+  - "blogspot"
 tags:
-  - blogspot
-  - Nathália Santos
+  - "blogspot"
+  - "Nathália Santos"
 ---
 
 E as flores?
