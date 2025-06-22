@@ -15,7 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 
 # Defining collections to represent each sub-blog.
-email: cristiadu@gmail.com
 url: "https://blog.cristianofaustino.me"
 markdown: kramdown
 twitter_username: cristiadu

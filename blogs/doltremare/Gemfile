@@ -2,4 +2,3 @@
 eval_gemfile "../../Gemfile.base"
 
 # Blog-specific dependencies
-gem "minimal-mistakes-jekyll"
