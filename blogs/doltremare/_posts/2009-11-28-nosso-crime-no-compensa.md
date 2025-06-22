@@ -34,7 +34,7 @@ tags:
 
 <span style="font-style: italic;">para me tirar fora de mim.
 
-<span style="font-style: italic;">    ''Enquanto você conversa e me beija
+<span style="font-style: italic;">   "Enquanto você conversa e me beija
 
    Ao mesmo tempo eu vejo
 
@@ -46,7 +46,7 @@ tags:
 
    O ritmo rola fácil
 
-   Parece que foi ensaiado''
+   Parece que foi ensaiado"
 
 <span style="font-style: italic;">É aquele 'lugar' no qual você sente, que essa conexão que existe entre vocês, nós, é especial, 
 
@@ -56,7 +56,7 @@ tags:
 
 <span style="font-style: italic;">vez na vida, por que, aí sim, poderam dizer que foram amados de verdade ao menos, essa unica vez...
 
-<span style="font-style: italic;">''Até parece que você já tinha
+<span style="font-style: italic;">"Até parece que você já tinha
 
    O meu manual de instruções
 
@@ -66,7 +66,7 @@ tags:
 
    E porque quando você me abraça
 
-   O mundo gira devagar''
+   O mundo gira devagar"
 
 <span style="font-style: italic;">O jeito como fala, a sua voz, é algo que me embriaga, e logo depois me deixa sobria, nos momentos de ecstasy.
 
@@ -76,7 +76,7 @@ tags:
 
 <span style="font-style: italic;">E quando percebo, já não existe mas o 'eu', existe apenas, o nós!
 
-<span style="font-style: italic;">    ''Adoro essa sua cara de sono
+<span style="font-style: italic;">    "Adoro essa sua cara de sono
 
    E o timbre da sua voz
 
@@ -88,7 +88,7 @@ tags:
 
    Que eu só fiquei aqui
 
-   Porque nós dois somos iguais''
+   Porque nós dois somos iguais"
 
 <span style="font-style: italic;">E hoje, eu queria poder parar o tempo, e voltar tudo ao começo, no nosso primeiro beijo, por que sei, que a partir 
 
@@ -98,7 +98,7 @@ tags:
 
 <span style="font-style: italic;">eu sempre te disse issu!
 
-<span style="font-style: italic;">    ''E o tempo é só meu
+<span style="font-style: italic;">   "E o tempo é só meu
 
    E ninguém registra a cena
 
@@ -108,7 +108,7 @@ tags:
 
    E eu acho que eu gosto mesmo de você
 
-   Bem do jeito que você é''
+   Bem do jeito que você é"
 
 <span style="font-style: italic;">Até hoje, penso em como mostrar tudo issu para você, sem que pareca cliche demais, ou ladainhas, antes já ditas.
 
@@ -116,12 +116,12 @@ tags:
 
 <span style="font-style: italic;">disse aqui...pois nada do que a gente viveu, foi mentira!
 
-<span style="font-style: italic;">    ''Eu vou equalizar você
+<span style="font-style: italic;">    "Eu vou equalizar você
 
    Numa freqüência que só a gente sabe
 
    Eu te transformei nessa canção
 
-   Pra poder te gravar em mim'' 
+   Pra poder te gravar em mim" 
 
 <span style="font-style: italic;">É, <span style="font-weight: bold;">eu te amo! ;@
