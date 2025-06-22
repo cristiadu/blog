@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Fera e o seu criador"
-date: 2010-05-08T23:30:00.000-07:00
+date: "2010-05-08T23:30:00.000-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-05-08T23:30:41.764-07:00
+last_modified_at: "2010-05-08T23:30:41.764-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 A mente errada, a mente errando

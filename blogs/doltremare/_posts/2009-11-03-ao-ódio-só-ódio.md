@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Ao ódio, só ódio"
-date: 2009-11-03T13:55:00.002-08:00
+date: "2009-11-03T13:55:00.002-08:00"
 author: "Bruno  Vinícius"
-last_modified_at: 2010-04-05T21:07:22.501-07:00
+last_modified_at: "2010-04-05T21:07:22.501-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Bruno  Vinícius"
+  - Bruno  Vinícius
 ---
 
 Quero ver teu sangue jorrar

@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "O jogo da vida"
-date: 2009-11-16T17:13:00.000-08:00
+date: "2009-11-16T17:13:00.000-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T20:55:37.304-07:00
+last_modified_at: "2010-04-05T20:55:37.304-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 A destruição está chegando, a passos curtos, como alguém caminhando aleatoriamente pelas ruas sem destino algum...mas um dia ela chegará nele, e vai cumprir seu objetivo, sua sina.Não será doloroso para a crueldade em si, mas para quem a toma, em quem será atingido, os sonhos, sim...os sonhos serão pegos de surpresa e não terão tempo nem de respirar mais uma vez, a frustração vira o carro-chefe agora. A esperança é levada ao nocaute e a vitória está declarada, o desânimo ganhara no meio de tantos sentimentos.

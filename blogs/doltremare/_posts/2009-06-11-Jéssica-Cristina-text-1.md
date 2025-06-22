@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: ";@"
-date: 2009-06-11T16:32:00.004-07:00
+date: "2009-06-11T16:32:00.004-07:00"
 author: "Jéssica Cristina"
-last_modified_at: 2010-04-05T21:03:21.516-07:00
+last_modified_at: "2010-04-05T21:03:21.516-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Jéssica Cristina"
+  - Jéssica Cristina
 ---
 
 <span style="font-size:78%;">Lembre-se bem sobre as coisas que vc diz as pessoas ...

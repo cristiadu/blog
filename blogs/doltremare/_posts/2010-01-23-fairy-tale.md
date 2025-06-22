@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Fairy Tale"
-date: 2010-01-23T21:12:00.002-08:00
+date: "2010-01-23T21:12:00.002-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T21:20:19.066-07:00
+last_modified_at: "2010-04-05T21:20:19.066-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 E ele vive num conto de fadas

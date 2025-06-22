@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Desespero por teu gosto."
-date: 2010-03-26T14:55:00.000-07:00
+date: "2010-03-26T14:55:00.000-07:00"
 author: "Jéssica Cristina"
-last_modified_at: 2010-04-05T21:19:01.304-07:00
+last_modified_at: "2010-04-05T21:19:01.304-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Jéssica Cristina"
+  - Jéssica Cristina
 ---
 
 Minha visão estava embaçada,

@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "O verbo que me faz cantar"
-date: 2009-11-28T16:33:00.001-08:00
+date: "2009-11-28T16:33:00.001-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T20:55:37.301-07:00
+last_modified_at: "2010-04-05T20:55:37.301-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Se eu pudesse lhe dizer você já saberia

@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "A dor do Palhaço"
-date: 2009-11-10T12:52:00.002-08:00
+date: "2009-11-10T12:52:00.002-08:00"
 author: "Nathália Santos"
-last_modified_at: 2010-04-05T21:05:37.574-07:00
+last_modified_at: "2010-04-05T21:05:37.574-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Nathália Santos"
+  - Nathália Santos
 ---
 
 Nossas vidas se separaram. Mudamos de rumo, de interesses, de atrativos pessoais. Nossas vidas se separaram apesar de eu ainda chorar o fim. Em sintonia com o ranger da cadeira, pensei em abusar da minha sorte. Com boa vontade e satisfação plena, me encontrei em seu leito de morte. O fim encontrando, pela primeira vez, o início de algo escasso. Vivendo na insanidade e insensatez, abrindo os braços para mais um palhaço. Nariz vermelho e tinta a cobrir as imperfeições de um rosto velho. Sempre sorrindo, rindo, se divertindo, nunca quiseram saber se ele chorava. Perdeu a vida inteira procurando um horizonte para nele fixar seu olhar vazio, complexo, sadio.

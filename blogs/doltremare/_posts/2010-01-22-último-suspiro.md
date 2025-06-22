@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Último suspiro"
-date: 2010-01-22T20:07:00.004-08:00
+date: "2010-01-22T20:07:00.004-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T21:20:19.068-07:00
+last_modified_at: "2010-04-05T21:20:19.068-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 N'alma dos pobres coitados viajantes do tempo

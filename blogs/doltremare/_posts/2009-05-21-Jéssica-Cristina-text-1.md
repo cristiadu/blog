@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: ":D"
-date: 2009-05-21T13:51:00.003-07:00
+date: "2009-05-21T13:51:00.003-07:00"
 author: "Jéssica Cristina"
-last_modified_at: 2010-04-05T21:04:40.934-07:00
+last_modified_at: "2010-04-05T21:04:40.934-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Jéssica Cristina"
+  - Jéssica Cristina
 ---
 
 <span style="font-style: italic;">eu so posto merda kspaoksaposkapoksposakpoask normal .-. é minha cara! xD

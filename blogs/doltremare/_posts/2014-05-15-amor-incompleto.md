@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Amor Incompleto"
-date: 2014-05-15T03:13:00.000-07:00
+date: "2014-05-15T03:13:00.000-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2014-05-15T03:13:00.367-07:00
+last_modified_at: "2014-05-15T03:13:00.367-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Eu ouço os segundos passando,

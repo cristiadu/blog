@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Deixa eu te contar uma história... (parte 3)"
-date: 2010-09-16T20:34:00.002-07:00
+date: "2010-09-16T20:34:00.002-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-09-17T19:58:08.372-07:00
+last_modified_at: "2010-09-17T19:58:08.372-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 "Fé, quem lhe acredita? Apenas um único Deus a quem se submete, uma lei de quem evita. O pecado em que a alma habita..."

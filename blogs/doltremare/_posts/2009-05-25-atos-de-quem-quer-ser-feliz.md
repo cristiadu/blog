@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Atos de quem quer ser feliz"
-date: 2009-05-25T16:30:00.001-07:00
+date: "2009-05-25T16:30:00.001-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T20:57:41.088-07:00
+last_modified_at: "2010-04-05T20:57:41.088-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 <span style="font-size:130%;"></span><span style="font-weight: bold;">Atos

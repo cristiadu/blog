@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Snapshot: Teletransporting feelings"
-date: 2020-11-23T20:04:00.002-08:00
+date: "2020-11-23T20:04:00.002-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2020-11-23T20:05:27.158-08:00
+last_modified_at: "2020-11-23T20:05:27.158-08:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 <p>He wakes up, looks ahead while slowly opening his child eyes.</p><p>He slept in the couch again. It's 9:30pm.</p><p>"Oh, I guess it's still not time", said to himself, while having headaches due to oversleeping on boredom.</p><p>The soap opera starts again, it's the third of the night, and he is following all of them.</p><p>He immerses in the world of the TV again, sitting in the corner of the sofa, with the curtains closed due to the darkness outside. He is way too close to the TV.</p><p>And the travel begins.</p><p>- I'm here for you, Jessica. "Oh wait, he's not supposed to say this, it's betrayal".

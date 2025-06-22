@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Essa é pessoal"
-date: 2011-02-17T03:11:00.004-08:00
+date: "2011-02-17T03:11:00.004-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2011-02-17T03:12:55.339-08:00
+last_modified_at: "2011-02-17T03:12:55.339-08:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Bem, eu parei de postar coisas pessoais e me dediquei apenas a textos de minha autoria, isso desde o meio do ano passado, mesmo que os textos parecessem desabafos, algumas vezes não passavam de idéias que surgiram e fui escrevendo, como uma máquina de escrever, as vezes até de olhos fechados. É interessante isso. Mas hoje decidi reservar esse post para algo mais pessoal, que eu realmente preciso desabafar.

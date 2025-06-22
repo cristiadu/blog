@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Embriaguez"
-date: 2010-08-13T09:10:00.002-07:00
+date: "2010-08-13T09:10:00.002-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-08-13T09:10:41.077-07:00
+last_modified_at: "2010-08-13T09:10:41.077-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Vem, sacia minha sede de ficar louco

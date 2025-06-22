@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Eis a milonga"
-date: 2010-06-08T20:26:00.001-07:00
+date: "2010-06-08T20:26:00.001-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-06-08T20:28:00.431-07:00
+last_modified_at: "2010-06-08T20:28:00.431-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Mas diz porque tens medo

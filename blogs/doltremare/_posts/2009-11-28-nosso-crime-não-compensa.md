@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Nosso crime não compensa.."
-date: 2009-11-28T16:35:00.003-08:00
+date: "2009-11-28T16:35:00.003-08:00"
 author: "Jéssica Cristina"
-last_modified_at: 2010-04-05T21:01:34.715-07:00
+last_modified_at: "2010-04-05T21:01:34.715-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Jéssica Cristina"
+  - Jéssica Cristina
 ---
 
 <span style="font-style: italic;">E hoje, minhas mãos que antes se encaixavam perfeitamente nas suas,

@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Quanto tempo das nossas vidas nós passamos..."
-date: 2009-07-29T10:53:00.004-07:00
+date: "2009-07-29T10:53:00.004-07:00"
 author: "Jéssica Cristina"
-last_modified_at: 2010-04-05T21:02:27.667-07:00
+last_modified_at: "2010-04-05T21:02:27.667-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Jéssica Cristina"
+  - Jéssica Cristina
 ---
 
 De pé...................................................................  30 anos

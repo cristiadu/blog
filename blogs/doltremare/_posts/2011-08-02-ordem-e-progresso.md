@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Ordem e progresso"
-date: 2011-08-02T23:19:00.002-07:00
+date: "2011-08-02T23:19:00.002-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2011-08-02T23:19:58.946-07:00
+last_modified_at: "2011-08-02T23:19:58.946-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Riso, ah... Um bom riso.

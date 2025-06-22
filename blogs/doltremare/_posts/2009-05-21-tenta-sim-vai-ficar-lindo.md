@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "“TENTA SIM, VAI FICAR LINDO!”"
-date: 2009-05-21T10:19:00.005-07:00
+date: "2009-05-21T10:19:00.005-07:00"
 author: "Jéssica Cristina"
-last_modified_at: 2010-04-05T21:04:40.936-07:00
+last_modified_at: "2010-04-05T21:04:40.936-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Jéssica Cristina"
+  - Jéssica Cristina
 ---
 
 <p>Enquanto algumas <span style="text-decoration: underline;">mulheres </span><span style="text-decoration: underline;">sortudas, sentem apenas um desconforto físico naquela época chata antes da menstruação, outras viram verdadeiras Bombas-Relógio, prontas pra explodirem e darem seus pitis a qualquer momento .-.  E acredite: os estragos dessas explosões são grandes/visíveis. </p><p>  </p><p>Algumas das frases que traduzem a TPM são:

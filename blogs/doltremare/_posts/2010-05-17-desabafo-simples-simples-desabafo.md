@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "desabafo simples, simples desabafo"
-date: 2010-05-17T20:29:00.000-07:00
+date: "2010-05-17T20:29:00.000-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-05-17T20:29:21.707-07:00
+last_modified_at: "2010-05-17T20:29:21.707-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 é da confusão que se faz o real, o palpável...é da confusão que chego a um consenso de que não sei mais o que sou, não sei para onde vou e nem sei meus próprios sentimentos. Se é para fazer de mim um louco, que se faça de uma vez, numa bela noite eu veja um anjo ou luzes piscando em meus sonhos, que eu enlouqueça de vez, possa ver o mundo com os olhos de um louco que não quer mais nada da vida senão viver da própria loucura.

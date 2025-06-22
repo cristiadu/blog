@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "saudade do sorrir"
-date: 2009-12-24T19:12:00.000-08:00
+date: "2009-12-24T19:12:00.000-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T21:20:19.076-07:00
+last_modified_at: "2010-04-05T21:20:19.076-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Cada instante, cada momento

@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "semânticamente confuso"
-date: 2010-04-02T23:28:00.001-07:00
+date: "2010-04-02T23:28:00.001-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T21:18:01.460-07:00
+last_modified_at: "2010-04-05T21:18:01.460-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 A falta e o excesso do sentir

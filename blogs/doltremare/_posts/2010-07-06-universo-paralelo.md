@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Universo Paralelo"
-date: 2010-07-06T09:21:00.003-07:00
+date: "2010-07-06T09:21:00.003-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-07-06T09:21:24.805-07:00
+last_modified_at: "2010-07-06T09:21:24.805-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Sim! Deixo-te viver dentre meus laços, desatados nós cegos de prazer

@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Pessoas e a metamorfose ambulante."
-date: 2009-08-23T08:34:00.003-07:00
+date: "2009-08-23T08:34:00.003-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T20:56:39.728-07:00
+last_modified_at: "2010-04-05T20:56:39.728-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 <span style="color: rgb(153, 153, 153); font-style: italic;font-size:10;" >As pessoas definitivamente não são algo com o qual possamos lidar.

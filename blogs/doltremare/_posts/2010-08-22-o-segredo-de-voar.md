@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "O segredo de voar"
-date: 2010-08-22T10:28:00.002-07:00
+date: "2010-08-22T10:28:00.002-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-08-22T10:36:35.310-07:00
+last_modified_at: "2010-08-22T10:36:35.310-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 <span class="Apple-style-span" style="font-family: Verdana,sans-serif; font-size: 13px;">O Guia do Mochileiro das Galáxias diz o seguinte sobre voar:

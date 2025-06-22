@@ -311,32 +311,33 @@ def parse_xml_and_convert():
         used_filenames[filename] = True
         
         # Create front matter
-        front_matter = f"""---
-layout: poem
-title: "{title}"
-date: {published_elem.text}
-author: "{author}"
-last_modified_at: {last_modified}
-categories:
-  - imported
-  - blogspot
-tags:
-  - blogspot
-  - "{author}"
----
-
-{cleaned_content}"""
+        front_matter = {
+            'layout': 'poem',
+            'title': title,
+            'date': published_elem.text,
+            'author': author,
+            'last_modified_at': last_modified,
+            'categories': ['imported', 'blogspot'],
+            'tags': [f'blogspot', f'{author}']
+        }
         
         # Add image links section if there are images
         if image_links:
-            front_matter += "\n\n---\n**Images in this post:**\n"
-            for img_url in image_links:
-                front_matter += f"- {img_url}\n"
+            front_matter['images'] = image_links
         
         # Write to file
         output_path = os.path.join(OUTPUT_DIR, filename)
         with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(front_matter)
+            f.write('---\n')
+            for key, value in front_matter.items():
+                if isinstance(value, list):
+                    f.write(f'{key}:\n')
+                    for item in value:
+                        f.write(f'  - {item}\n')
+                else:
+                    f.write(f'{key}: "{value}"\n')
+            f.write('---\n\n')
+            f.write(cleaned_content)
         
         print(f"Converted '{title}' and saved to {filename}")
         converted_count += 1

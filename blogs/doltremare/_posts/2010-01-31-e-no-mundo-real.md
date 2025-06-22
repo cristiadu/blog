@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "e no mundo real..."
-date: 2010-01-31T16:06:00.000-08:00
+date: "2010-01-31T16:06:00.000-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T20:51:33.284-07:00
+last_modified_at: "2010-04-05T20:51:33.284-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Não há como explicar um sentimento, não há como explicar a vida se transformando depois de um tempo onde não havia espaço para amor e ódio, talvez apenas pelos pais, mas não assim, intensamente como uma lança jogada sobre os corações, o amor é fatal e irreversível, quem ama sofre e quem sofre por amor sabe como é mais complicado do que qualquer outro sofrimento.

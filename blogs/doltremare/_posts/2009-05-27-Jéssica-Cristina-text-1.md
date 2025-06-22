@@ -1,15 +1,17 @@
 ---
-layout: poem
+layout: "poem"
 title: ":}"
-date: 2009-05-27T17:31:00.006-07:00
+date: "2009-05-27T17:31:00.006-07:00"
 author: "Jéssica Cristina"
-last_modified_at: 2010-04-05T21:03:21.520-07:00
+last_modified_at: "2010-04-05T21:03:21.520-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Jéssica Cristina"
+  - Jéssica Cristina
+images:
+  - http://4.bp.blogspot.com/_sIsAsPAOqZA/Sh3de6FhD2I/AAAAAAAAAco/gT1nL6MWULI/s400/bicho_cara_gente_07.jpg
 ---
 
 <span style="font-size:78%;">*O*
@@ -26,7 +28,3 @@ kem adivinhar o nome dele ganha uma bala de iorgute xD
 =X</span><span style="font-size:78%;">
 
 </span>
-
----
-**Images in this post:**
-- http://4.bp.blogspot.com/_sIsAsPAOqZA/Sh3de6FhD2I/AAAAAAAAAco/gT1nL6MWULI/s400/bicho_cara_gente_07.jpg

@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Sambe, meu amor"
-date: 2014-05-14T22:20:00.002-07:00
+date: "2014-05-14T22:20:00.002-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2016-06-03T07:09:16.796-07:00
+last_modified_at: "2016-06-03T07:09:16.796-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 E é dela

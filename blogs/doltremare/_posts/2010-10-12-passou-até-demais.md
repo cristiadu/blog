@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Passou, até demais."
-date: 2010-10-12T17:47:00.000-07:00
+date: "2010-10-12T17:47:00.000-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-10-12T17:47:18.575-07:00
+last_modified_at: "2010-10-12T17:47:18.575-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Dentre as facas cortando o meu ser 

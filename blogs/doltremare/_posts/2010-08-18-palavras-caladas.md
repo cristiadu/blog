@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Palavras caladas"
-date: 2010-08-18T07:04:00.003-07:00
+date: "2010-08-18T07:04:00.003-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-08-18T07:11:39.846-07:00
+last_modified_at: "2010-08-18T07:11:39.846-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Eu quero falar.

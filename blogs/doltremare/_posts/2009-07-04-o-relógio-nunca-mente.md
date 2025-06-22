@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "O relógio nunca mente"
-date: 2009-07-04T19:54:00.007-07:00
+date: "2009-07-04T19:54:00.007-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T20:57:41.075-07:00
+last_modified_at: "2010-04-05T20:57:41.075-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 É meia noite...

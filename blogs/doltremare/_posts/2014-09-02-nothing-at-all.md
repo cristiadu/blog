@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Nothing at all"
-date: 2014-09-02T23:39:00.001-07:00
+date: "2014-09-02T23:39:00.001-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2014-09-02T23:39:15.699-07:00
+last_modified_at: "2014-09-02T23:39:15.699-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Between my feelings, and the distance between us

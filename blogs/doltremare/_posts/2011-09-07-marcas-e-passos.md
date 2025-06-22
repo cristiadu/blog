@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Marcas e passos"
-date: 2011-09-07T20:57:00.000-07:00
+date: "2011-09-07T20:57:00.000-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2011-09-07T20:57:56.683-07:00
+last_modified_at: "2011-09-07T20:57:56.683-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Uma noite chuvosa qualquer, trazendo o medo e o delírio de um ser, esse humano que não sabe mais o que esperar do agora e nem do que virá no futuro, confuso entre a vontade de sentir um novo amor e o medo de sofrer, entre o orgulho e o desespero. Enquanto espera por um sinal qualquer de que ele não caminha a passos largos para lugar algum, ele também age como quem não se importasse, quem não quisesse agir, pois sabe que carregaria o fardo de ter feito alguém sofrer, pelo simples ato deslizante de sua alma.

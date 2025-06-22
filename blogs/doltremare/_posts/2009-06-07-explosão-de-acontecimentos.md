@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Explosão de Acontecimentos"
-date: 2009-06-07T17:24:00.004-07:00
+date: "2009-06-07T17:24:00.004-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T20:57:41.085-07:00
+last_modified_at: "2010-04-05T20:57:41.085-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Como eu odeio ser de lua, putaqueopariu, como eu odeio que tudo aconteça ao mesmo tempo.

@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Culpa minha"
-date: 2013-03-04T19:51:00.001-08:00
+date: "2013-03-04T19:51:00.001-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2013-03-30T00:43:14.632-07:00
+last_modified_at: "2013-03-30T00:43:14.632-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Enquanto suas lágrimas caíam como flores perdendo pétalas lentamente eu engolia meu orgulho e mastigava minha culpa, como um chiclete, lentamente até que meus dentes começassem a doer. Minha angústia em te ver sonhadora em prantos transmutava-se em devaneio sobre quão amargo minhas ações poderiam ser. E eu perdi a guerra com o que eu poderia chamar da cisma em sempre estar certo.

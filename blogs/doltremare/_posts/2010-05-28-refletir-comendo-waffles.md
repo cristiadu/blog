@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Refletir comendo waffles"
-date: 2010-05-28T21:23:00.003-07:00
+date: "2010-05-28T21:23:00.003-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-05-28T21:27:30.822-07:00
+last_modified_at: "2010-05-28T21:27:30.822-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Enfim, é com muito orgulho, um pouco atrasado, e com muito trabalho (criativo,desenvolvedor e convidativo para novos autores, rs) que eu lhes digo, o Flefletindo completa 1 ano de existência. Na verdade completou da 03 de maio, porém resolvi aproveitar que farei algumas modificações na maneira de postagem, bem como a divulgação do blog, para também comemorar tal data, poucos são os blogs que sobrevivem tanto tempo. Principalmente não-comerciais.

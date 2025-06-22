@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Horário Eleitoral"
-date: 2010-09-01T12:06:00.000-07:00
+date: "2010-09-01T12:06:00.000-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-09-01T12:06:24.066-07:00
+last_modified_at: "2010-09-01T12:06:24.066-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 As asas da morte se fazem brasas vivas

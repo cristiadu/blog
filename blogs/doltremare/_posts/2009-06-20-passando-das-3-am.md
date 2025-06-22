@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Passando das 3 AM"
-date: 2009-06-20T22:25:00.006-07:00
+date: "2009-06-20T22:25:00.006-07:00"
 author: "SeeSawLife"
-last_modified_at: 2010-04-05T21:09:48.795-07:00
+last_modified_at: "2010-04-05T21:09:48.795-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "SeeSawLife"
+  - SeeSawLife
 ---
 
 Isso... Isso mesmo, mais de três da manhã, sou um zumbi, desde quando eu não sei, mas percebi hoje!

@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Muita fé e muita luta."
-date: 2011-01-31T17:53:00.000-08:00
+date: "2011-01-31T17:53:00.000-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2011-01-31T17:53:54.101-08:00
+last_modified_at: "2011-01-31T17:53:54.101-08:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 O que eu quero é gritar.

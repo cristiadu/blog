@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "As Estrelas"
-date: 2009-10-27T16:53:00.002-07:00
+date: "2009-10-27T16:53:00.002-07:00"
 author: "Nathália Santos"
-last_modified_at: 2010-04-05T21:05:37.578-07:00
+last_modified_at: "2010-04-05T21:05:37.578-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Nathália Santos"
+  - Nathália Santos
 ---
 
 É difícil dar um nome original a algo tão clichê, mesmo que esse algo não seja tão comum assim.

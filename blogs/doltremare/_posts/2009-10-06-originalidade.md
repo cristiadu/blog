@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Originalidade"
-date: 2009-10-06T17:31:00.005-07:00
+date: "2009-10-06T17:31:00.005-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T20:56:39.716-07:00
+last_modified_at: "2010-04-05T20:56:39.716-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Aonde estiver o sentimento de tristeza, desilusão

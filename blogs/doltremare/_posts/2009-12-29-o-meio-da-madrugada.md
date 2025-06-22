@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "O meio da madrugada"
-date: 2009-12-29T21:54:00.007-08:00
+date: "2009-12-29T21:54:00.007-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T21:20:19.074-07:00
+last_modified_at: "2010-04-05T21:20:19.074-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Já são três da manhã...

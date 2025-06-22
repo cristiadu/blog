@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "A falta da poesia..."
-date: 2009-12-08T12:10:00.000-08:00
+date: "2009-12-08T12:10:00.000-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T20:55:37.300-07:00
+last_modified_at: "2010-04-05T20:55:37.300-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Queira me desculpar, meu caro senhor

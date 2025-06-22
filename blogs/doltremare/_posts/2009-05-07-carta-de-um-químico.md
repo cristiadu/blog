@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Carta de um Químico"
-date: 2009-05-07T13:45:00.003-07:00
+date: "2009-05-07T13:45:00.003-07:00"
 author: "Jéssica Cristina"
-last_modified_at: 2010-04-05T21:04:40.943-07:00
+last_modified_at: "2010-04-05T21:04:40.943-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Jéssica Cristina"
+  - Jéssica Cristina
 ---
 
 <span style="font-style: italic;">CulBerílio Horizonte, zinco de benzeno de 2000.

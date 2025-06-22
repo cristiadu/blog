@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "O reflexo do espelho"
-date: 2010-06-03T22:07:00.004-07:00
+date: "2010-06-03T22:07:00.004-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-06-03T22:08:25.852-07:00
+last_modified_at: "2010-06-03T22:08:25.852-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Caso tenha esquecido, tudo o que fui ou sou

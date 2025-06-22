@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Minuto de Silêncio"
-date: 2010-12-01T18:11:00.000-08:00
+date: "2010-12-01T18:11:00.000-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-12-01T18:11:11.655-08:00
+last_modified_at: "2010-12-01T18:11:11.655-08:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Consigo dizer no sábio de meus lábios

@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Mata-me por favor..."
-date: 2009-12-22T15:08:00.000-08:00
+date: "2009-12-22T15:08:00.000-08:00"
 author: "Jéssica Cristina"
-last_modified_at: 2010-04-05T21:20:19.082-07:00
+last_modified_at: "2010-04-05T21:20:19.082-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Jéssica Cristina"
+  - Jéssica Cristina
 ---
 
 Mata-me

@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Deixa eu te contar uma história... (parte 1)"
-date: 2010-09-07T13:01:00.002-07:00
+date: "2010-09-07T13:01:00.002-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-09-07T13:01:12.550-07:00
+last_modified_at: "2010-09-07T13:01:12.550-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Dizem, seguindo pelas estradas escuras do limite da alma, que a  felicidade o encontra e lhe dá carona. Eu mesmo nunca vi, espero ser  verdade. Mas já que tanto faz como fez, não importa o que sonho agora,  se meus sonhos são os vazios mais cheios de significados que já vi.

@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Marca-Texto"
-date: 2011-03-05T05:15:00.000-08:00
+date: "2011-03-05T05:15:00.000-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2011-03-05T05:15:21.785-08:00
+last_modified_at: "2011-03-05T05:15:21.785-08:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Enquanto procurava anotações

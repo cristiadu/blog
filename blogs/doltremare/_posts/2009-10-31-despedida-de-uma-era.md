@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Despedida de uma era"
-date: 2009-10-31T05:32:00.001-07:00
+date: "2009-10-31T05:32:00.001-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T20:55:37.307-07:00
+last_modified_at: "2010-04-05T20:55:37.307-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Fim de uma época inteira

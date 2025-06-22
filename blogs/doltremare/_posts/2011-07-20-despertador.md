@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Despertador"
-date: 2011-07-20T21:52:00.001-07:00
+date: "2011-07-20T21:52:00.001-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2011-07-20T21:53:44.352-07:00
+last_modified_at: "2011-07-20T21:53:44.352-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Enquanto eu olhava as fotos,

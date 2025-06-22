@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Esquizofrenia!"
-date: 2009-06-15T15:25:00.002-07:00
+date: "2009-06-15T15:25:00.002-07:00"
 author: "SeeSawLife"
-last_modified_at: 2010-04-05T21:09:48.797-07:00
+last_modified_at: "2010-04-05T21:09:48.797-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "SeeSawLife"
+  - SeeSawLife
 ---
 
 Bem...

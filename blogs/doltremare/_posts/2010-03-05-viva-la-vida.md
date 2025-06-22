@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Viva la vida"
-date: 2010-03-05T19:25:00.000-08:00
+date: "2010-03-05T19:25:00.000-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T21:19:01.309-07:00
+last_modified_at: "2010-04-05T21:19:01.309-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 O sol que iluminava os dias daquela alegria

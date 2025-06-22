@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Romance inglês"
-date: 2012-02-02T09:52:00.001-08:00
+date: "2012-02-02T09:52:00.001-08:00"
 author: "Cristiano Faustino"
-last_modified_at: 2012-02-02T09:53:53.793-08:00
+last_modified_at: "2012-02-02T09:53:53.793-08:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Sei, como todos sabem, que algo dito no começo nada mais é que um devaneio de sentimentos, nada mais é do que a ansiedade e felicidade dando notícias e dizendo um alô, mas tenho a certeza de um ex-poeta que não sabia mais escrever, que nada do que eu dissesse agora seria menos verdadeiro do que algo dito daqui a um mês ou dois anos.

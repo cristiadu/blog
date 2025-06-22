@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Prisão de rimas"
-date: 2010-08-29T14:27:00.002-07:00
+date: "2010-08-29T14:27:00.002-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-08-29T14:27:52.303-07:00
+last_modified_at: "2010-08-29T14:27:52.303-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Nasce, e como nasce...A vida, a alma. 

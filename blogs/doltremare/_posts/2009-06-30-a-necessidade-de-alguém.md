@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "a Necessidade de alguém"
-date: 2009-06-30T03:42:00.003-07:00
+date: "2009-06-30T03:42:00.003-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T20:57:41.077-07:00
+last_modified_at: "2010-04-05T20:57:41.077-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Um dia chuvoso, sem graça, com nenhuma animação...se tornando um dia animado, um dia feliz, um dia pensativo, porque? Porque ela está ali ...

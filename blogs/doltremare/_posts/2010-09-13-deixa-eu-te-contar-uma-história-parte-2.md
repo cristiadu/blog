@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Deixa eu te contar uma história... (parte 2)"
-date: 2010-09-13T05:05:00.000-07:00
+date: "2010-09-13T05:05:00.000-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-09-13T05:05:14.986-07:00
+last_modified_at: "2010-09-13T05:05:14.986-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Sempre achei que encontros ocasionais nunca levariam a nada, poderiamos até achar a pessoa bonita, interessante coisa e tal, mas sempre uma das partes se interessaria menos ou mesmo não teria nenhum interesse. A vida não é fácil como nos filmes, onde o homem encontra sua mulher no supermercado enquanto compra refrigerantes, e já a convida pra sair...Isso não existe.

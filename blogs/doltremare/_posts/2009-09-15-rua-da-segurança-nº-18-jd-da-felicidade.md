@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Rua da Segurança, nº 18,  Jd da Felicidade"
-date: 2009-09-15T20:20:00.006-07:00
+date: "2009-09-15T20:20:00.006-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-05T20:56:39.721-07:00
+last_modified_at: "2010-04-05T20:56:39.721-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 E

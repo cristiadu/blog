@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Flamboyant"
-date: 2011-10-01T01:10:00.006-07:00
+date: "2011-10-01T01:10:00.006-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2011-10-01T01:14:17.115-07:00
+last_modified_at: "2011-10-01T01:14:17.115-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Ela dançava;

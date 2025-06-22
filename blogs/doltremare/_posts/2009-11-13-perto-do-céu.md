@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Perto do Céu"
-date: 2009-11-13T17:38:00.003-08:00
+date: "2009-11-13T17:38:00.003-08:00"
 author: "Nathália Santos"
-last_modified_at: 2010-04-05T21:05:37.572-07:00
+last_modified_at: "2010-04-05T21:05:37.572-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Nathália Santos"
+  - Nathália Santos
 ---
 
 Fuçando em minha mochila (a qual comporta quilos de sonhos e pensamentos), encontrei um papel pautado, onde havia escrito parte de um poema, enquanto voltava pra casa, passando pela passarela e observando aquele céu maravilhoso de fim de tarde.

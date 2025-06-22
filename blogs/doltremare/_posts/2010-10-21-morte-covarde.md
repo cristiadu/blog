@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Morte covarde"
-date: 2010-10-21T19:56:00.000-07:00
+date: "2010-10-21T19:56:00.000-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-10-21T19:56:52.562-07:00
+last_modified_at: "2010-10-21T19:56:52.562-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Cessar, fechar os olhos 

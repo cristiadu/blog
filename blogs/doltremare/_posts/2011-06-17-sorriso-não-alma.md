@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Sorriso, não alma."
-date: 2011-06-17T20:42:00.001-07:00
+date: "2011-06-17T20:42:00.001-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2011-06-17T20:42:42.029-07:00
+last_modified_at: "2011-06-17T20:42:42.029-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 O palhaço segue sua alegria

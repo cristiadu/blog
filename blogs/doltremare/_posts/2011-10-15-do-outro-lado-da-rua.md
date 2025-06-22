@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Do outro lado da rua"
-date: 2011-10-15T13:25:00.000-07:00
+date: "2011-10-15T13:25:00.000-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2011-10-15T13:25:16.643-07:00
+last_modified_at: "2011-10-15T13:25:16.643-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Em minha alma, na sua estrada, suas cores, tua casa.

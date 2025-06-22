@@ -1,15 +1,15 @@
 ---
-layout: poem
+layout: "poem"
 title: "Eterna Ferida"
-date: 2010-04-16T18:54:00.000-07:00
+date: "2010-04-16T18:54:00.000-07:00"
 author: "Cristiano Faustino"
-last_modified_at: 2010-04-16T18:54:53.539-07:00
+last_modified_at: "2010-04-16T18:54:53.539-07:00"
 categories:
   - imported
   - blogspot
 tags:
   - blogspot
-  - "Cristiano Faustino"
+  - Cristiano Faustino
 ---
 
 Seja realidade enquanto puder ser
