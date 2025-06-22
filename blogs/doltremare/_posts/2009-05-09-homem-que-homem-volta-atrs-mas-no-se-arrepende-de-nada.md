@@ -1,6 +1,6 @@
 ---
 layout: "poem"
-title: ""Homem que é homem volta atrás, mas não se arrepende de nada""
+title: "\"Homem que é homem volta atrás, mas não se arrepende de nada\""
 date: "2009-05-09T18:22:00.003-07:00"
 author: "Jéssica Cristina"
 last_modified_at: "2010-04-05T21:04:40.940-07:00"
