@@ -56,7 +56,7 @@ tags:
 
 <span style="font-style: italic;">vez na vida, por que, aí sim, poderam dizer que foram amados de verdade ao menos, essa unica vez...
 
-    ''Até parece que você já tinha
+<span style="font-style: italic;">''Até parece que você já tinha
 
    O meu manual de instruções
 
