@@ -51,11 +51,3 @@ clean:
 	@echo "$(CYAN)======== Cleaning Build Artifacts ==========$(NO_COLOR)"
 	rm -rf _site/
 	@echo "$(GREEN)======== Clean Complete ==========$(NO_COLOR)"
-
-.PHONY: import-doltremare-blogspot
-import-doltremare-blogspot:
-	@echo "$(CYAN)======== Importing Blogspot Posts for Doltremare ==========$(NO_COLOR)"
-	pushd blogs/doltremare/import; \
-	python3 blogspot_import.py; \
-	popd; \
-	echo "$(GREEN)======== Blogspot Posts Imported for Doltremare ==========$(NO_COLOR)"
