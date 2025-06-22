@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "O que são as flores"
 date: 2009-12-10T18:11:00.003-08:00
 author: "Bruno  Vinícius"
@@ -13,11 +13,7 @@ tags:
 ---
 
 As flores são sonhos.
-
 Sonhos que nunca florescem realmente.
-
 As flores... São sonhos.
-
 Só as flores falsas não murcham.
-
 Os sonhos.. São flores.

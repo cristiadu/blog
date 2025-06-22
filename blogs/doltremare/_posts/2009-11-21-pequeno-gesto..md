@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Pequeno gesto."
 date: 2009-11-21T16:42:00.000-08:00
 author: "Cristiano Faustino"
@@ -14,38 +14,18 @@ tags:
 
 H
 
-
-
 I
-
-
 
 S
 
-
-
 T
-
-
 
 O
 
-
-
 R
-
-
 
 I
 
-
-
 A
-
-
-
-
-
-
 
 Sem fim.

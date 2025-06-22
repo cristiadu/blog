@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Homenagem ao Cris"
 date: 2009-11-20T09:08:00.000-08:00
 author: "Nathália Santos"

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Nothing at all"
 date: 2014-09-02T23:39:00.001-07:00
 author: "Cristiano Faustino"
@@ -11,8 +11,8 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
-Between my feelings, and the distance between us
 
+Between my feelings, and the distance between us
 There is this certain, the bright side of you and me still exist
 
 And did not fade even slightly
@@ -22,8 +22,6 @@ My smile while seeing you on a electronic block of communication
 It is real, it is a smile of someone hoping to feel warm again.
 
 Hoping to see you.
-
-
 
 While writing is becoming difficult
 
@@ -35,8 +33,6 @@ Learn how to survive feeling good about myself.
 
 Learn how to live without you, and then be stronger with your heart on my side.
 
-
-
 Then, when I feel sleepy, and want you in my bed with me.
 
 I can feel your heart, and live alone would not sound so hard anymore.
@@ -46,8 +42,6 @@ I will tell the truth.
 You are 90% of the reason of my life right now.
 
 And the lonelier that I get, the bigger your part on my life become.
-
-
 
 I want us to become one.
 
@@ -63,8 +57,6 @@ And felt sad for losing the ability to speak with my fingers.
 
 To put words on my mind.
 
-
-
 I know how I feel, I know what I want, I know what you want.
 
 I just do not know how to get on the point
@@ -76,8 +68,6 @@ To make a smile, to love the man I am.
 I just hope that you still love that
 
 The confusing life that you will get with me.
-
-
 
 I just hope that I can find myself
 

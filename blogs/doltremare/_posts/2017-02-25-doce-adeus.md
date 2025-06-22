@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Doce Adeus"
 date: 2017-02-25T00:55:00.000-08:00
 author: "Cristiano Faustino"
@@ -11,6 +11,7 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
+
 Se eu quero o que não tenho mais,
 
 ou se foi apenas minha ideia do que eu queria ter,

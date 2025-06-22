@@ -1,16 +1,52 @@
 import os
 import re
 import xml.etree.ElementTree as ET
-from bs4 import BeautifulSoup
+import html
 
 # Input XML file containing Blogspot export
 INPUT_XML = "data/blogspot.xml"
 
 # Output directory for converted posts
-OUTPUT_DIR = "data/posts"
+OUTPUT_DIR = "../_posts"
 
 # Create output directory if it doesn't exist
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+def clean_html_content(content):
+    """Convert escaped HTML formatting to equivalent markdown while preserving meaningful structure."""
+    # First, unescape the HTML entities
+    content = html.unescape(content)
+    
+    # Convert <br> tags to newlines
+    content = re.sub(r'<br\s*/?>', '\n', content)
+    
+    # Convert <div> tags to newlines (for stanza breaks)
+    content = re.sub(r'<div[^>]*>', '', content)
+    content = re.sub(r'</div>', '\n', content)
+    
+    # Convert <a> tags to markdown links
+    content = re.sub(r'<a\s+href="([^"]*)"[^>]*>([^<]*)</a>', r'[\2](\1)', content)
+    
+    # Convert <b> and <strong> to markdown bold
+    content = re.sub(r'<(b|strong)[^>]*>', '**', content)
+    content = re.sub(r'</(b|strong)>', '**', content)
+    
+    # Convert <i> and <em> to markdown italic
+    content = re.sub(r'<(i|em)[^>]*>', '*', content)
+    content = re.sub(r'</(i|em)>', '*', content)
+    
+    # Convert <blockquote> to markdown blockquotes
+    content = re.sub(r'<blockquote[^>]*>', '> ', content)
+    content = re.sub(r'</blockquote>', '\n\n', content)
+    
+    # Remove only HTML tags that don't have meaningful formatting
+    # But preserve span and other meaningful tags
+    content = re.sub(r'<(?!span\b)[^>]+>', '', content)
+    
+    # Clean up multiple line breaks
+    content = re.sub(r'\n{3,}', '\n\n', content)
+    
+    return content.strip()
 
 # Parse the XML file
 tree = ET.parse(INPUT_XML)
@@ -31,54 +67,12 @@ for entry in root.findall("{http://www.w3.org/2005/Atom}entry"):
             published = entry.find("{http://www.w3.org/2005/Atom}published").text
             updated = entry.find("{http://www.w3.org/2005/Atom}updated").text
 
-            # Clean up content using BeautifulSoup
-            soup = BeautifulSoup(content, "html.parser")
-            cleaned_content = str(soup)
+            # Clean up content using our custom function
+            cleaned_content = clean_html_content(content)
 
-            # Convert HTML formatting to Markdown
-            cleaned_content = cleaned_content.replace("\n", "\n\n")
-            cleaned_content = cleaned_content.replace("<h1>", "# ")
-            cleaned_content = cleaned_content.replace("<h1>", "# ")
-            cleaned_content = cleaned_content.replace("<h2>", "## ")
-            cleaned_content = cleaned_content.replace("<h3>", "### ")
-            cleaned_content = cleaned_content.replace("<h4>", "#### ")
-            cleaned_content = cleaned_content.replace("<h5>", "##### ")
-            cleaned_content = cleaned_content.replace("<h6>", "###### ")
-            cleaned_content = cleaned_content.replace("<strong>", "**")
-            cleaned_content = cleaned_content.replace("</strong>", "**")
-            cleaned_content = cleaned_content.replace("<b>", "**")
-            cleaned_content = cleaned_content.replace("</b>", "**")
-            cleaned_content = cleaned_content.replace('<span style="font-weight: bold;">', "")
-            cleaned_content = cleaned_content.replace('<span style="font-style: italic;">', "")
-            cleaned_content = cleaned_content.replace('<span style="font-style:italic;">', "")
-            cleaned_content = cleaned_content.replace("<span>", "")
-            cleaned_content = cleaned_content.replace("</span>", "")
-            cleaned_content = cleaned_content.replace('<span style="font-style: italic;">', "")
-            cleaned_content = cleaned_content.replace("</span>", "")
-            cleaned_content = cleaned_content.replace("<em>", "*")
-            cleaned_content = cleaned_content.replace("</em>", "*")
-            cleaned_content = cleaned_content.replace("<i>", "*")
-            cleaned_content = cleaned_content.replace("</i>", "*")
-            cleaned_content = cleaned_content.replace("<ul>", "")
-            cleaned_content = cleaned_content.replace("</ul>", "")
-            cleaned_content = cleaned_content.replace("<li>", "- ")
-            cleaned_content = cleaned_content.replace("</li>", "\n\n")
-            cleaned_content = cleaned_content.replace('<div class="MsoNormal">', "")       
-            cleaned_content = cleaned_content.replace('<div style="text-align: left;">', "")
-            cleaned_content = cleaned_content.replace('<div style="text-align: center;">', "")       
-            cleaned_content = cleaned_content.replace("<div>", "")
-            cleaned_content = cleaned_content.replace("</div>", "\n")
-            cleaned_content = cleaned_content.replace("<p>", "")
-            cleaned_content = cleaned_content.replace('<p style="text-align: center;">', "")
-            cleaned_content = cleaned_content.replace("</p>", "\n\n")
-            cleaned_content = cleaned_content.replace("<br>", "\n\n")
-            cleaned_content = cleaned_content.replace("<br/>", "\n\n")
-            cleaned_content = cleaned_content.replace("<blockquote>", "> ")
-            cleaned_content = cleaned_content.replace("</blockquote>", "\n\n")
-
-            # Create Minimal Mistakes post front matter
+            # Create poem post front matter
             front_matter = f"""---
-layout: single
+layout: poem
 title: "{title}"
 date: {published}
 author: "{author}"
@@ -104,3 +98,5 @@ tags:
                 output_file.write(formatted_content)
 
             print(f"Converted '{title}' and saved to {output_file_path}")
+
+print("Processing complete!")

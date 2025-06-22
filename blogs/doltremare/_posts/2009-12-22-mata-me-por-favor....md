@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Mata-me por favor..."
 date: 2009-12-22T15:08:00.000-08:00
 author: "Jéssica Cristina"
@@ -13,21 +13,12 @@ tags:
 ---
 
 Mata-me
-
 Com teu doce veneno
-
 Que escorre dos lábios
-
 Disfarçados de
-
 Tempero...
 
-
-
 E entra por dentro das veias...
-
 Por dentro da minha circulaçao nervosa
-
 E faz-me estremecer de dor,
-
 prazer...

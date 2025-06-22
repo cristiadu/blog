@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Entre flutuar e se afogar"
 date: 2016-11-07T15:42:00.000-08:00
 author: "Cristiano Faustino"
@@ -11,6 +11,7 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
+
 Sinto que eu devia parar de sentir;
 
 parar de pensar, parar minha mente um instante
@@ -27,8 +28,6 @@ além de acordar,
 
 manhã por manhã.
 
-
-
 Sinto que eu devia parar de escrever,
 
 mesmo que eu já não saiba mais escolher as palavras,
@@ -42,8 +41,6 @@ sem palavras,
 sem amor,
 
 sem nada.
-
-
 
 Sinto que cada dia que acordo remoendo,
 
@@ -61,8 +58,6 @@ Não sei
 
 onde estou.
 
-
-
 Sinto que não posso mais perder tempo,
 
 muito menos saúde de espírito,
@@ -78,8 +73,6 @@ Apenas seguir,
 sem chorar,
 
 nem sorrir.
-
-
 
 Sinto, meu talento está perdido em algum lugar,
 

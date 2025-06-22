@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Convite ao pecado"
 date: 2010-07-19T17:55:00.002-07:00
 author: "Cristiano Faustino"
@@ -27,9 +27,3 @@ Eres fragmento a se encaixar e formar linda figura
 dentre tanta escuridão. Então...não diga que não vais.
 Não queira desistir, o aroma deste pecado gentil
 apenas quer provar o sabor de teu lábio macio.
-
-
-
-
-
-

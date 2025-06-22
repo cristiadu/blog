@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Collection of Unfinished Thoughts on Someone"
 date: 2020-03-23T20:37:00.000-07:00
 author: "Cristiano Faustino"
@@ -11,13 +11,12 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
+
 I miss the way I looked at you, and the excitement I had when going to see you.
 
 Miss being silly together, with that old you, when we didn't care about anything or anyone,
 
 wanting just having the most time with each other.
-
-
 
 It was such a beautiful romance, really...
 
@@ -26,8 +25,6 @@ Such a shame we wasted, I mean, at least in my mind.
 So many moments we would have, good, together, if we weren't so changed.
 
 But that's the thing. We were changed.
-
-
 
 Life made us make choices, choices that distanced ourselves from being any sort of story.
 
@@ -46,8 +43,6 @@ I haven't really thought of anyone.
 Didn't fall in love either.
 
 And I'm scared of this.
-
-
 
 I'm scared of being permanently blocked of feelings.
 
@@ -73,8 +68,6 @@ Ruminating constantly of what others think of me.
 
 Which is stupid, I know, but understanding something doesn't make you believe it.
 
-
-
 With that in mind, thing is, what if I was the bad guy in all of this?
 
 What if I'm the only one to blame for being alone and having no soul to talk to?
@@ -91,15 +84,11 @@ Too tired to try again.
 
 And too scared to confront myself over doing so.
 
-
-
 This whole time the text was not for you.
 
 Was my, stuffed with unfinished thoughts, mind.
 
 Going into places it usually blocks.
-
-
 
 Talking to you because I miss the old you, though.
 

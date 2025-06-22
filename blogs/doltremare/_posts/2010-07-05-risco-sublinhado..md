@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Risco sublinhado."
 date: 2010-07-05T13:52:00.003-07:00
 author: "Cristiano Faustino"

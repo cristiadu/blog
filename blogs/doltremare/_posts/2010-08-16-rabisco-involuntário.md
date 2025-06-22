@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Rabisco involuntário"
 date: 2010-08-16T06:47:00.004-07:00
 author: "Cristiano Faustino"

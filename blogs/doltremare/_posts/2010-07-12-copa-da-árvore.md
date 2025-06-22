@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Copa da Árvore"
 date: 2010-07-12T19:20:00.000-07:00
 author: "Cristiano Faustino"
@@ -38,29 +38,3 @@ e tudo acaba-se em um único instante.
 Era só um sonho a me atormentar a imaginação
 e eu ainda estava embaixo daquela árvore...
 Agora a acompanhar o amanhecer.
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
-
-
-
-
-
- 
-
-
-
-
-
- 
- 

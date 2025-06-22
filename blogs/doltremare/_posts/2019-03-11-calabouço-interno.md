@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Calabouço interno"
 date: 2019-03-11T00:59:00.001-07:00
 author: "Cristiano Faustino"
@@ -11,6 +11,7 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
+
 Ele acorda.
 
 ocupa em diagonal sua cama de casal.
@@ -18,8 +19,6 @@ ocupa em diagonal sua cama de casal.
 se sente vazio, mas não afogado
 
 se sente calmo, mas não em paz.
-
-
 
 Ele pensa.
 
@@ -29,15 +28,11 @@ toda fala, virou mudo
 
 surdo, cego, sem fé.
 
-
-
 Mas o mundo não se fecha mais.
 
 Nem é escuro.
 
 Apenas é.
-
-
 
 Ele não sabe quem é.
 
@@ -47,15 +42,11 @@ ou como dirá.
 
 O homem prende a si mesmo.
 
-
-
 Se mantém preso
 
 a uma outra realidade
 
 uma outra instancia de seu proprio ser
-
-
 
 E agora ele quer viver,
 
@@ -67,8 +58,6 @@ depois de tantos anos presos
 
 em sua propria memória.
 
-
-
 Não é o passado
 
 ou o depois.
@@ -78,8 +67,6 @@ ou o depois.
 que o prende,
 
 que o sufoca.
-
-
 
 E o ciclo não demora.
 
@@ -95,8 +82,6 @@ se passa mal,
 
 ou se sente raiva.
 
-
-
 Sentir-se mal por si mesmo
 
 é libertacão,
@@ -108,8 +93,6 @@ Sentir-se mal por si mesmo
 entre o que é real
 
 e o que a mente devaneia.
-
-
 
 Ele pensa:
 

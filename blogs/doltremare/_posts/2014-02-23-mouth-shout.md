@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Mouth Shout"
 date: 2014-02-23T21:49:00.002-08:00
 author: "Cristiano Faustino"
@@ -11,6 +11,7 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
+
 What do you expect from your living?
 
 Really, tell me, because everybody needs something to stand by...
@@ -27,8 +28,6 @@ It's not about the poetry of your words anymore.
 
 It's about you, and your will to be happy.
 
-
-
 He is not mad with anyone, it's just searching for the world he had before.
 
 He is not dying, he is not crying, he is not smiling too.
@@ -44,8 +43,6 @@ But he is not happy, not sad, not anything.
 It's just waking up every morning
 
 Trying to forget these feelings.
-
-
 
 They are all about smile.
 
@@ -64,8 +61,6 @@ It's all about the show. It's all about fake smiles on beautiful landscapes.
 It's all about showing it's them together, but they are not one same unit.
 
 They have mind.
-
-
 
 I am something between the lines.
 
@@ -87,8 +82,6 @@ Without trying to learn anything from the experiences.
 
 Without telling anybody their experiences.
 
-
-
 A living hell world, with living tell stories.
 
 Lets make crazy those who show out every feeling.
@@ -100,8 +93,6 @@ The together unit its falling apart.
 And we got nowhere else to run.
 
 From ourselves.
-
-
 
 Don't make the static no-feeling poetry rule our society.
 

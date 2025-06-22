@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Say hello to dad..."
 date: 2009-05-03T16:53:00.001-07:00
 author: "Cristiano Faustino"
@@ -11,6 +11,7 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
+
 Olá pessoas,
 
 Bem, aqui estou eu, aqui estamos nós, e ali está mais alguém que não quer vir pra cá.

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Sambe, meu amor"
 date: 2014-05-14T22:20:00.002-07:00
 author: "Cristiano Faustino"
@@ -11,6 +11,7 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
+
 E é dela
 
 esse coração que fala,
@@ -20,8 +21,6 @@ esse coração que grita.
 Passa dia, a alegria
 
 só me deixa dizer
-
-
 
 que é dela
 
@@ -33,8 +32,6 @@ melodias das mais belas
 
 e o cheiro dessas flores.
 
-
-
 Mas é dela
 
 também as incertezas,
@@ -42,8 +39,6 @@ também as incertezas,
 a solidão que vem da natureza
 
 e o rosto triste de noite, a chorar.
-
-
 
 Eu sou dela.
 
@@ -53,8 +48,6 @@ pensando tanto, enquanto canto
 
 a musica que me faz gritar.
 
-
-
 Escudo dela,
 
 protejo contra todos os tremores,
@@ -63,8 +56,6 @@ jogo-me a frente de tiros certeiros,
 
 uso meus punhos se eu precisar.
 
-
-
 Somente ela,
 
 incorpora mãe, namorada e pequena,
@@ -72,8 +63,6 @@ incorpora mãe, namorada e pequena,
 encosta seu rosto em meu peito
 
 e dorme a me esquentar.
-
-
 
 Preciso dela,
 

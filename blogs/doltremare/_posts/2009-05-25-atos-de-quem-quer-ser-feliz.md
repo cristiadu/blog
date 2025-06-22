@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Atos de quem quer ser feliz"
 date: 2009-05-25T16:30:00.001-07:00
 author: "Cristiano Faustino"
@@ -11,7 +11,9 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
-** Atos **
+
+<span style="font-size:130%;"><span style="font-weight: bold;">Atos
+
 Escrevo
 Porque não sei cantar
 Porque não sei dançar
@@ -36,8 +38,8 @@ Porque seguindo eu vou
 Mesmo tendo que sofrer
 Mesmo querendo morrer.
 
+<span style="font-weight: bold;font-size:130%;" >Quer ser feliz?
 
-** Quer ser feliz? **
 Quer ser feliz?
 Não queira ser inteligente
 Não queira ser romântico

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Sonhos feitos de papel"
 date: 2009-05-13T18:54:00.009-07:00
 author: "Cristiano Faustino"
@@ -11,6 +11,7 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
+
 A vida nunca fora interessante, mas ele sentia que hoje era um dia diferente, talvez pelo cheiro de orvalho que nunca sentira, e que agora no outono, lhe enchia as narinas. Sua mãe lhe deixara mais uma mensagem de 'Bom dia, meu filho' na secretária eletrônica, como deixara os outros 363 dias do ano, agora em 29 de Dezembro, não seria diferente.
 
 Porque lhe vinha memórias tão vagas do passado?Não sabia ao certo a data, as pessoas envolvidas, mas via em sua mente acontecimentos horríveis que não tinham relação alguma um com o outro.Assim como também não havia relação entre os papéis que ele representava em suas memórias, as vezes era um presidiário correndo, outras um presidente do país...algumas vezes fora até um astronauta aposentado, o que não fazia o menor sentido, pois tinha apenas 27 anos, segundo sua última conta.
@@ -26,3 +27,8 @@ Não precisava de mais ninguém, se sentia só e a companhia de qualquer pessoa 
 E agora mais uma vez, como em todos os outros dias, olhava o céu, contemplava o pôr do sol e dizia:
 
 - É, amanhã será um dia diferente.
+
+----------------------------------------------------
+
+Texto feito por mim (:
+Fui.

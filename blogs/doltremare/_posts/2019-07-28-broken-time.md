@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Broken Time"
 date: 2019-07-28T20:20:00.001-07:00
 author: "Cristiano Faustino"
@@ -11,6 +11,7 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
+
 I remember telling myself
 
 that if my life ever got empty, that I'd look for something
@@ -22,8 +23,6 @@ That it would be me and you,
 that everything would be ok.
 
 (what a fool)
-
-
 
 But now
 

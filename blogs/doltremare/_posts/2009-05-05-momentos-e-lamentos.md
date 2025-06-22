@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "Momentos e lamentos"
 date: 2009-05-05T16:22:00.004-07:00
 author: "Cristiano Faustino"
@@ -11,6 +11,7 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
+
 Sabe? andei pensando no que eu escreveria aqui, e vou escrever sobre o fato de me sentir mal as vezes por coisas que eu não fiz, que fiz, e que não tenho coragem de fazer.Os momentos com seus lamentos...
 
 É algo bem depressivo falar sobre isso, mas talvez textos depressivos sejam o que eu faço de melhor, ou pelo menos o que eu mais faço, é complicado definir ...

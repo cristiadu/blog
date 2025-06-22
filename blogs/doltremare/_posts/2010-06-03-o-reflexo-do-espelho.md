@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "O reflexo do espelho"
 date: 2010-06-03T22:07:00.004-07:00
 author: "Cristiano Faustino"

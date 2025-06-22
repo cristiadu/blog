@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "High and Low"
 date: 2019-11-04T12:01:00.000-08:00
 author: "Cristiano Faustino"
@@ -11,6 +11,7 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
+
 The man wakes up.
 
 He expects the bright morning to tell him something, a date, a reason to get up, a smile lost in the deep parts of his mind. He cannot find anything.

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: poem
 title: "My Anxiety"
 date: 2020-07-28T23:49:00.000-07:00
 author: "Cristiano Faustino"
@@ -11,6 +11,7 @@ tags:
   - blogspot
   - "Cristiano Faustino"
 ---
+
 All these things I can think,
 
 going through my memory.
@@ -19,8 +20,6 @@ All these things I can think,
 
 driving me to insanity.
 
-
-
 All these moments I can feel,
 
 needling through my skin.
@@ -28,8 +27,6 @@ needling through my skin.
 All this hate I expel,
 
 knowing you can tell.
-
-
 
 I'm not living through my life.
 
@@ -49,15 +46,11 @@ not even an entire verse.
 
 Not even a rhyme.
 
-
-
 Suffocated, nauseated, demotivated.
 
 Depressive, repressive, unimpressed.
 
 Loveless, motionless, lifeless.
-
-
 
 Why don't you just suck it up?
 
@@ -73,8 +66,6 @@ Why does everything you do
 
 makes you wanna puke?
 
-
-
 Why does every feeling needs to be an action?
 
 Why does every action cause so intense feelings?
@@ -86,7 +77,5 @@ Stressing about it, working about it.
 Writing about it.
 
 In disconnected ways.
-
-
 
 Why your world inside makes you not enjoy the one outside?
