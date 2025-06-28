@@ -4,6 +4,9 @@ title: Legítimo Poeta
 date: "2009-10-03T21:51:00.006-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:56:39.718-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

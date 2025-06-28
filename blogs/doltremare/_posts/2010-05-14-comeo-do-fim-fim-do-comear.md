@@ -4,6 +4,9 @@ title: começo do fim, fim do começar.
 date: "2010-05-14T08:27:00.002-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-05-14T08:34:16.761-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

@@ -4,6 +4,9 @@ title: Passando das 3 AM
 date: "2009-06-20T22:25:00.006-07:00"
 author: SeeSawLife
 last_modified_at: "2010-04-05T21:09:48.795-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

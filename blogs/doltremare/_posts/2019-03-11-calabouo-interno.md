@@ -4,6 +4,9 @@ title: Calabouço interno
 date: "2019-03-11T00:59:00.001-07:00"
 author: Cristiano Faustino
 last_modified_at: "2019-03-11T00:59:15.058-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

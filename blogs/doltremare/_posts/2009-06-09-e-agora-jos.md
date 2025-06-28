@@ -4,6 +4,9 @@ title: E agora josé?
 date: "2009-06-09T16:21:00.004-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:57:41.083-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

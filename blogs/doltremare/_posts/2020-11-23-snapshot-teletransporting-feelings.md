@@ -4,6 +4,9 @@ title: "Snapshot: Teletransporting feelings"
 date: "2020-11-23T20:04:00.002-08:00"
 author: Cristiano Faustino
 last_modified_at: "2020-11-23T20:05:27.158-08:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "english"

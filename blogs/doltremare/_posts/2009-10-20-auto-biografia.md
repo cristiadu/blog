@@ -4,6 +4,9 @@ title: Auto-Biografia
 date: "2009-10-20T16:44:00.002-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:56:39.715-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

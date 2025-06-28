@@ -4,6 +4,9 @@ title: Essa é pessoal
 date: "2011-02-17T03:11:00.004-08:00"
 author: Cristiano Faustino
 last_modified_at: "2011-02-17T03:12:55.339-08:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

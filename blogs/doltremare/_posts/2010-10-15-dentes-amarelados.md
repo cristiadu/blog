@@ -4,6 +4,9 @@ title: Dentes amarelados
 date: "2010-10-15T08:14:00.002-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-10-15T08:14:40.492-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

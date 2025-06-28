@@ -4,6 +4,9 @@ title: teu arcanjo, teu amor
 date: "2009-10-25T06:35:00.000-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:56:39.713-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

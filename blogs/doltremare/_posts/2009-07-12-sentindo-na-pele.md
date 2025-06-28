@@ -4,6 +4,9 @@ title: Sentindo na pele
 date: "2009-07-12T17:43:00.000-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:56:39.734-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

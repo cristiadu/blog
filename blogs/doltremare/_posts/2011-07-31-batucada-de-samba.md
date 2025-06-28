@@ -4,6 +4,9 @@ title: Batucada de Samba
 date: "2011-07-31T23:45:00.001-07:00"
 author: Cristiano Faustino
 last_modified_at: "2011-07-31T23:45:37.431-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

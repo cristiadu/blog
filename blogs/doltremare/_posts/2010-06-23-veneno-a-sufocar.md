@@ -4,6 +4,9 @@ title: Veneno a sufocar
 date: "2010-06-23T09:13:00.000-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-06-23T09:13:46.872-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

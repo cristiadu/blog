@@ -4,6 +4,9 @@ title: Nothing at all
 date: "2014-09-02T23:39:00.001-07:00"
 author: Cristiano Faustino
 last_modified_at: "2014-09-02T23:39:15.699-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "english"

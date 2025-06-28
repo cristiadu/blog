@@ -4,6 +4,9 @@ title: O sorriso de quem perdeu
 date: "2010-10-04T06:01:00.002-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-10-04T06:01:48.224-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

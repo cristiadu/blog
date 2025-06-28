@@ -4,6 +4,9 @@ title: Merthiolate
 date: "2011-02-11T18:27:00.001-08:00"
 author: Cristiano Faustino
 last_modified_at: "2011-02-11T18:29:43.237-08:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

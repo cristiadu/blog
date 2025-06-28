@@ -4,6 +4,9 @@ title: Cheirando a música, ouvindo o gosto.
 date: "2009-09-01T19:24:00.003-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:56:39.725-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

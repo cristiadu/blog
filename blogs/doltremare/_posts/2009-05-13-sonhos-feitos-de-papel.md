@@ -4,6 +4,9 @@ title: Sonhos feitos de papel
 date: "2009-05-13T18:54:00.009-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:58:28.106-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

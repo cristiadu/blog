@@ -4,6 +4,9 @@ title: Minuto de Silêncio
 date: "2010-12-01T18:11:00.000-08:00"
 author: Cristiano Faustino
 last_modified_at: "2010-12-01T18:11:11.655-08:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

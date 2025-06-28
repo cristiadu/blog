@@ -4,6 +4,9 @@ title: Eis a minha fé
 date: "2010-11-01T18:48:00.002-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-11-01T18:49:57.139-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

@@ -4,6 +4,9 @@ title: Pedras no Rio
 date: "2009-06-07T08:45:00.003-07:00"
 author: SeeSawLife
 last_modified_at: "2010-04-05T21:09:48.801-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

@@ -4,6 +4,9 @@ title: Deixa...deixa...eu dizer o que penso dessa vida
 date: "2009-07-26T14:45:00.004-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:56:39.733-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

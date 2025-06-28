@@ -4,6 +4,9 @@ title: Refletir comendo waffles
 date: "2010-05-28T21:23:00.003-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-05-28T21:27:30.822-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

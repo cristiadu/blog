@@ -4,6 +4,9 @@ title: “TENTA SIM, VAI FICAR LINDO!”
 date: "2009-05-21T10:19:00.005-07:00"
 author: Jéssica Cristina
 last_modified_at: "2010-04-05T21:04:40.936-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

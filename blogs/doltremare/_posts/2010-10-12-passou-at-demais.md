@@ -4,6 +4,9 @@ title: Passou, até demais.
 date: "2010-10-12T17:47:00.000-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-10-12T17:47:18.575-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

@@ -4,6 +4,9 @@ title: Como ser expulso da Net em um mês.
 date: "2009-05-04T16:52:00.003-07:00"
 author: Jéssica Cristina
 last_modified_at: "2010-04-05T21:04:40.945-07:00"
+align: center
+size: normal
+spacing: normal
 images: 
 categories:
   - "blogspot"

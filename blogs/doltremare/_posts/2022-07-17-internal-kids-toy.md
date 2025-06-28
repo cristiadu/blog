@@ -4,6 +4,9 @@ title: "Internal kid's toy"
 date: "2022-07-17T18:27:00.005-07:00"
 author: Cristiano Faustino
 last_modified_at: "2022-07-17T18:39:26.601-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "english"

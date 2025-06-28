@@ -4,6 +4,9 @@ title: O segredo de voar
 date: "2010-08-22T10:28:00.002-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-08-22T10:36:35.310-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

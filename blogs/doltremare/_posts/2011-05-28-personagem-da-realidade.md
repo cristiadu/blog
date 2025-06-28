@@ -4,6 +4,9 @@ title: Personagem da realidade
 date: "2011-05-28T14:10:00.000-07:00"
 author: Cristiano Faustino
 last_modified_at: "2011-05-28T14:10:02.673-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

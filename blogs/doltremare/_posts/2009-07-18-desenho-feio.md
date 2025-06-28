@@ -4,6 +4,9 @@ title: Desenho feio
 date: "2009-07-18T14:01:00.003-07:00"
 author: Jéssica Cristina
 last_modified_at: "2010-04-05T21:02:27.671-07:00"
+align: center
+size: normal
+spacing: normal
 images: 
 categories:
   - "blogspot"

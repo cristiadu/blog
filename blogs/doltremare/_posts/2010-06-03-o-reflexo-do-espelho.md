@@ -4,6 +4,9 @@ title: O reflexo do espelho
 date: "2010-06-03T22:07:00.004-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-06-03T22:08:25.852-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

@@ -4,6 +4,9 @@ title: Morto-Vivo
 date: "2009-12-23T16:54:00.002-08:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T21:20:19.078-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

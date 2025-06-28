@@ -4,6 +4,9 @@ title: Say hello to dad...
 date: "2009-05-03T16:53:00.001-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:58:28.112-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

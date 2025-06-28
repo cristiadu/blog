@@ -4,6 +4,9 @@ title: Rua da Segurança, nº 18,  Jd da Felicidade
 date: "2009-09-15T20:20:00.006-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:56:39.721-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

@@ -4,6 +4,9 @@ title: Mouth Shout
 date: "2014-02-23T21:49:00.002-08:00"
 author: Cristiano Faustino
 last_modified_at: "2014-02-23T21:58:27.495-08:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "english"

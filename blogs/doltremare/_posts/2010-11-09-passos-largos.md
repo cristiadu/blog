@@ -4,6 +4,9 @@ title: Passos largos.
 date: "2010-11-09T18:21:00.005-08:00"
 author: Cristiano Faustino
 last_modified_at: "2010-11-09T18:24:07.030-08:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

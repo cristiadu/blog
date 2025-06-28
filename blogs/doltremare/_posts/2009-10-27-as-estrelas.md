@@ -4,6 +4,9 @@ title: As Estrelas
 date: "2009-10-27T16:53:00.002-07:00"
 author: Nathália Santos
 last_modified_at: "2010-04-05T21:05:37.578-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

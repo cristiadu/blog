@@ -4,6 +4,9 @@ title: Em linha reta
 date: "2010-02-12T20:02:00.001-08:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T21:19:01.311-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

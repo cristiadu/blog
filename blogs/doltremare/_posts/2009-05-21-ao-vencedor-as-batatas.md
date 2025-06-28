@@ -4,6 +4,9 @@ title: Ao vencedor, as batatas !
 date: "2009-05-21T15:44:00.005-07:00"
 author: Cristiano Faustino
 last_modified_at: "2020-07-29T00:14:31.718-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

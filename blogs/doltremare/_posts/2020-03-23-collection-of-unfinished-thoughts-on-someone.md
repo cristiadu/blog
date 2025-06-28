@@ -4,6 +4,9 @@ title: Collection of Unfinished Thoughts on Someone
 date: "2020-03-23T20:37:00.000-07:00"
 author: Cristiano Faustino
 last_modified_at: "2020-03-23T20:46:12.044-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "english"

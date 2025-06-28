@@ -4,6 +4,9 @@ title: "\"Poesia\":meu melhor amigo(aula de português né)"
 date: "2009-05-29T12:35:00.004-07:00"
 author: Monah
 last_modified_at: "2010-04-05T21:09:48.803-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

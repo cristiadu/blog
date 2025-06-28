@@ -4,6 +4,9 @@ title: Copa da Árvore
 date: "2010-07-12T19:20:00.000-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-07-12T19:20:28.472-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

@@ -4,6 +4,9 @@ title: Tempo Verbal
 date: "2010-10-30T16:58:00.000-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-10-30T16:58:06.343-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

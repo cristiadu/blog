@@ -4,6 +4,9 @@ title: a morte do poeta
 date: "2010-05-11T20:35:00.003-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-05-11T20:39:07.398-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

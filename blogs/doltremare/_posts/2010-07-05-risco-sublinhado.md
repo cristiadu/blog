@@ -4,6 +4,9 @@ title: Risco sublinhado.
 date: "2010-07-05T13:52:00.003-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-07-05T19:39:26.694-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

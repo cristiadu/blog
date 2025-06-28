@@ -4,6 +4,9 @@ title: "Coisas que os homens nunca diram para as mulheres D:"
 date: "2009-07-18T13:46:00.002-07:00"
 author: Jéssica Cristina
 last_modified_at: "2010-04-05T21:02:27.672-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

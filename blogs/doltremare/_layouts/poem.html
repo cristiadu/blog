@@ -46,7 +46,7 @@ layout: default
             </nav>
           </aside>
         {% endif %}
-        <div class="poem">
+        <div class="poem{% if page.align and page.align != 'center' %} poem-{{ page.align }}{% endif %}{% if page.size and page.size != 'normal' %} poem-{{ page.size }}{% endif %}{% if page.spacing and page.spacing != 'normal' %} poem-{{ page.spacing }}{% endif %}">
           {{ content }}
         </div>
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}

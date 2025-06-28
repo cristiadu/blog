@@ -4,6 +4,9 @@ title: Sorriso, não alma.
 date: "2011-06-17T20:42:00.001-07:00"
 author: Cristiano Faustino
 last_modified_at: "2011-06-17T20:42:42.029-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

@@ -4,6 +4,9 @@ title: desabafo simples, simples desabafo
 date: "2010-05-17T20:29:00.000-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-05-17T20:29:21.707-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

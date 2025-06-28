@@ -4,6 +4,9 @@ title: Queda livre
 date: "2011-01-20T18:07:00.000-08:00"
 author: Cristiano Faustino
 last_modified_at: "2011-01-20T18:07:59.047-08:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

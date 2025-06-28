@@ -4,6 +4,9 @@ title: Broken Time
 date: "2019-07-28T20:20:00.001-07:00"
 author: Cristiano Faustino
 last_modified_at: "2019-07-28T20:20:30.914-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "english"

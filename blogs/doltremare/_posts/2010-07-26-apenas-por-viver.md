@@ -4,6 +4,9 @@ title: Apenas por viver
 date: "2010-07-26T18:34:00.002-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-07-26T18:35:46.846-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

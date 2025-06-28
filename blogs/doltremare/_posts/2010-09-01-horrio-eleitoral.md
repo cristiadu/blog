@@ -4,6 +4,9 @@ title: Horário Eleitoral
 date: "2010-09-01T12:06:00.000-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-09-01T12:06:24.066-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

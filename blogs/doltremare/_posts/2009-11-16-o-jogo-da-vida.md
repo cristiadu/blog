@@ -4,6 +4,9 @@ title: O jogo da vida
 date: "2009-11-16T17:13:00.000-08:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:55:37.304-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

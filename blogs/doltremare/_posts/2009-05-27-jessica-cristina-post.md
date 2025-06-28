@@ -4,6 +4,9 @@ title: ":}"
 date: "2009-05-27T17:31:00.006-07:00"
 author: Jéssica Cristina
 last_modified_at: "2010-04-05T21:03:21.520-07:00"
+align: center
+size: normal
+spacing: normal
 images: 
 categories:
   - "blogspot"

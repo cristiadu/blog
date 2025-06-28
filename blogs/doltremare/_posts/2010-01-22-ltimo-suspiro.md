@@ -4,6 +4,9 @@ title: Último suspiro
 date: "2010-01-22T20:07:00.004-08:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T21:20:19.068-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

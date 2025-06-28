@@ -4,6 +4,9 @@ title: Nosso crime não compensa..
 date: "2009-11-28T16:35:00.003-08:00"
 author: Jéssica Cristina
 last_modified_at: "2010-04-05T21:01:34.715-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

@@ -4,6 +4,9 @@ title: Momentos e lamentos
 date: "2009-05-05T16:22:00.004-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:58:28.111-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

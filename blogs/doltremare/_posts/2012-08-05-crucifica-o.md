@@ -4,6 +4,9 @@ title: Crucifica-o
 date: "2012-08-05T20:24:00.002-07:00"
 author: Cristiano Faustino
 last_modified_at: "2012-08-05T20:25:11.267-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

@@ -4,6 +4,9 @@ title: Lucy in the sky...
 date: "2009-05-06T16:11:00.004-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:58:28.109-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

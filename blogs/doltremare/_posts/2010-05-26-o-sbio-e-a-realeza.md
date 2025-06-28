@@ -4,6 +4,9 @@ title: O sábio e a realeza
 date: "2010-05-26T21:13:00.000-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-05-26T21:13:59.867-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

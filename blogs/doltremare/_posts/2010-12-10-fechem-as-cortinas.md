@@ -4,6 +4,9 @@ title: Fechem as cortinas
 date: "2010-12-10T21:11:00.002-08:00"
 author: Cristiano Faustino
 last_modified_at: "2010-12-10T21:11:51.185-08:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

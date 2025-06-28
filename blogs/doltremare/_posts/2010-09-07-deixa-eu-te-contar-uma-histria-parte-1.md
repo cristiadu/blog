@@ -4,6 +4,9 @@ title: Deixa eu te contar uma história... (parte 1)
 date: "2010-09-07T13:01:00.002-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-09-07T13:01:12.550-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

@@ -4,6 +4,9 @@ title: semânticamente confuso
 date: "2010-04-02T23:28:00.001-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T21:18:01.460-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

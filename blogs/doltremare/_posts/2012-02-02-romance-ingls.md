@@ -4,6 +4,9 @@ title: Romance inglês
 date: "2012-02-02T09:52:00.001-08:00"
 author: Cristiano Faustino
 last_modified_at: "2012-02-02T09:53:53.793-08:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

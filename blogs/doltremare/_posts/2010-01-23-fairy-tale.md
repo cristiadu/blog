@@ -4,6 +4,9 @@ title: Fairy Tale
 date: "2010-01-23T21:12:00.002-08:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T21:20:19.066-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

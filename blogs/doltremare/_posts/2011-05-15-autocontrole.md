@@ -4,6 +4,9 @@ title: Autocontrole
 date: "2011-05-15T13:37:00.001-07:00"
 author: Cristiano Faustino
 last_modified_at: "2011-05-15T13:39:14.938-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

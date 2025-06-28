@@ -4,6 +4,9 @@ title: High and Low
 date: "2019-11-04T12:01:00.000-08:00"
 author: Cristiano Faustino
 last_modified_at: "2019-11-04T12:08:57.371-08:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "english"

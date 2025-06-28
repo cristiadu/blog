@@ -4,11 +4,13 @@ title: Applesauceless Week
 date: "2023-04-12T18:04:00.001-07:00"
 author: Cristiano Faustino
 last_modified_at: "2023-04-12T18:04:14.227-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "english"
 tags:
-  - "imported"
   - "Cristiano Faustino"
 ---
 

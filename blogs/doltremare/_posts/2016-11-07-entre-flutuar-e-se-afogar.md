@@ -4,6 +4,9 @@ title: Entre flutuar e se afogar
 date: "2016-11-07T15:42:00.000-08:00"
 author: Cristiano Faustino
 last_modified_at: "2016-11-07T15:42:13.067-08:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

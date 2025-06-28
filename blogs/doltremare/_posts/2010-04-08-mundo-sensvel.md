@@ -4,6 +4,9 @@ title: Mundo Sensível
 date: "2010-04-08T20:44:00.000-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-08T20:44:02.857-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"

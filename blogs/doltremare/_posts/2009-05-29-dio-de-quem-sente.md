@@ -4,6 +4,9 @@ title: Ódio de quem sente
 date: "2009-05-29T20:09:00.002-07:00"
 author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:57:41.086-07:00"
+align: center
+size: normal
+spacing: normal
 categories:
   - "blogspot"
   - "portuguese"
