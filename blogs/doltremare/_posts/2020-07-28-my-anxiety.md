@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "My Anxiety"
+layout: poem
+title: My Anxiety
 date: "2020-07-28T23:49:00.000-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2020-07-29T03:35:34.662-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "english"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

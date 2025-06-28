@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "E agora josé?"
+layout: poem
+title: E agora josé?
 date: "2009-06-09T16:21:00.004-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:57:41.083-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "começo do fim, fim do começar."
+layout: poem
+title: começo do fim, fim do começar.
 date: "2010-05-14T08:27:00.002-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-05-14T08:34:16.761-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Caricatura"
+layout: poem
+title: Caricatura
 date: "2010-12-17T21:19:00.002-08:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-12-18T09:19:08.804-08:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

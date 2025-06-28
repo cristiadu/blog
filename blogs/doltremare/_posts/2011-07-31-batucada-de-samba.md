@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Batucada de Samba"
+layout: poem
+title: Batucada de Samba
 date: "2011-07-31T23:45:00.001-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2011-07-31T23:45:37.431-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

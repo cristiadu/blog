@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Músicas do potássio"
+layout: poem
+title: Músicas do potássio
 date: "2009-05-08T18:41:00.002-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:58:28.108-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

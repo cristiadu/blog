@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Flamboyant"
+layout: poem
+title: Flamboyant
 date: "2011-10-01T01:10:00.006-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2011-10-01T01:14:17.115-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

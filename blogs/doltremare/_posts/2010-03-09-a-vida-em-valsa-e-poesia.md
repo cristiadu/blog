@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "a vida em valsa e poesia"
+layout: poem
+title: a vida em valsa e poesia
 date: "2010-03-09T19:35:00.000-08:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T21:19:01.308-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

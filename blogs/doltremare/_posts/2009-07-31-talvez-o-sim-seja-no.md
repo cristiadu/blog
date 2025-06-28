@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Talvez o sim seja não"
+layout: poem
+title: Talvez o sim seja não
 date: "2009-07-31T16:37:00.004-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:56:39.732-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

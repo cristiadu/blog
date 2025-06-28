@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "O mundo está maluco"
+layout: poem
+title: O mundo está maluco
 date: "2009-06-25T15:54:00.002-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:57:41.078-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

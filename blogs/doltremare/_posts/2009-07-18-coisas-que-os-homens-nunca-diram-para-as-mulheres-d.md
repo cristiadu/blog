@@ -1,14 +1,14 @@
 ---
-layout: "poem"
+layout: poem
 title: "Coisas que os homens nunca diram para as mulheres D:"
 date: "2009-07-18T13:46:00.002-07:00"
-author: "Jéssica Cristina"
+author: Jéssica Cristina
 last_modified_at: "2010-04-05T21:02:27.672-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Jéssica Cristina"
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Romance inglês"
+layout: poem
+title: Romance inglês
 date: "2012-02-02T09:52:00.001-08:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2012-02-02T09:53:53.793-08:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

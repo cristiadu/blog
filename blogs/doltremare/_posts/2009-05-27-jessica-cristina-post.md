@@ -1,17 +1,16 @@
 ---
-layout: "poem"
+layout: poem
 title: ":}"
 date: "2009-05-27T17:31:00.006-07:00"
-author: "Jéssica Cristina"
+author: Jéssica Cristina
 last_modified_at: "2010-04-05T21:03:21.520-07:00"
+images: 
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Jéssica Cristina"
-images:
-  - "http://4.bp.blogspot.com/_sIsAsPAOqZA/Sh3de6FhD2I/AAAAAAAAAco/gT1nL6MWULI/s400/bicho_cara_gente_07.jpg"
 ---
 
 <span style="font-size:78%;">*O*

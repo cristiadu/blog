@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Eis a milonga"
+layout: poem
+title: Eis a milonga
 date: "2010-06-08T20:26:00.001-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-06-08T20:28:00.431-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Homenagem ao Cris"
+layout: poem
+title: Homenagem ao Cris
 date: "2009-11-20T09:08:00.000-08:00"
-author: "Nathália Santos"
+author: Nathália Santos
 last_modified_at: "2010-04-05T21:05:37.568-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Nathália Santos"
 ---
 

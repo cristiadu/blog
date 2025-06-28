@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Universo Paralelo"
+layout: poem
+title: Universo Paralelo
 date: "2010-07-06T09:21:00.003-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-07-06T09:21:24.805-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Deixa eu te contar uma história... (parte 3)"
+layout: poem
+title: Deixa eu te contar uma história... (parte 3)
 date: "2010-09-16T20:34:00.002-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-09-17T19:58:08.372-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

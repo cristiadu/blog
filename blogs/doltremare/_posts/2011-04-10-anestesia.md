@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Anestesia"
+layout: poem
+title: Anestesia
 date: "2011-04-10T07:35:00.000-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2011-04-10T07:35:40.720-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

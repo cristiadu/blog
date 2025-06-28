@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Apenas por viver"
+layout: poem
+title: Apenas por viver
 date: "2010-07-26T18:34:00.002-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-07-26T18:35:46.846-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

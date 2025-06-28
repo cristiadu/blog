@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Calabouço interno"
+layout: poem
+title: Calabouço interno
 date: "2019-03-11T00:59:00.001-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2019-03-11T00:59:15.058-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Essa é pessoal"
+layout: poem
+title: Essa é pessoal
 date: "2011-02-17T03:11:00.004-08:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2011-02-17T03:12:55.339-08:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

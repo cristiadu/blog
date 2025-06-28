@@ -1,14 +1,14 @@
 ---
-layout: "poem"
+layout: poem
 title: "Internal kid's toy"
 date: "2022-07-17T18:27:00.005-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2022-07-17T18:39:26.601-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "english"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

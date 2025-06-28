@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Explosão de Acontecimentos"
+layout: poem
+title: Explosão de Acontecimentos
 date: "2009-06-07T17:24:00.004-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:57:41.085-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

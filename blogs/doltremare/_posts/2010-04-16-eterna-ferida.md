@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Eterna Ferida"
+layout: poem
+title: Eterna Ferida
 date: "2010-04-16T18:54:00.000-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-16T18:54:53.539-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

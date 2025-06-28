@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Minuto de Silêncio"
+layout: poem
+title: Minuto de Silêncio
 date: "2010-12-01T18:11:00.000-08:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-12-01T18:11:11.655-08:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

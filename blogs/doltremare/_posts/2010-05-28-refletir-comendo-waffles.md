@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Refletir comendo waffles"
+layout: poem
+title: Refletir comendo waffles
 date: "2010-05-28T21:23:00.003-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-05-28T21:27:30.822-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

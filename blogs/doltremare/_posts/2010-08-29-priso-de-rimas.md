@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Prisão de rimas"
+layout: poem
+title: Prisão de rimas
 date: "2010-08-29T14:27:00.002-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-08-29T14:27:52.303-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

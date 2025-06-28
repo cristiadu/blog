@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Fera e o seu criador"
+layout: poem
+title: Fera e o seu criador
 date: "2010-05-08T23:30:00.000-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-05-08T23:30:41.764-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

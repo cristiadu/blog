@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Vejo a luz nos olhos dela"
+layout: poem
+title: Vejo a luz nos olhos dela
 date: "2009-06-16T16:24:00.003-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:57:41.082-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Broken Time"
+layout: poem
+title: Broken Time
 date: "2019-07-28T20:20:00.001-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2019-07-28T20:20:30.914-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "english"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Sentir o risco"
+layout: poem
+title: Sentir o risco
 date: "2009-07-08T15:56:00.001-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:57:41.073-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

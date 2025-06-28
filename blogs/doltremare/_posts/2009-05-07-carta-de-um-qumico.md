@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Carta de um Químico"
+layout: poem
+title: Carta de um Químico
 date: "2009-05-07T13:45:00.003-07:00"
-author: "Jéssica Cristina"
+author: Jéssica Cristina
 last_modified_at: "2010-04-05T21:04:40.943-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Jéssica Cristina"
 ---
 

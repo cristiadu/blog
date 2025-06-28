@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "a morte do poeta"
+layout: poem
+title: a morte do poeta
 date: "2010-05-11T20:35:00.003-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-05-11T20:39:07.398-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Desmotivo e ação"
+layout: poem
+title: Desmotivo e ação
 date: "2015-04-14T21:52:00.001-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2015-04-14T21:54:48.547-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

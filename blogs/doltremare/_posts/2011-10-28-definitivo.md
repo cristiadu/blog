@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Definitivo"
+layout: poem
+title: Definitivo
 date: "2011-10-28T22:45:00.001-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2011-10-28T22:46:15.745-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

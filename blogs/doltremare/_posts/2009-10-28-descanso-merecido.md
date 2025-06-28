@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Descanso Merecido"
+layout: poem
+title: Descanso Merecido
 date: "2009-10-28T15:40:00.001-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:55:37.309-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

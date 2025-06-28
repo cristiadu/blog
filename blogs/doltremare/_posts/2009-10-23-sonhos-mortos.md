@@ -1,15 +1,15 @@
 ---
-layout: "poem"
-title: "Sonhos Mortos"
+layout: poem
+title: Sonhos Mortos
 date: "2009-10-23T16:18:00.000-07:00"
-author: "Bruno  Vinícius"
+author: Bruno Vinícius
 last_modified_at: "2010-04-05T21:06:37.251-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
-  - "Bruno  Vinícius"
+  - "imported"
+  - "Bruno Vinícius"
 ---
 
 Qual Sombra de desejo antigo

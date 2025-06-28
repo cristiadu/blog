@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "A dor do Palhaço"
+layout: poem
+title: A dor do Palhaço
 date: "2009-11-10T12:52:00.002-08:00"
-author: "Nathália Santos"
+author: Nathália Santos
 last_modified_at: "2010-04-05T21:05:37.574-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Nathália Santos"
 ---
 

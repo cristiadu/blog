@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Morte covarde"
+layout: poem
+title: Morte covarde
 date: "2010-10-21T19:56:00.000-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-10-21T19:56:52.562-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

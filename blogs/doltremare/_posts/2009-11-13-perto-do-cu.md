@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Perto do Céu"
+layout: poem
+title: Perto do Céu
 date: "2009-11-13T17:38:00.003-08:00"
-author: "Nathália Santos"
+author: Nathália Santos
 last_modified_at: "2010-04-05T21:05:37.572-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Nathália Santos"
 ---
 

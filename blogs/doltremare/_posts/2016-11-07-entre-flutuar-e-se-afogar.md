@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Entre flutuar e se afogar"
+layout: poem
+title: Entre flutuar e se afogar
 date: "2016-11-07T15:42:00.000-08:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2016-11-07T15:42:13.067-08:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "O jogo da vida"
+layout: poem
+title: O jogo da vida
 date: "2009-11-16T17:13:00.000-08:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:55:37.304-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Morto-Vivo"
+layout: poem
+title: Morto-Vivo
 date: "2009-12-23T16:54:00.002-08:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T21:20:19.078-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

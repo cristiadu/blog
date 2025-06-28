@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Autocontrole"
+layout: poem
+title: Autocontrole
 date: "2011-05-15T13:37:00.001-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2011-05-15T13:39:14.938-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

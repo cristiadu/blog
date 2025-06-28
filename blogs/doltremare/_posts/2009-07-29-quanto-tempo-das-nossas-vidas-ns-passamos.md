@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Quanto tempo das nossas vidas nós passamos..."
+layout: poem
+title: Quanto tempo das nossas vidas nós passamos...
 date: "2009-07-29T10:53:00.004-07:00"
-author: "Jéssica Cristina"
+author: Jéssica Cristina
 last_modified_at: "2010-04-05T21:02:27.667-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Jéssica Cristina"
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout: "poem"
+layout: poem
 title: "Snapshot: Teletransporting feelings"
 date: "2020-11-23T20:04:00.002-08:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2020-11-23T20:05:27.158-08:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "english"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

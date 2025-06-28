@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Marcas e passos"
+layout: poem
+title: Marcas e passos
 date: "2011-09-07T20:57:00.000-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2011-09-07T20:57:56.683-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

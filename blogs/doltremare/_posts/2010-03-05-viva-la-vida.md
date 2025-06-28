@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Viva la vida"
+layout: poem
+title: Viva la vida
 date: "2010-03-05T19:25:00.000-08:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T21:19:01.309-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

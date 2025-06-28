@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Kisses as knives"
+layout: poem
+title: Kisses as knives
 date: "2021-12-05T11:37:00.002-08:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2021-12-05T11:37:09.520-08:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "english"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

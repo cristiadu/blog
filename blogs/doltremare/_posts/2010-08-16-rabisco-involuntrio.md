@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Rabisco involuntário"
+layout: poem
+title: Rabisco involuntário
 date: "2010-08-16T06:47:00.004-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-08-16T06:48:36.226-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

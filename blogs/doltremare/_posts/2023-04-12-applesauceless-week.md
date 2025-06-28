@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Applesauceless Week"
+layout: poem
+title: Applesauceless Week
 date: "2023-04-12T18:04:00.001-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2023-04-12T18:04:14.227-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "english"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

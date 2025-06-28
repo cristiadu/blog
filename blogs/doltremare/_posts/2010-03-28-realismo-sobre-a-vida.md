@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "realismo sobre a vida."
+layout: poem
+title: realismo sobre a vida.
 date: "2010-03-28T21:01:00.002-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T21:18:01.462-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

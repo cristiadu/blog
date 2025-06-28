@@ -1,17 +1,16 @@
 ---
-layout: "poem"
-title: "Desenho feio"
+layout: poem
+title: Desenho feio
 date: "2009-07-18T14:01:00.003-07:00"
-author: "Jéssica Cristina"
+author: Jéssica Cristina
 last_modified_at: "2010-04-05T21:02:27.671-07:00"
+images: 
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Jéssica Cristina"
-images:
-  - "http://4.bp.blogspot.com/_sIsAsPAOqZA/SmI6VqLh6MI/AAAAAAAAAc4/LAQTWo1QM6c/s400/Digitalizar0001.jpg"
 ---
 
 <span style="color:#ff6666;">Schizophrenia is taking me home diz:

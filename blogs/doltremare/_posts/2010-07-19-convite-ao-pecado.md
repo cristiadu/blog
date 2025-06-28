@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Convite ao pecado"
+layout: poem
+title: Convite ao pecado
 date: "2010-07-19T17:55:00.002-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-07-19T17:59:19.252-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

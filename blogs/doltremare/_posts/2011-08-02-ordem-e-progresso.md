@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Ordem e progresso"
+layout: poem
+title: Ordem e progresso
 date: "2011-08-02T23:19:00.002-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2011-08-02T23:19:58.946-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

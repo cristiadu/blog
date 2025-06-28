@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "=/"
+layout: poem
+title: =/
 date: "2009-05-29T11:49:00.004-07:00"
-author: "Monah"
+author: Monah
 last_modified_at: "2010-04-05T21:09:48.805-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Monah"
 ---
 

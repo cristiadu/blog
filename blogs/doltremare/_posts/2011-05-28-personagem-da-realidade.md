@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Personagem da realidade"
+layout: poem
+title: Personagem da realidade
 date: "2011-05-28T14:10:00.000-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2011-05-28T14:10:02.673-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

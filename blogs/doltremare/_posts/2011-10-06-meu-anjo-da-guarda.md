@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Meu Anjo da Guarda"
+layout: poem
+title: Meu Anjo da Guarda
 date: "2011-10-06T18:38:00.000-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2011-10-06T18:38:00.791-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

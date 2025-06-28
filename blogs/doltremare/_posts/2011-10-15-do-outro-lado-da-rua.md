@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Do outro lado da rua"
+layout: poem
+title: Do outro lado da rua
 date: "2011-10-15T13:25:00.000-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2011-10-15T13:25:16.643-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

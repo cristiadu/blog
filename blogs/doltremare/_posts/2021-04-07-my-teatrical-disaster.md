@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "My Teatrical Disaster"
+layout: poem
+title: My Teatrical Disaster
 date: "2021-04-07T00:50:00.002-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2021-04-07T00:50:24.218-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "english"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

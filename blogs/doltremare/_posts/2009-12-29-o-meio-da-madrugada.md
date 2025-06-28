@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "O meio da madrugada"
+layout: poem
+title: O meio da madrugada
 date: "2009-12-29T21:54:00.007-08:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T21:20:19.074-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "The Cardigans"
+layout: poem
+title: The Cardigans
 date: "2009-08-06T16:25:00.002-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T20:56:39.730-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

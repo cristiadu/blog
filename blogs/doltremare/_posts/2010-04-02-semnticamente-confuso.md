@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "semânticamente confuso"
+layout: poem
+title: semânticamente confuso
 date: "2010-04-02T23:28:00.001-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-04-05T21:18:01.460-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

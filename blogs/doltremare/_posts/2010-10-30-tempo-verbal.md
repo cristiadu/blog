@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Tempo Verbal"
+layout: poem
+title: Tempo Verbal
 date: "2010-10-30T16:58:00.000-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-10-30T16:58:06.343-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

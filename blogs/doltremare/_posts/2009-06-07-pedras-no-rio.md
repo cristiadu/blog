@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Pedras no Rio"
+layout: poem
+title: Pedras no Rio
 date: "2009-06-07T08:45:00.003-07:00"
-author: "SeeSawLife"
+author: SeeSawLife
 last_modified_at: "2010-04-05T21:09:48.801-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "SeeSawLife"
 ---
 

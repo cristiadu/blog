@@ -1,15 +1,15 @@
 ---
-layout: "poem"
-title: "Arrependimento"
+layout: poem
+title: Arrependimento
 date: "2009-10-05T16:40:00.002-07:00"
-author: "Bruno  Vinícius"
+author: Bruno Vinícius
 last_modified_at: "2010-04-05T21:06:37.254-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
-  - "Bruno  Vinícius"
+  - "imported"
+  - "Bruno Vinícius"
 ---
 
 E se um dia olhássemos pra trás

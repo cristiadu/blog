@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Amor Incompleto"
+layout: poem
+title: Amor Incompleto
 date: "2014-05-15T03:13:00.000-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2014-05-15T03:13:00.367-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

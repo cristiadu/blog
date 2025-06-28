@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Passou, até demais."
+layout: poem
+title: Passou, até demais.
 date: "2010-10-12T17:47:00.000-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-10-12T17:47:18.575-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

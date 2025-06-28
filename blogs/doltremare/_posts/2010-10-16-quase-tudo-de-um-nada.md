@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Quase tudo, de um nada."
+layout: poem
+title: Quase tudo, de um nada.
 date: "2010-10-16T20:50:00.000-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-10-16T20:50:03.468-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Muita fé e muita luta."
+layout: poem
+title: Muita fé e muita luta.
 date: "2011-01-31T17:53:00.000-08:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2011-01-31T17:53:54.101-08:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

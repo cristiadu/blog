@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Banho de chuva"
+layout: poem
+title: Banho de chuva
 date: "2010-08-27T12:37:00.002-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2010-08-27T12:38:11.232-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

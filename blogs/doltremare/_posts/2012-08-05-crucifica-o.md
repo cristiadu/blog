@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Crucifica-o"
+layout: poem
+title: Crucifica-o
 date: "2012-08-05T20:24:00.002-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2012-08-05T20:25:11.267-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

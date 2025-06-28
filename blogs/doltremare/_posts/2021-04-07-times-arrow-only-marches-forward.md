@@ -1,14 +1,14 @@
 ---
-layout: "poem"
+layout: poem
 title: "Time's Arrow Only Marches Forward"
 date: "2021-04-07T00:31:00.003-07:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2021-04-07T00:33:10.812-07:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "english"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 

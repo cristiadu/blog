@@ -1,42 +1,17 @@
 ---
-layout: "poem"
-title: "Como ser expulso da Net em um mês."
+layout: poem
+title: Como ser expulso da Net em um mês.
 date: "2009-05-04T16:52:00.003-07:00"
-author: "Jéssica Cristina"
+author: Jéssica Cristina
 last_modified_at: "2010-04-05T21:04:40.945-07:00"
+images: 
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
+  - "article"
 tags:
-  - "blogspot"
+  - "imported"
   - "Jéssica Cristina"
-images:
-  - "http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_rolleyes.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_wink.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_evil.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_wink.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_wink.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_sad.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_sad.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_sad.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_sad.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_wink.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_cool.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_sad.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_sad.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_sad.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_cool.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_evil.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_evil.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_eek.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_evil.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_eek.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_eek.gif"
-  - "http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif"
 ---
 
 <p align="left"><span style="font-family:Verdana;">12/Outubro - hoje entrei para o mundo da informmmmmm.

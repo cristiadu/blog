@@ -1,14 +1,14 @@
 ---
-layout: "poem"
-title: "Queda livre"
+layout: poem
+title: Queda livre
 date: "2011-01-20T18:07:00.000-08:00"
-author: "Cristiano Faustino"
+author: Cristiano Faustino
 last_modified_at: "2011-01-20T18:07:59.047-08:00"
 categories:
-  - "imported"
   - "blogspot"
+  - "portuguese"
 tags:
-  - "blogspot"
+  - "imported"
   - "Cristiano Faustino"
 ---
 
