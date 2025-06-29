@@ -1,72 +1,30 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# Doltremare Blog: Jekyll Configuration
 
 # Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
-# theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.6"
-minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "sunrise"
 
 # Site Settings
 locale: "en-US"
 title: "Doltremare"
 title_separator: "-"
-subtitle: # site tagline that appears below site title in masthead
+subtitle: "My creative writing endeavors."
 name: "Cristiano Faustino"
 description: "My creative writing endeavors."
-url: "https://blog.cristianofaustino.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "/doltremare" # the subpath of your site, e.g. "/blog"
-repository: "cristiadu/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+url: "https://blog.cristianofaustino.me"
+baseurl: "/doltremare"
+repository: "cristiadu/blog"
+logo: "/assets/images/88x88.png"
+masthead_title: "Doltremare"
 words_per_minute: 200
+date_format: "%B %-d, %Y"
 
-atom_feed:
-  path: # blank (default) uses feed.xml
-  hide: # true, false (default)
-search: true # true, false (default)
-search_full_content: true # true, false (default)
-search_provider: # lunr (default), algolia, google
-lunr:
-  search_within_pages: true # true, false (default)
-algolia:
-  application_id: # YOUR_APPLICATION_ID
-  index_name: # YOUR_INDEX_NAME
-  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: # true (default), false
-google:
-  search_engine_id: # YOUR_SEARCH_ENGINE_ID
-  instant_search: # false (default), true
-# SEO Related
-google_site_verification:
-bing_site_verification:
-naver_site_verification:
-yandex_site_verification:
-baidu_site_verification:
-
-# Social Sharing
-twitter:
-  username: "cristiadu"
-# Analytics
-analytics:
-  provider: false # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id:
-    anonymize_ip: # true, false (default)
+search: true
 
 # Site Author
 author:
   name: "Cristiano Faustino"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/bio-photo.jpg"
   bio: "Writes code most of the time, sometimes writes other words."
   location: "British Columbia, Canada"
   email: "cristiadu@gmail.com"
@@ -74,18 +32,24 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cristiadu@gmail.com"
-    - label: "Website"
+    - label: "Portfolio"
       icon: "fas fa-fw fa-link"
+      url: "https://cristianofaustino.me"
+    - label: "Blog"
+      icon: "fas fa-fw fa-book"
       url: "https://blog.cristianofaustino.me"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cristiadu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/cristianofaustino/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cristiadu"
+    - label: "Last.fm"
+      icon: "fab fa-fw fa-lastfm"
+      url: "https://www.last.fm/user/cristiadu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/cristiadu7777"
+      url: "https://instagram.com/cristiadu"
 
 # Site Footer
 footer:
@@ -93,12 +57,18 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cristiadu@gmail.com"
-    - label: "Website"
+    - label: "Portfolio"
       icon: "fas fa-fw fa-link"
+      url: "https://cristianofaustino.me"
+    - label: "Blog"
+      icon: "fas fa-fw fa-book"
       url: "https://blog.cristianofaustino.me"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cristiadu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/cristianofaustino/"
+    - label: "Last.fm"
+      icon: "fab fa-fw fa-lastfm"
+      url: "https://www.last.fm/user/cristiadu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cristiadu"
@@ -108,79 +78,23 @@ footer:
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
+  - .jekyll-cache
   - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - package-lock.json
-  - Rakefile
-  - README
-  - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  html_entity_output: as_char
-  parse_block_html: true
-  parse_span_html: true
-  html_to_native: true
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
+  - Gemfile.lock
 
 # Sass/SCSS
 sass:
-  sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Outputting
 permalink: /:categories/:title/
 paginate: 8 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -188,44 +102,15 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
 # Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
 
 # HTML Compression
-# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
