@@ -1,7 +1,11 @@
 # main links
 main:
+  - title: "Cristiano Faustino"
+    url: https://cristianofaustino.me
   - title: "Blog Hub"
     url: https://blog.cristianofaustino.me
+  - title: "Home"
+    url: /
   - title: "About"
     url: /about/
   - title: "Archive"
