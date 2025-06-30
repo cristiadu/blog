@@ -6,19 +6,13 @@ minimal_mistakes_skin: "sunrise"
 
 # Site Settings
 locale: "en-US"
-title: "Doltremare"
-title_separator: "-"
-subtitle: "My creative writing endeavors."
-name: "Cristiano Faustino"
 description: "My creative writing endeavors."
 url: "https://blog.cristianofaustino.me"
 baseurl: "/doltremare"
 repository: "cristiadu/blog"
 logo: "/assets/images/doltremare-logo.png"
-masthead_title: "Doltremare"
 words_per_minute: 200
 date_format: "%B %-d, %Y"
-
 search: true
 
 # Site Author
