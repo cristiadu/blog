@@ -4,6 +4,23 @@
   line-height: 1.7;
 }
 
+/* Title and subtitle should span full width */
+.short-story-layout header {
+  width: 100%;
+  max-width: none;
+  margin-bottom: 1.5em;
+}
+
+.short-story-layout .page__title {
+  width: 100%;
+  max-width: none;
+}
+
+.short-story-layout .page__subtitle {
+  width: 100%;
+  max-width: none;
+}
+
 .short-story-layout .short-story-content p {
   margin-bottom: 1em;
   text-align: justify;
