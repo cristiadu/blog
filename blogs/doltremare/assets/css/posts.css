@@ -1,6 +1,6 @@
 /* General Post Layout Styles - applies to all layouts */
 
-/* Title and subtitle now have full width since they're outside the wrapper */
-.page header {
+/* Header is now outside the article, so it naturally gets full width */
+#main > header {
   margin-bottom: 1.5em;
 } 
