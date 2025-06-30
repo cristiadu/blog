@@ -5,9 +5,6 @@ Cristiano Faustino:
   location         : "British Columbia, Canada"
   email            : "cristiadu@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cristiadu@gmail.com"
     - label: "Portfolio"
       icon: "fas fa-fw fa-link"
       url: "https://cristianofaustino.me"
