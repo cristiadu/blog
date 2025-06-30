@@ -166,7 +166,7 @@ David's face went pale. "I gave that to your father the week after you left. You
 
 Maya's hands shook slightly as she opened the envelope. Inside was a single sheet of paper, folded carefully. She unfolded it and read the words she should have seen fifteen years ago:
 
-<div style="margin: 2em 0; padding: 1.5em; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 5px; font-style: italic; color: #495057;">
+<div style="margin: 0.5em 0; padding: 1.0em; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 5px; font-style: italic; color: #495057;">
 "Maya—I know why you left without saying goodbye. I know you were scared. I was scared too. But I want you to know that loving you wasn't a mistake, and I hope that someday, when you're ready, you'll find your way back to the people who love you. Until then, I'll be here. —David"
 </div>
 
