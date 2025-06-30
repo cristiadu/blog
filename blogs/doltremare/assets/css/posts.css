@@ -1,0 +1,18 @@
+/* General Post Layout Styles - applies to all layouts */
+
+/* Title and subtitle should span full width for all layouts */
+.page header {
+  width: 100%;
+  max-width: none;
+  margin-bottom: 1.5em;
+}
+
+.page .page__title {
+  width: 100%;
+  max-width: none;
+}
+
+.page .page__subtitle {
+  width: 100%;
+  max-width: none;
+} 
