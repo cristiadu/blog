@@ -48,7 +48,7 @@ layout: default
           </aside>
         {% endif %}
         
-        <div class="short-story{% if page.font_size and page.font_size != 'normal' %} short-story-{{ page.font_size }}{% endif %}{% if page.line_height and page.line_height != 'normal' %} short-story-{{ page.line_height }}{% endif %}">
+        <div class="short-story{% if page.font_size and page.font_size != 'normal' %} short-story-{{ page.font_size }}{% endif %}{% if page.text_spacing and page.text_spacing != 'normal' %} short-story-text-spacing-{{ page.text_spacing }}{% endif %}">
           {% if page.epigraph %}
             <div class="short-story__epigraph">
               <blockquote>

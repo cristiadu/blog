@@ -4,7 +4,7 @@ title: "The Coffee Shop at the End of Memory Lane"
 subtitle: "A story about second chances"
 date: 2024-01-15
 font_size: normal
-line_height: normal
+text_spacing: normal
 toc: true
 toc_label: "Chapters"
 toc_sticky: true
@@ -29,25 +29,66 @@ She hesitated at the door, her hand resting on the worn brass handle. Through th
 
 The bell above the door chimed as she entered, and Maya felt fifteen years collapse into a single moment.
 
-"Maya? Maya Chen?"
+<div class="dialogue-emphasized dialogue-green">
+  <span class="speaker">David</span>
+  <span class="speech">"Maya? Maya Chen?"</span>
+</div>
 
 She turned toward the voice and saw him—older now, with silver threading through his dark hair and laugh lines deepening around his eyes, but unmistakably David. David, who she'd left behind without explanation. David, who probably hated her.
 
-"Hello, David," she said quietly.
+<div class="dialogue-emphasized dialogue-red">
+  <span class="speaker">Maya</span>
+  <span class="speech whisper">"Hello, David."</span>
+</div>
 
 # Chapter 2: The Conversation
 
 They sat across from each other at the small table by the window, two cups of coffee growing cold between them. Maya stared into her mug as if it might contain answers to questions she'd been carrying for fifteen years.
 
-"I didn't expect to see you again," David said finally, his voice careful, neutral.
+<div class="dialogue-emphasized dialogue-green">
+  <span class="speaker">David</span>
+  <span class="speech">"I didn't expect to see you again."</span>
+</div>
 
-"I didn't expect to come back." Maya looked up, meeting his eyes for the first time since she'd walked in. "I'm sorry, David. For leaving the way I did. For not explaining. For... everything."
+His voice was careful, neutral—the voice of someone who had learned to guard his words.
 
-David leaned back in his chair, studying her face. "You know, I used to practice this conversation. What I'd say if I ever saw you again. I had speeches prepared—angry ones, hurt ones, indifferent ones." He smiled ruefully. "Turns out, I don't remember any of them."
+<div class="dialogue-emphasized dialogue-red">
+  <span class="speaker">Maya</span>
+  <span class="speech">"I didn't expect to come back."</span>
+</div>
 
-A customer entered, the bell announcing their arrival with the same bright chime. David glanced toward the counter, then back at Maya. "I should—"
+Maya looked up, meeting his eyes for the first time since she'd walked in. 
 
-"Of course," Maya said quickly. "Go ahead."
+<div class="dialogue-emphasized dialogue-red">
+  <span class="speaker">Maya</span>
+  <span class="speech">"I'm sorry, David. For leaving the way I did. For not explaining. For... everything."</span>
+</div>
+
+David leaned back in his chair, studying her face. 
+
+<div class="dialogue-emphasized dialogue-green">
+  <span class="speaker">David</span>
+  <span class="speech">"You know, I used to practice this conversation. What I'd say if I ever saw you again. I had speeches prepared—angry ones, hurt ones, indifferent ones."</span>
+</div>
+
+He smiled ruefully. 
+
+<div class="dialogue-emphasized dialogue-green">
+  <span class="speaker">David</span>
+  <span class="speech">"Turns out, I don't remember any of them."</span>
+</div>
+
+A customer entered, the bell announcing their arrival with the same bright chime. David glanced toward the counter, then back at Maya. 
+
+<div class="dialogue-emphasized dialogue-green">
+  <span class="speaker">David</span>
+  <span class="speech">"I should—"</span>
+</div>
+
+<div class="dialogue-emphasized dialogue-red">
+  <span class="speaker">Maya</span>
+  <span class="speech">"Of course. Go ahead."</span>
+</div>
 
 She watched him serve the customer—a elderly woman who seemed to know him well, asking about his daughter, his health, his plans for the weekend. This was David's life now, she realized. A life that had continued, grown, flourished in her absence.
 
@@ -61,13 +102,38 @@ She remembered the last time she'd been here—the night before she left for col
 
 She'd kept that plant for two years before it died from neglect during finals week. She'd thrown it away without ceremony, along with most of her memories of home.
 
-"Sorry about that," David said, returning to the table. "Mrs. Patterson—she's been coming here since before I bought the place. She likes to catch up."
+<div class="dialogue-emphasized dialogue-green">
+  <span class="speaker">David</span>
+  <span class="speech">"Sorry about that. Mrs. Patterson—she's been coming here since before I bought the place. She likes to catch up."</span>
+</div>
 
-"You bought the place?"
+<div class="dialogue-emphasized dialogue-red">
+  <span class="speaker">Maya</span>
+  <span class="speech">"You bought the place?"</span>
+</div>
 
-"Three years ago. The previous owner, Mr. Kowalski, decided to retire. I couldn't bear the thought of it closing, so..." He shrugged. "Here I am, a coffee shop owner at forty-three."
+<div class="dialogue-emphasized dialogue-green">
+  <span class="speaker">David</span>
+  <span class="speech">"Three years ago. The previous owner, Mr. Kowalski, decided to retire. I couldn't bear the thought of it closing, so..."</span>
+</div>
 
-"It suits you," Maya said, and meant it.
+He shrugged. 
+
+<div class="dialogue-emphasized dialogue-green">
+  <span class="speaker">David</span>
+  <span class="speech">"Here I am, a coffee shop owner at forty-three."</span>
+</div>
+
+<div class="thought">
+He seemed content, she thought. When did David become someone who could buy coffee shops and take care of lonely elderly customers? When did he become this grounded, steady person?
+</div>
+
+<div class="dialogue-emphasized dialogue-red">
+  <span class="speaker">Maya</span>
+  <span class="speech">"It suits you."</span>
+</div>
+
+And she meant it.
 
 # Chapter 4: The Explanation
 
@@ -81,11 +147,21 @@ David's face went pale. "I gave that to your father the week after you left. You
 
 Maya's hands shook slightly as she opened the envelope. Inside was a single sheet of paper, folded carefully. She unfolded it and read the words she should have seen fifteen years ago:
 
-*Maya—I know why you left without saying goodbye. I know you were scared. I was scared too. But I want you to know that loving you wasn't a mistake, and I hope that someday, when you're ready, you'll find your way back to the people who love you. Until then, I'll be here. —David*
+<div style="margin: 2em 0; padding: 1.5em; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 5px; font-style: italic; color: #495057;">
+"Maya—I know why you left without saying goodbye. I know you were scared. I was scared too. But I want you to know that loving you wasn't a mistake, and I hope that someday, when you're ready, you'll find your way back to the people who love you. Until then, I'll be here. —David"
+</div>
 
-Tears blurred Maya's vision. "He kept it all these years."
+Tears blurred Maya's vision. 
 
-"He said you weren't ready to hear it then. Maybe he was right."
+<div class="dialogue-emphasized dialogue-red">
+  <span class="speaker">Maya</span>
+  <span class="speech whisper">"He kept it all these years."</span>
+</div>
+
+<div class="dialogue-emphasized dialogue-green">
+  <span class="speaker">David</span>
+  <span class="speech">"He said you weren't ready to hear it then. Maybe he was right."</span>
+</div>
 
 # Chapter 5: The Possibility
 
