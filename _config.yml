@@ -21,6 +21,7 @@ exclude:
   - .jekyll-cache/
   - Gemfile
   - Gemfile.lock
+  - vendor/
   - blogs/ # Ignore subblogs as they have their own build
 sass:
   style: compressed
