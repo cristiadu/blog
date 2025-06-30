@@ -24,7 +24,7 @@ author:
   location: "British Columbia, Canada"
   email: "cristiadu@gmail.com"
   links:
-    - label: "Cristiano Faustino"
+    - label: "Cristiano's Portfolio"
       icon: "fas fa-fw fa-link"
       url: "https://cristianofaustino.me"
     - label: "Blog Hub"
@@ -46,10 +46,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cristiadu@gmail.com"
-    - label: "Cristiano Faustino"
+    - label: "Cristiano's Portfolio"
       icon: "fas fa-fw fa-link"
       url: "https://cristianofaustino.me"
     - label: "Blog Hub"
