@@ -1,15 +1,12 @@
 source "https://rubygems.org"
 
 # Shared dependencies for all blogs
-# This file is inherited by all individual Gemfiles
+# Using github-pages gem to ensure compatibility with GitHub Pages hosting
 
-# Common plugins used across blogs
+# Core GitHub Pages bundle (includes Jekyll + common plugins)
 group :jekyll_plugins do
-  gem "github-pages"
-  gem "jekyll-include-cache"
-  gem "jekyll-feed", "~> 0.17.0"
-  gem "jekyll-soopr-seo-tag", "~> 2.7.3"
-  gem "webrick", "~> 1.9.1"
+  gem "github-pages"  # Includes jekyll, jekyll-feed, jekyll-sitemap, etc.
+  gem "webrick", "~> 1.9.1"  # Local development server
 end
 
 # Windows and JRuby dependencies
@@ -21,5 +18,5 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.2.0", :install_if => Gem.win_platform?
 
-# Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds
+# Lock `http_parser.rb` gem to `v0.8.x` on JRuby builds
 gem "http_parser.rb", "~> 0.8.0", :platforms => [:jruby] 

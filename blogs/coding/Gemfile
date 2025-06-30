@@ -1,10 +1,5 @@
 # Inherit shared dependencies
 eval_gemfile "../../Gemfile.base"
 
-# Blog-specific dependencies
-group :jekyll_plugins do
-  gem 'jekyll-seo-tag'
-end
-
 # Custom added theme
 gem "jekyll-theme-console"

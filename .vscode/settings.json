@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "Gemfile.base": "ruby",
+    "**/Gemfile.base": "ruby"
+  }
+} 
