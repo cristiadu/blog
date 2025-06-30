@@ -175,8 +175,6 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-soopr-seo-tag (2.7.3)
-      jekyll (>= 3.8, < 5.0)
     jekyll-swiss (1.0.0)
     jekyll-theme-architect (0.2.0)
       jekyll (> 3.5, < 5.0)
@@ -311,10 +309,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.8.0)
-  jekyll-feed (~> 0.17.0)
-  jekyll-include-cache
-  jekyll-seo-tag
-  jekyll-soopr-seo-tag (~> 2.7.3)
   jekyll-theme-console
   tzinfo (~> 2.0, >= 2.0.6)
   tzinfo-data
