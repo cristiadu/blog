@@ -14,7 +14,7 @@ description: "My creative writing endeavors."
 url: "https://blog.cristianofaustino.me"
 baseurl: "/doltremare"
 repository: "cristiadu/blog"
-logo: "/assets/images/88x88.png"
+logo: "/assets/images/doltremare-logo.png"
 masthead_title: "Doltremare"
 words_per_minute: 200
 date_format: "%B %-d, %Y"
@@ -24,7 +24,7 @@ search: true
 # Site Author
 author:
   name: "Cristiano Faustino"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/cristiano-profile.jpeg"
   bio: "Writes code most of the time, sometimes writes other words."
   location: "British Columbia, Canada"
   email: "cristiadu@gmail.com"
