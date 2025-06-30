@@ -90,7 +90,26 @@ A customer entered, the bell announcing their arrival with the same bright chime
   <span class="speech">"Of course. Go ahead."</span>
 </div>
 
-She watched him serve the customer—a elderly woman who seemed to know him well, asking about his daughter, his health, his plans for the weekend. This was David's life now, she realized. A life that had continued, grown, flourished in her absence.
+She watched him serve the customer—a elderly woman who seemed to know him well.
+
+<div class="dialogue">
+  <span class="speaker">Mrs. Patterson:</span>
+  <span class="speech">"David, dear, how's Emma doing at college?"</span>
+</div>
+
+<div class="dialogue-emphasized dialogue-green">
+  <span class="speaker">David</span>
+  <span class="speech">"She's doing great, Mrs. Patterson. Made Dean's List last semester."</span>
+</div>
+
+Outside, a car honked loudly, and Mrs. Patterson startled.
+
+<div class="dialogue">
+  <span class="speaker">Mrs. Patterson:</span>
+  <span class="speech shout">"Good heavens! These young drivers!"</span>
+</div>
+
+This was David's life now, she realized. A life that had continued, grown, flourished in her absence.
 
 # Chapter 3: The Memory
 
@@ -173,9 +192,28 @@ Maya considered the question. "I regret how I left. I regret the hurt I caused. 
 
 David smiled—the first genuine smile she'd seen from him all day. "You always deserved to come back, Maya. You just needed to believe it."
 
-As she reached the door, Maya turned back. "David? Would it be okay if I came by tomorrow? I'd like to hear more about Emma. And maybe... maybe you could show me what you've done with the place."
+As she reached the door, Maya turned back. 
 
-"I'd like that," he said simply.
+<div class="dialogue-emphasized dialogue-red">
+  <span class="speaker">Maya</span>
+  <span class="speech">"David? Would it be okay if I came by tomorrow? I'd like to hear more about Emma. And maybe... maybe you could show me what you've done with the place."</span>
+</div>
+
+<div class="dialogue-emphasized dialogue-green">
+  <span class="speaker">David</span>
+  <span class="speech">"I'd like that."</span>
+</div>
+
+He paused, then added quietly:
+
+<div class="dialogue-emphasized dialogue-green">
+  <span class="speaker">David</span>
+  <span class="speech whisper">"Maya? I'm glad you came back."</span>
+</div>
+
+<div class="thought">
+Her heart felt lighter than it had in years.
+</div>
 
 The bell chimed once more as Maya stepped out into the evening air. For the first time in fifteen years, the sound felt like a welcome rather than a goodbye.
 
@@ -185,8 +223,30 @@ Six months later, Maya stood in the same doorway, but this time she wasn't hesit
 
 David looked up from behind the counter as she entered, his face lighting up with the smile she'd grown to treasure all over again.
 
-"The usual?" he asked, already reaching for her favorite mug.
+<div class="dialogue-emphasized dialogue-green">
+  <span class="speaker">David</span>
+  <span class="speech">"The usual?"</span>
+</div>
 
-"Always," Maya replied, taking her seat at the table by the window.
+He was already reaching for her favorite mug—a ceramic piece she'd made in a pottery class and given him as a housewarming gift.
+
+<div class="dialogue-emphasized dialogue-red">
+  <span class="speaker">Maya</span>
+  <span class="speech">"Always."</span>
+</div>
+
+From the kitchen, his assistant Emma called out:
+
+<div class="dialogue">
+  <span class="speaker">Emma (from kitchen):</span>
+  <span class="speech distant">"Dad, we're out of the Colombian blend!"</span>
+</div>
+
+<div class="dialogue-emphasized dialogue-green">
+  <span class="speaker">David</span>
+  <span class="speech shout">"Check the storage room!"</span>
+</div>
+
+Maya laughed, taking her seat at the table by the window.
 
 Some stories, she'd learned, were worth returning to. Some chances were worth taking twice. And sometimes, the best way forward was to go back to where it all began. 

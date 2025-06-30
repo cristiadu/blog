@@ -24,6 +24,10 @@ tags: [your-tags]
 ---
 ```
 
+## Chapter Navigation
+
+Use `#` for chapters, `##` for sections. TOC auto-generates from all headers and appears as sticky sidebar.
+
 ## Dialogue Formatting Options
 
 ### Basic Dialogue
@@ -44,6 +48,36 @@ tags: [your-tags]
 
 **Available Colors:** `dialogue-red`, `dialogue-green`, `dialogue-blue`, `dialogue-purple`, `dialogue-orange`, `dialogue-teal`, `dialogue-pink`
 
+### Special Dialogue Effects
+
+**Whispered Dialogue**
+```html
+<span class="speech whisper">"Whispered text"</span>
+```
+
+**Shouted Dialogue**
+```html
+<span class="speech shout">"Shouted text"</span>
+```
+
+**Distant/Phone Dialogue**
+```html
+<span class="speech distant">"Distant voice"</span>
+```
+
+**Internal Thoughts**
+```html
+<div class="thought">Internal monologue text</div>
+```
+
+### Combined Effects
+```html
+<div class="dialogue-emphasized dialogue-blue">
+  <span class="speaker">Character</span>
+  <span class="speech whisper">"Quiet, urgent dialogue"</span>
+</div>
+```
+
 ## Table of Contents Options
 
 ```yaml
@@ -60,6 +94,23 @@ toc_sticky: true             # TOC follows when scrolling
 - `toc_sticky: true/false` - Whether TOC stays visible when scrolling
 
 **Common Icons:** `book-open`, `list`, `file-alt`, `bookmark`, `map`, `compass`
+
+## Typography Options
+
+```yaml
+font_size: normal           # small, normal, large
+text_spacing: normal        # compact, normal, spaced
+```
+
+**Font Size Options:**
+- `small` - Smaller text for longer stories
+- `normal` - Default size (1.1em)
+- `large` - Larger text for easier reading
+
+**Text Spacing Options:**
+- `compact` - Tighter line spacing (1.4)
+- `normal` - Default spacing (1.7)
+- `spaced` - Looser spacing (2.0)
 
 ## Subtitle Options
 
@@ -86,21 +137,6 @@ author_note: "Your note to readers"    # Appears at story end
 
 Shows in highlighted box at story end. Use for context, inspiration, or dedication.
 
-### Special Dialogue Types
-```html
-<!-- Whispered -->
-<span class="speech whisper">"Whispered text"</span>
-
-<!-- Shouted -->
-<span class="speech shout">"Shouted text"</span>
-
-<!-- Distant/Phone -->
-<span class="speech distant">"Distant voice"</span>
-
-<!-- Internal thoughts -->
-<div class="thought">Internal monologue text</div>
-```
-
 ## Complete Example
 
 ```yaml
@@ -110,7 +146,7 @@ Shows in highlighted box at story end. Use for context, inspiration, or dedicati
   subtitle: "A story of reconciliation"
   date: 2024-01-15
   font_size: normal
-text_spacing: normal
+  text_spacing: normal
   toc: true
   toc_label: "Chapters"
   toc_icon: "book-open"
@@ -156,6 +192,13 @@ text_spacing: normal
     <span class="speech whisper">"How long does he have?"</span>
   </div>
 
+  A crash echoed from somewhere in the hospital, followed by shouting.
+
+  <div class="dialogue">
+    <span class="speaker">Nurse:</span>
+    <span class="speech shout">"We need help in room 314!"</span>
+  </div>
+
   # Chapter 2: The Journey
 
   Sarah hadn't spoken to her father in five years. The drive to the hospital felt endless.
@@ -168,6 +211,13 @@ text_spacing: normal
   <div class="dialogue-emphasized dialogue-red">
     <span class="speaker">Sarah</span>
     <span class="speech">"Maybe not. But I owe myself this conversation."</span>
+  </div>
+
+  The connection crackled with static.
+
+  <div class="dialogue">
+    <span class="speaker">Tom:</span>
+    <span class="speech distant">"Sarah? Can you hear me?"</span>
   </div>
 
   # Chapter 3: The Hospital
@@ -191,7 +241,7 @@ text_spacing: normal
 
   <div class="dialogue-emphasized dialogue-red">
     <span class="speaker">Sarah</span>
-    <span class="speech">"Dad, please. Just rest."</span>
+    <span class="speech whisper">"Dad, please. Just rest."</span>
   </div>
 
   <div class="thought">
@@ -205,12 +255,3 @@ text_spacing: normal
   Sometimes the most important words are the ones we never send...
 
 ```
-
-## Typography Options
-
-- **Font Size**: `small` (0.95em), `normal` (1.1em), `large` (1.2em)
-- **Text Spacing**: `compact` (1.4), `normal` (1.7), `spaced` (2.0)
-
-## Chapter Navigation
-
-Use `#` for chapters, `##` for sections. TOC auto-generates from all headers and appears as sticky sidebar.
