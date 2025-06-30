@@ -26,10 +26,10 @@
   line-height: 2;
 }
 
-/* Epigraph styling */
+/* Epigraph styling - much more compact */
 .short-story__epigraph {
-  margin: 2em 0 3em 0;
-  padding: 1em 2em;
+  margin: 1em 0 1.5em 0;
+  padding: 0.5em 1em;
   border-left: 3px solid #ccc;
   background-color: #f9f9f9;
   font-style: italic;
@@ -45,7 +45,7 @@
 .short-story__epigraph cite {
   display: block;
   text-align: right;
-  margin-top: 0.5em;
+  margin-top: 0.25em;
   font-weight: bold;
 }
 
@@ -58,12 +58,12 @@
   font-size: 0.9em;
 }
 
-/* Dialogue Formatting Styles */
+/* Dialogue Formatting Styles - Compact */
 
-/* Basic dialogue with speaker labels */
+/* Basic dialogue with speaker labels - tighter spacing */
 .dialogue {
-  margin: 1em 0;
-  padding-left: 1em;
+  margin: 0.5em 0;
+  padding-left: 0.5em;
 }
 
 .dialogue .speaker {
@@ -76,14 +76,14 @@
 
 .dialogue .speech {
   font-style: italic;
-  margin-left: 0.5em;
+  margin-left: 0.25em;
   color: #34495e;
 }
 
-/* Emphasized dialogue */
+/* Emphasized dialogue - much more compact */
 .dialogue-emphasized {
-  margin: 1.5em 0;
-  padding: 0.5em 1em;
+  margin: 0.5em 0;
+  padding: 0.25em 0.5em;
   border-left: 4px solid #3498db;
   background-color: #f8f9fa;
 }
@@ -94,7 +94,7 @@
   font-size: 0.85em;
   text-transform: uppercase;
   letter-spacing: 1px;
-  margin-bottom: 0.25em;
+  margin-bottom: 0.1em;
   display: block;
 }
 
@@ -126,10 +126,10 @@
 .dialogue-pink .speaker { color: #e91e63; }
 .dialogue-pink { border-left-color: #e91e63; }
 
-/* Thought bubbles/internal monologue */
+/* Thought bubbles/internal monologue - much more compact */
 .thought {
-  margin: 1em 0;
-  padding: 0.75em 1.5em;
+  margin: 0.5em 0;
+  padding: 0.5em 1em;
   background-color: #ecf0f1;
   border-radius: 10px;
   font-style: italic;
@@ -140,8 +140,8 @@
 .thought:before {
   content: "💭";
   position: absolute;
-  left: -0.5em;
-  top: 0.5em;
+  left: -0.25em;
+  top: 0.25em;
   font-size: 1.2em;
 }
 
@@ -169,11 +169,15 @@
 /* Responsive dialogue adjustments */
 @media (max-width: 768px) {
   .dialogue-emphasized {
-    margin: 1em 0;
-    padding: 0.5em;
+    margin: 0.25em 0;
+    padding: 0.25em;
   }
   
   .short-story-layout .short-story-content {
     font-size: 1em;
+  }
+  
+  .thought {
+    padding: 0.4em 0.8em;
   }
 } 
