@@ -15,7 +15,7 @@ github_username: cristiadu
 # Plugins
 plugins:
   - jekyll-feed
-  - jekyll-soopr-seo-tag
+  - jekyll-seo-tag
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -28,7 +28,7 @@ theme_config:
   appearance: "dark"
   appearance_toggle: true
   back_home_text: "home.."
-  date_format: "%Y-%m-%d"
+  date_format: "%d/%M/%Y"
   show_description: true
   show_navbar: true
   show_footer: true

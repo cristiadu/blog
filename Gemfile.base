@@ -9,14 +9,10 @@ group :jekyll_plugins do
   gem "webrick"
 end
 
-# Windows and JRuby dependencies
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem 'tzinfo'
   gem "tzinfo-data"
 end
 
-# Performance-booster for watching directories on Windows
 gem "wdm", :install_if => Gem.win_platform?
-
-# Lock `http_parser.rb` gem to `v0.8.x` on JRuby builds
 gem "http_parser.rb", :platforms => [:jruby] 
