@@ -7,6 +7,7 @@
 name: [CD] Build all Blogs
 
 on:
+  workflow_call:
   # Runs on pull reqeusts targeting the default branch
   pull_request:
     branches:
