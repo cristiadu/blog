@@ -6,17 +6,17 @@ source "https://rubygems.org"
 # Core GitHub Pages bundle (includes Jekyll + common plugins)
 group :jekyll_plugins do
   gem "github-pages"  # Includes jekyll, jekyll-feed, jekyll-sitemap, etc.
-  gem "webrick", "~> 1.9.1"  # Local development server
+  gem "webrick"
 end
 
 # Windows and JRuby dependencies
 platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem 'tzinfo', '~> 2.0', '>= 2.0.6'
+  gem 'tzinfo'
   gem "tzinfo-data"
 end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.2.0", :install_if => Gem.win_platform?
+gem "wdm", :install_if => Gem.win_platform?
 
 # Lock `http_parser.rb` gem to `v0.8.x` on JRuby builds
-gem "http_parser.rb", "~> 0.8.0", :platforms => [:jruby] 
+gem "http_parser.rb", :platforms => [:jruby] 
