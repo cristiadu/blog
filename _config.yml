@@ -21,6 +21,8 @@ exclude:
   - .jekyll-cache/
   - vendor/
   - blogs/ # Ignore subblogs as they have their own build
+  - Gemfile
+  - Gemfile.lock
 sass:
   style: compressed
 
@@ -28,7 +30,6 @@ theme_config:
   appearance: "dark"
   appearance_toggle: true
   back_home_text: "home.."
-  date_format: "%d/%M/%Y"
   show_description: true
   show_navbar: true
   show_footer: true
