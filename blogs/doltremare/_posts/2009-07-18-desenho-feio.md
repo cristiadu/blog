@@ -7,7 +7,6 @@ last_modified_at: "2010-04-05T21:02:27.671-07:00"
 align: center
 size: normal
 spacing: normal
-images: 
 categories:
   - "blogspot"
   - "portuguese"
@@ -34,7 +33,7 @@ tags:
 
 como o Dan pediu...
 
-![Image Here](http://4.bp.blogspot.com/_sIsAsPAOqZA/SmI6VqLh6MI/AAAAAAAAAc4/LAQTWo1QM6c/s400/Digitalizar0001.jpg)
+<img src="http://4.bp.blogspot.com/_sIsAsPAOqZA/SmI6VqLh6MI/AAAAAAAAAc4/LAQTWo1QM6c/s400/Digitalizar0001.jpg" alt="Image Here">
 
 <p> </p><p>...   fez carinha de cachorro sem dono e prometeu que ia me comprar chocolate quando voltassem as aulas *-------*
 

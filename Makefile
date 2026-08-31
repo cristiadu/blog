@@ -17,7 +17,7 @@ build: main subblogs
 main:
 	@echo "$(CYAN)======== Building Main Blog ==========$(NO_COLOR)"
 	bundle install
-	bundle exec jekyll build
+	bundle exec jekyll build $(JEKYLL_FLAGS)
 	@echo "$(CYAN)======================================$(NO_COLOR)"
 
 .PHONY: subblogs
@@ -28,9 +28,16 @@ subblogs:
 	  echo "$(YELLOW)=> Building Blog: '$$d' $(NO_COLOR)"; \
 	  cd $$home_dir/$$d; \
 	  bundle install; \
-	  bundle exec jekyll build --destination $$home_dir/_site/$${PWD##*/}; \
+	  bundle exec jekyll build $(JEKYLL_FLAGS) --destination $$home_dir/_site/$${PWD##*/}; \
 	done
 	@echo "$(CYAN)======================================$(NO_COLOR)"
+
+.PHONY: dev
+dev:
+	@echo "$(CYAN)======== Building for Local Preview ==========$(NO_COLOR)"
+	@$(MAKE) build JEKYLL_FLAGS=--unpublished
+	@echo "$(CYAN)======== Serving on http://localhost:4000 ==========$(NO_COLOR)"
+	bundle exec jekyll serve --skip-initial-build --no-watch
 
 # Dependency management targets
 .PHONY: update-deps

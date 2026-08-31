@@ -50,7 +50,6 @@ logs/
 node_modules/
 
 # Ruby version manager files
-.ruby-version
 .rbenv-version
 .rvmrc
 

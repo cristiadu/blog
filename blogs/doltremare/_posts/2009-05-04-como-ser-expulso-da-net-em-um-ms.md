@@ -7,7 +7,6 @@ last_modified_at: "2010-04-05T21:04:40.945-07:00"
 align: center
 size: normal
 spacing: normal
-images: 
 categories:
   - "blogspot"
   - "portuguese"
@@ -57,47 +56,47 @@ tags:
 
 01/Novembro - Rssss. dois de meus contatos retornaram emails tb com dúvidas sobre onde fica localizado o site Messenger. Enviei email explicando e o telefone do <span style="color: rgb(255, 0, 0);"> Luisão . Meu Deus como são burros!!! Rssss. Consegui falar com "<span style="color: rgb(255, 0, 255);">Loira24", foi uma noite maravilhosa onde falamos tudo sobre o q pensamos e como somos. Estou abismado, ela me contou q ainda é virgem. Gostei dos emoticons.
 
-02/Novembro - enviei emails pra várias comunidades             hj pedindo que me aceitassem ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif)
-, e com medo de que não, enviei 30 email pra cada grupo ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_rolleyes.gif)
-. Fiquei sabendo o nome de meu anjo de candura e tivemos nossa primeira noite virtual. Nós e nossas mãos. Estou exausto e vou deixar pra limpar o chão e o teclado amanhã.![Image Here](http://www.mdig.com.br/imagens/smiles/icon_wink.gif)
+02/Novembro - enviei emails pra várias comunidades             hj pedindo que me aceitassem <img src="http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif" alt="Image Here">
+, e com medo de que não, enviei 30 email pra cada grupo <img src="http://www.mdig.com.br/imagens/smiles/icon_rolleyes.gif" alt="Image Here">
+. Fiquei sabendo o nome de meu anjo de candura e tivemos nossa primeira noite virtual. Nós e nossas mãos. Estou exausto e vou deixar pra limpar o chão e o teclado amanhã.<img src="http://www.mdig.com.br/imagens/smiles/icon_wink.gif" alt="Image Here">
 
-03/Novembro - ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif)
- dois grupos me aceitaram: "MalassemAlssa" e o "ChatusnaNet". Outros me mandaram email me chamando de "spamer". Respondi a cada um deles, dizendo que deveriam chamar o babaca do progenitor com este palavrão ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_evil.gif)
-. Como não tinha certeza se iria chegar até eles enviei 30 emails pra cada um. Hj é que entendi o "post" bunitinho do blog do <span style="color: rgb(255, 0, 0);">Luisão. Acho que estou ficando tão esperto quanto ele ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_wink.gif)
+03/Novembro - <img src="http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif" alt="Image Here">
+ dois grupos me aceitaram: "MalassemAlssa" e o "ChatusnaNet". Outros me mandaram email me chamando de "spamer". Respondi a cada um deles, dizendo que deveriam chamar o babaca do progenitor com este palavrão <img src="http://www.mdig.com.br/imagens/smiles/icon_evil.gif" alt="Image Here">
+. Como não tinha certeza se iria chegar até eles enviei 30 emails pra cada um. Hj é que entendi o "post" bunitinho do blog do <span style="color: rgb(255, 0, 0);">Luisão. Acho que estou ficando tão esperto quanto ele <img src="http://www.mdig.com.br/imagens/smiles/icon_wink.gif" alt="Image Here">
 .
 
-04/Novembro - Enviei 10 textos do Arnaldo Jabor, 14 da Martha Medeiros e mais de 100 frases do Paulo Coelho para os grupos que participo ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_wink.gif)
-, um em cada post. Tenho certeza de que vão gostar. Minha "<span style="color: rgb(255, 0, 255);">Loira24" me tratou com indiferença hj, pouco conversamos. Será q ela quer só se aproveitar de mim? ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_sad.gif)
-![Image Here](http://www.mdig.com.br/imagens/smiles/icon_sad.gif)
-![Image Here](http://www.mdig.com.br/imagens/smiles/icon_sad.gif)
+04/Novembro - Enviei 10 textos do Arnaldo Jabor, 14 da Martha Medeiros e mais de 100 frases do Paulo Coelho para os grupos que participo <img src="http://www.mdig.com.br/imagens/smiles/icon_wink.gif" alt="Image Here">
+, um em cada post. Tenho certeza de que vão gostar. Minha "<span style="color: rgb(255, 0, 255);">Loira24" me tratou com indiferença hj, pouco conversamos. Será q ela quer só se aproveitar de mim? <img src="http://www.mdig.com.br/imagens/smiles/icon_sad.gif" alt="Image Here">
+<img src="http://www.mdig.com.br/imagens/smiles/icon_sad.gif" alt="Image Here">
+<img src="http://www.mdig.com.br/imagens/smiles/icon_sad.gif" alt="Image Here">
 
-05/Novembro - hoje entrei no fórum do grupo. Lá, assassinaram o Português e ainda não contentes mataram toda a família, botaram fogo e enterraram. É um tal de "lol" pra lá, "newba" pra cá, "Huahuahahuaha", "Heuheuheuheu", "shox" . Fico tonto só em ler os textos colocados ali ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_sad.gif)
-. Mas também é um espaço muito legal, estou aprendendo muitas coisas novas ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_wink.gif)
+05/Novembro - hoje entrei no fórum do grupo. Lá, assassinaram o Português e ainda não contentes mataram toda a família, botaram fogo e enterraram. É um tal de "lol" pra lá, "newba" pra cá, "Huahuahahuaha", "Heuheuheuheu", "shox" . Fico tonto só em ler os textos colocados ali <img src="http://www.mdig.com.br/imagens/smiles/icon_sad.gif" alt="Image Here">
+. Mas também é um espaço muito legal, estou aprendendo muitas coisas novas <img src="http://www.mdig.com.br/imagens/smiles/icon_wink.gif" alt="Image Here">
 .
 
-06/Novembro - ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif)
- recebi um convite de meu <span style="color: rgb(255, 0, 0);"> melhor e único amigo pra entrar no Orkut, ele disse q está custando R$450,00 mas q passava pra mim por R$150,00. Este cara é demais!!! ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_cool.gif)
- Fiz meu avatar pro fórum do grupo com uma gif animada de "seios balançandu" de 750kB, fikô muito bom. Na assinatura coloquei textos do Arnaldo Jabor mixados com textos da Martha Medeiros, fikô uma assinatura de 22 páginas, bem eclética. Também aprendi a colocar links e imagens. Este é um link lá pro Blogger do <span style="color: rgb(255, 0, 0);">Luisão, o [ Metamorfose Digital](http://www.mdig.com.br/index.php?memberid=5). "<span style="color: rgb(255, 0, 255);">Loira24" continua me tratandu cum indiferença, as vezes demora + d 10 minutos pra responder no Messenger. Será q ela tem otro?![Image Here](http://www.mdig.com.br/imagens/smiles/icon_sad.gif)
-![Image Here](http://www.mdig.com.br/imagens/smiles/icon_sad.gif)
-![Image Here](http://www.mdig.com.br/imagens/smiles/icon_sad.gif)
+06/Novembro - <img src="http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif" alt="Image Here">
+ recebi um convite de meu <span style="color: rgb(255, 0, 0);"> melhor e único amigo pra entrar no Orkut, ele disse q está custando R$450,00 mas q passava pra mim por R$150,00. Este cara é demais!!! <img src="http://www.mdig.com.br/imagens/smiles/icon_cool.gif" alt="Image Here">
+ Fiz meu avatar pro fórum do grupo com uma gif animada de "seios balançandu" de 750kB, fikô muito bom. Na assinatura coloquei textos do Arnaldo Jabor mixados com textos da Martha Medeiros, fikô uma assinatura de 22 páginas, bem eclética. Também aprendi a colocar links e imagens. Este é um link lá pro Blogger do <span style="color: rgb(255, 0, 0);">Luisão, o [ Metamorfose Digital](http://www.mdig.com.br/index.php?memberid=5). "<span style="color: rgb(255, 0, 255);">Loira24" continua me tratandu cum indiferença, as vezes demora + d 10 minutos pra responder no Messenger. Será q ela tem otro?<img src="http://www.mdig.com.br/imagens/smiles/icon_sad.gif" alt="Image Here">
+<img src="http://www.mdig.com.br/imagens/smiles/icon_sad.gif" alt="Image Here">
+<img src="http://www.mdig.com.br/imagens/smiles/icon_sad.gif" alt="Image Here">
 
-07/Novembru - ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif)
- postei meu primeiro tópico no fórum, coloquei um texto de Paulo Coelho com 32 páginas pra q meus amigos d lá comentassem. Estou ansioso pra ver as respostas. Minha senha para os grupos naum tá funcionando, o q será q está acontecendu??? Discubri q "<span style="color: rgb(255, 0, 255);">Loira24" e "<span style="color: rgb(255, 0, 0);">SedentaPorPrazer" saum a mesma pessoa. Isto me excitou muito, gosto de mulheres com traços múltiplos.![Image Here](http://www.mdig.com.br/imagens/smiles/icon_cool.gif)
+07/Novembru - <img src="http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif" alt="Image Here">
+ postei meu primeiro tópico no fórum, coloquei um texto de Paulo Coelho com 32 páginas pra q meus amigos d lá comentassem. Estou ansioso pra ver as respostas. Minha senha para os grupos naum tá funcionando, o q será q está acontecendu??? Discubri q "<span style="color: rgb(255, 0, 255);">Loira24" e "<span style="color: rgb(255, 0, 0);">SedentaPorPrazer" saum a mesma pessoa. Isto me excitou muito, gosto de mulheres com traços múltiplos.<img src="http://www.mdig.com.br/imagens/smiles/icon_cool.gif" alt="Image Here">
 
-08/Novembru - ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_evil.gif)
+08/Novembru - <img src="http://www.mdig.com.br/imagens/smiles/icon_evil.gif" alt="Image Here">
  akela cadela me enviou email dizendu pra naum falar + cum ela, me aguarde!!! Vou espalhar pra Net inteira q ela adora fazer um "fio terra" e q nunca, jamais poderia ser virgem como diz. Nunca acreditei nissu!!! Demôniuuuuuuuuuu.
 
-09/Novembru - Luisão me cobrou pelo teclado desta vez, achu q ele está certu. Recebi vários emails com o texto "Banned Forever". Será q é uma nova música da Britney Spear? Precisu baixar a Mp3. Naum consegui entrar no fórum, tenhu certeza que a senha é essa, já tentei mais de 200 vezes e naum entru.![Image Here](http://www.mdig.com.br/imagens/smiles/icon_evil.gif)
+09/Novembru - Luisão me cobrou pelo teclado desta vez, achu q ele está certu. Recebi vários emails com o texto "Banned Forever". Será q é uma nova música da Britney Spear? Precisu baixar a Mp3. Naum consegui entrar no fórum, tenhu certeza que a senha é essa, já tentei mais de 200 vezes e naum entru.<img src="http://www.mdig.com.br/imagens/smiles/icon_evil.gif" alt="Image Here">
 
-10/Novembru - Recebi um email do servidor ADSL me pedindu pra mudar de provedor, naum entendi ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_eek.gif)
-. Naum consigu mais enviar emails em nenhum  servidor, só receber ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_evil.gif)
+10/Novembru - Recebi um email do servidor ADSL me pedindu pra mudar de provedor, naum entendi <img src="http://www.mdig.com.br/imagens/smiles/icon_eek.gif" alt="Image Here">
+. Naum consigu mais enviar emails em nenhum  servidor, só receber <img src="http://www.mdig.com.br/imagens/smiles/icon_evil.gif" alt="Image Here">
 . Os grupos e o fórum naum funcionam, estou sem contatos no Messenger. Ihhh... já sei, o Orkut.
 
-11/Novembru - A foto do meu perfil naum aparece lá, está tudo escuro ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_eek.gif)
-, disseram que me mandaram pra cadeia por enviar mensagens em mais de 100 grupos perguntandu porque eu naum tinha um coração no meu perfil. Qui cadeia? Naum entendi!!! ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_eek.gif)
+11/Novembru - A foto do meu perfil naum aparece lá, está tudo escuro <img src="http://www.mdig.com.br/imagens/smiles/icon_eek.gif" alt="Image Here">
+, disseram que me mandaram pra cadeia por enviar mensagens em mais de 100 grupos perguntandu porque eu naum tinha um coração no meu perfil. Qui cadeia? Naum entendi!!! <img src="http://www.mdig.com.br/imagens/smiles/icon_eek.gif" alt="Image Here">
 .
 
-12/Novembru - Luisão me vendeu um espaço no Amigos do MDig por R$150,00, estou preparando melhor meu avatar e assinatura e alguns pequenos textos. ![Image Here](http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif)
+12/Novembru - Luisão me vendeu um espaço no Amigos do MDig por R$150,00, estou preparando melhor meu avatar e assinatura e alguns pequenos textos. <img src="http://www.mdig.com.br/imagens/smiles/icon_biggrin.gif" alt="Image Here">
  Luisão me nomeou moderador do Amigos pra assuntos de Internet. Agora vai!!!
 
 [Do MDig   xD](http://www.mdig.com.br/index.php?itemid=30)</p>

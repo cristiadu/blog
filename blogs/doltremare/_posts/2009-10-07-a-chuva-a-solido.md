@@ -2,7 +2,7 @@
 layout: poem
 title: A chuva, A solidão;
 date: "2009-10-07T14:50:00.001-07:00"
-author: Bruno  Vinícius
+author: Bruno Vinícius
 last_modified_at: "2010-04-05T21:06:37.253-07:00"
 align: center
 size: normal
@@ -13,7 +13,7 @@ categories:
   - "Bruno Vinícius"
 tags:
   - "imported"
-  - "Bruno  Vinícius"
+  - "Bruno Vinícius"
 ---
 
 Meus fantasmas dormem o sono mais leve neste dia chuvoso,

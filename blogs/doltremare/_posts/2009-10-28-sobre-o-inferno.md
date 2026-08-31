@@ -2,7 +2,7 @@
 layout: poem
 title: Sobre o Inferno
 date: "2009-10-28T14:56:00.000-07:00"
-author: Bruno  Vinícius
+author: Bruno Vinícius
 last_modified_at: "2010-04-05T21:07:22.503-07:00"
 align: center
 size: normal
@@ -13,7 +13,7 @@ categories:
   - "Bruno Vinícius"
 tags:
   - "imported"
-  - "Bruno  Vinícius"
+  - "Bruno Vinícius"
 ---
 
 Hoje sonhei com o inferno.

@@ -1,4 +1,8 @@
-# Poem Formatting Guide
+---
+layout: single
+title: "Poem Formatting Guide"
+published: false
+---
 
 This guide explains how to use the poem layout and formatting options for your blog posts.
 
