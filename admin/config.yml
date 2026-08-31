@@ -1,0 +1,129 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms@0.203.2/schema/sveltia-cms.json
+#
+# Content editor config, in Decap CMS format (https://decapcms.org/docs/jekyll/).
+# Served at https://blog.cristianofaustino.me/admin/ by the main Jekyll build.
+
+backend:
+  name: github
+  repo: cristiadu/blog
+  branch: main
+  squash_merges: true
+
+# Saving opens a pull request instead of committing to main; publishing merges it.
+publish_mode: editorial_workflow
+
+site_url: https://blog.cristianofaustino.me
+display_url: https://blog.cristianofaustino.me
+
+# Filenames follow the existing archive: ASCII only, accents stripped.
+slug:
+  encoding: ascii
+  clean_accents: true
+
+output:
+  omit_empty_optional_fields: true
+
+media_folder: assets/images
+public_folder: /assets/images
+
+collections:
+  - name: hub
+    label: Hub Posts
+    label_singular: Hub Post
+    description: Posts on the main hub at blog.cristianofaustino.me
+    folder: _posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sortable_fields: [date, title]
+    fields:
+      - { name: layout, widget: hidden, default: post }
+      - { name: title, label: Title, widget: string }
+      - { name: author, label: Author, widget: string, default: Cristiano Faustino }
+      - { name: date, label: Date, widget: datetime, format: "YYYY-MM-DD HH:mm:ss ZZ" }
+      - { name: tags, label: Tags, widget: list, required: false }
+      - { name: body, label: Body, widget: markdown, modes: [raw, rich_text] }
+
+  - name: coding
+    label: Coding Posts
+    label_singular: Coding Post
+    description: Posts on the coding blog at /coding
+    folder: blogs/coding/_posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    media_folder: /blogs/coding/assets/images
+    public_folder: /coding/assets/images
+    sortable_fields: [date, title]
+    fields:
+      - { name: layout, widget: hidden, default: post }
+      - { name: title, label: Title, widget: string }
+      - { name: date, label: Date, widget: datetime, format: "YYYY-MM-DD HH:mm:ss ZZ" }
+      - { name: blog, widget: hidden, default: coding }
+      # Raw only: these posts contain Liquid tags such as {% highlight %}.
+      - { name: body, label: Body, widget: markdown, modes: [raw] }
+
+  - name: doltremare_poems
+    label: Doltremare — Poems
+    label_singular: Poem
+    description: Poems on the creative writing blog at /doltremare
+    folder: blogs/doltremare/_posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    filter: { field: layout, value: poem }
+    media_folder: /blogs/doltremare/assets/images
+    public_folder: /doltremare/assets/images
+    sortable_fields: [date, title, author]
+    fields:
+      - { name: layout, widget: hidden, default: poem }
+      - { name: title, label: Title, widget: string }
+      - { name: date, label: Date, widget: datetime, format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { name: author, label: Author, widget: select, default: Cristiano Faustino,
+          options: [Cristiano Faustino, Jéssica Cristina, Nathália Santos, SeeSawLife,
+                    Monah, Menina Escritora, Bruno Vinícius] }
+      - { name: last_modified_at, label: Last modified, widget: datetime, required: false,
+          format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { name: align, label: Alignment, widget: select, default: center,
+          options: [center, left, right, justify] }
+      - { name: size, label: Font size, widget: select, default: normal,
+          options: [small, normal, large] }
+      - { name: spacing, label: Line spacing, widget: select, default: normal,
+          options: [compact, normal, spaced] }
+      - { name: categories, label: Categories, widget: list, required: false }
+      - { name: tags, label: Tags, widget: list, required: false }
+      # Raw only: poems rely on hand-written HTML (<pre>, <div class="poem">) and
+      # exact line breaks that the rich text editor would rewrite.
+      - { name: body, label: Poem, widget: markdown, modes: [raw] }
+
+  - name: doltremare_stories
+    label: Doltremare — Short Stories
+    label_singular: Short Story
+    description: Short stories on the creative writing blog at /doltremare
+    folder: blogs/doltremare/_posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    filter: { field: layout, value: short-story }
+    media_folder: /blogs/doltremare/assets/images
+    public_folder: /doltremare/assets/images
+    sortable_fields: [date, title]
+    fields:
+      - { name: layout, widget: hidden, default: short-story }
+      - { name: title, label: Title, widget: string }
+      - { name: subtitle, label: Subtitle, widget: string, required: false }
+      - { name: date, label: Date, widget: datetime, format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { name: author, label: Author, widget: select, default: Cristiano Faustino,
+          options: [Cristiano Faustino, Jéssica Cristina, Nathália Santos, SeeSawLife,
+                    Monah, Menina Escritora, Bruno Vinícius] }
+      - { name: font_size, label: Font size, widget: select, default: normal,
+          options: [small, normal, large] }
+      - { name: text_spacing, label: Text spacing, widget: select, default: normal,
+          options: [compact, normal, spaced] }
+      - { name: toc, label: Table of contents, widget: boolean, default: true }
+      - { name: toc_label, label: TOC heading, widget: string, required: false, default: Chapters }
+      - { name: toc_icon, label: TOC icon, widget: string, required: false }
+      - { name: toc_sticky, label: Sticky TOC, widget: boolean, default: true }
+      - { name: epigraph, label: Epigraph, widget: text, required: false }
+      - { name: epigraph_source, label: Epigraph source, widget: string, required: false }
+      - { name: author_note, label: Author's note, widget: text, required: false }
+      - { name: categories, label: Categories, widget: list, required: false }
+      - { name: tags, label: Tags, widget: list, required: false }
+      # Raw only: stories rely on hand-written dialogue markup (<div class="dialogue">).
+      - { name: body, label: Story, widget: markdown, modes: [raw] }

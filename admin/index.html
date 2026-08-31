@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>Cristiano's Box — Content Editor</title>
+  </head>
+  <body>
+    <!--
+      Sveltia CMS: a drop-in replacement for Decap CMS that reads the same admin/config.yml.
+      It is used instead of decap-cms because it can sign in with a GitHub personal access
+      token, so no OAuth proxy has to be hosted anywhere. See AGENTS.md.
+
+      Pinned to an exact version with an SRI hash because this page holds a GitHub token.
+      To upgrade, bump the version in both URLs below and recompute the hash:
+        curl -sSL "https://unpkg.com/@sveltia/cms@<version>/dist/sveltia-cms.js" \
+          | openssl dgst -sha384 -binary | openssl base64 -A
+    -->
+    <script
+      src="https://unpkg.com/@sveltia/cms@0.203.2/dist/sveltia-cms.js"
+      integrity="sha384-fue7kFAg94Qs3xB6zYD5VeYJyw99klOSaHkOuTXQg888TMyBgMN6PyO+TxyASS+S"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
