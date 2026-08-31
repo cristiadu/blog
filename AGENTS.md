@@ -93,10 +93,3 @@ An undeclared key can be dropped when the CMS rewrites an entry.
 
 Third-party actions are pinned to commit SHAs with the version in a trailing comment. Keep it
 that way when adding or bumping an action.
-
-## Known rough edges
-
-- `authors.yml` has no `Monah` entry, but 5 poems use `author: Monah`.
-- Two poems use `author: "Bruno  Vinícius"` (double space) instead of `Bruno Vinícius`.
-- `_posts/2020-07-07-overview-post.md` (hub) and `blogs/coding/_posts/2023-07-26-welcome-to-jekyll.md`
-  are still the theme/Jekyll sample posts.
