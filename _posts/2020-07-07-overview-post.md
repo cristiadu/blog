@@ -1,21 +1,30 @@
 ---
 layout: post
-title: "Theme Sample Post"
+title: Theme Sample Post
 author: Cristiano Faustino
-tags: [overview, moonwalk]
+date: 2026-08-31 11:38:00 -0700
+tags:
+  - overview
+  - moonwalk
 published: false
 ---
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+retet
+Lorem ipsum[^1] dolor sit amet, consectetur adipiscing eliretertrett. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
 
 # Sample heading 1
+
 ## Sample heading 2
+
 ### Sample heading 3
+
 #### Sample heading 4
+
 ##### Sample heading 5
+
 ###### Sample heading 6
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
+Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus li**bero, eu dignissim sem v**enenatis at. Etiam id nisl ut lorem gravida euismod.
 
 ## Lists
 
@@ -42,12 +51,13 @@ The following is a blockquote:
 
 Mauris viverra dictum ultricies[^3]. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **You can put some text inside the horizontal rule like so.**
 
----
+***
+
 {: data-content="hr with text"}
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **Or you can just have an clean horizontal rule.**
 
----
+***
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.
 
@@ -55,7 +65,7 @@ Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus 
 
 Now some code:
 
-```
+```plain
 const ultimateTruth = 'follow middlepath';
 console.log(ultimateTruth);
 ```
@@ -66,11 +76,11 @@ And here is some `inline code`!
 
 Now a table:
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables | Are | Cool |
+| --- | --- | --- |
+| col 3 is | right-aligned | $1600 |
+| col 2 is | centered | $12 |
+| zebra stripes | are neat | $1 |
 
 ## Images
 
@@ -78,7 +88,8 @@ Now a table:
 
 This is an image[^4]
 
----
+***
+
 {: data-content="footnotes"}
 
 [^1]: this is a footnote. You should reach here if you click on the corresponding superscript number.
