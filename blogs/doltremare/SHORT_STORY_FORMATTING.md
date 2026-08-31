@@ -1,4 +1,8 @@
-# Short Story Formatting Guide
+---
+layout: single
+title: "Short Story Formatting Guide"
+published: false
+---
 
 The `short-story` layout is designed for longer prose texts with chapter support and enhanced dialogue formatting.
 
