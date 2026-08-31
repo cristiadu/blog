@@ -7,7 +7,7 @@ description: My hub of multiple blogs of the most varied subjects.
 blog: home
 
 # Theme Settings
-remote_theme: abhinavs/moonwalk
+remote_theme: abhinavs/moonwalk@v0.3.0
 
 # Social
 github_username: cristiadu
@@ -23,6 +23,9 @@ exclude:
   - blogs/ # Ignore subblogs as they have their own build
   - Gemfile
   - Gemfile.lock
+  - Makefile
+  - README.md
+  - AGENTS.md
 sass:
   style: compressed
 
