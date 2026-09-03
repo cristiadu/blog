@@ -85,6 +85,13 @@ in that file has the command to recompute the hash on upgrade.
 Field definitions must cover **every** front matter key a collection's posts already use.
 An undeclared key can be dropped when the CMS rewrites an entry.
 
+`admin/preview.js` registers one preview template per collection so the preview pane renders the
+post with that blog's stylesheets and layout markup (site chrome — masthead, menus, footer,
+related posts — is left out). It hardcodes the stylesheet paths and wrapper classes taken from
+each blog's `_layouts`/`_includes`, so changing a layout's structure, or the CSS its `<head>`
+pulls in, means updating that file too. Liquid tags never render there: the CMS does not run
+Jekyll, so `{% highlight %}` and friends show up verbatim.
+
 ## CI/CD
 
 - `.github/workflows/ci.yaml` — runs `make all` on pull requests to `main`; also `workflow_call`.
