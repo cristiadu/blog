@@ -24,7 +24,7 @@ My own kin say I should consider just them
 
 Not Black, Not Men.
 
-Not samba in my vain.
+Not samba in my vein.
 
 <br/>
 But soy latino, no soy?
