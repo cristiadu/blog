@@ -21,14 +21,14 @@ Blackatino walking on the streets
 My own kin say I should consider just them
 Not Black, Not Men.
 Not samba in my vain.
-<br/>
+<br/><br/>
 But soy latino, no soy?
 Imigrante que sou, eu vou
 Brasileño, no, Brasileiro.
 Hispanico, no, Latino
 Sem Latino, eu sou negro.
 Don't say "Negro", racism!
-<br/>
+<br/><br/>
 Mesmo eu que sou nascido me chamando de negro e não preto.
 Me chamo agora de preto e não negro.
 Me chamo de afro-brazilian, not afro-american.
@@ -36,12 +36,12 @@ We tivemos a América colonizada duplamente.
 And here I am confused with identity.
 Identity that was shoved down my throat
 Identity that I hide, then show, then hide again.
-<br/>
+<br/><br/>
 Identidade que não sei dizer.
 Am I Latino or American?
 Sou negro ou brasileiro?
 Quem eu sou?
-<br/>
+<br/><br/>
 Sentir? I feel black.
 I feel the kinship, I feel my curly hair strands in my hand
 and the struggle to hydrate it everyday.
@@ -50,7 +50,7 @@ when screaming at the top of their lungs that they love it.
 so they can prove, "I am not the racist!".
 "It's so exquisite!" they say,
 as they stop me when I'm walking, when I'm talking.
-<br/>
+<br/><br/>
 And so I...
 Eu também sinto um calor acolhedor no meu peito
 cruzando um de minha cor que me vê, me reconhece.
@@ -58,7 +58,7 @@ Não como amigo, não como uma espécie.
 Mas como espelho, comunidade.
 Que entende: não temos as mesmas cartas na mão;
 meritocracia só existe pra gente branca.
-<br/>
+<br/><br/>
 Pero no sinto Latino!
 No siento como Argentino o Puerto Riqueño.
 All white people, all not my kin.
@@ -70,7 +70,7 @@ Pero soy Latino o no? Blackatino?
 Tú, argentino, me llamaste mono.
 You, USA american, called me Edward Scissorhands.
 Here I am Tio Sam, identity amends?
-<br/>
+<br/><br/>
 Eu sou Brasileiro, eu sou explosão.
 Sou tudo que você reclama depois de imigrar.
 Sou a vergonha que sente ao ver a gente dançar.
@@ -78,11 +78,11 @@ Mas não sou canadense ou americano
 Não sou a hegemonia da palavra Latino.
 A solidariedade sem reconhecimento das diferentes dores.
 A negritude se escondendo em "é só uma piada".
-<br/>
+<br/><br/>
 Eu sou afro-brasileiro, 
 E no "afro" sou acolhido em vários mundos.
 Mundos orgânicos, mundos de cultura em comum.
 Not the world fabled for us, by the same imperialistic place.
 That makes my art use this language with no flavor, no taste.
-<br/>
+<br/><br/>
 Also, Latino is not a race.
