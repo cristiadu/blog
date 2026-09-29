@@ -6,7 +6,7 @@ author: Cristiano Faustino
 last_modified_at: 2026-09-28T21:40:00-07:00
 align: justify
 size: normal
-spacing: normal
+spacing: spaced
 categories:
   - poetry
   - identity
