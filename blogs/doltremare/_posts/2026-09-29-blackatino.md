@@ -84,3 +84,5 @@ E no "afro" sou acolhido em vários mundos.
 Mundos orgânicos, mundos de cultura em comum.
 Not the world fabled for us, by the same imperialistic place.
 That makes my art use this language with no flavor, no taste.
+<br/>
+Also, Latino is not a race.
